@@ -1,0 +1,159 @@
+:root {
+    --purple: #8a2be2;
+    --dark-purple: #5a189a;
+    --black: #1e1e1e;
+    --white: #ffffff;
+    --gray: #2a2a2a;
+    --green: #4caf50;
+    --red: #f44336;
+}
+
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+body {
+    font-family: 'Inter', sans-serif;
+    background-color: #000;
+    color: var(--white);
+    min-height: 100vh;
+    padding: 20px;
+}
+
+.container {
+    max-width: 1200px;
+    margin: 0 auto;
+}
+
+.app-container {
+    background-color: var(--black);
+    border-radius: 20px;
+    padding: 30px;
+    box-shadow: 0 10px 30px rgba(0, 0, 0, 0.3);
+}
+
+h1, h2, h3 {
+    color: var(--purple);
+    margin-bottom: 20px;
+}
+
+button {
+    cursor: pointer;
+    transition: all 0.3s ease;
+    border: none;
+    outline: none;
+}
+
+.btn {
+    background-color: var(--purple);
+    color: var(--white);
+    padding: 12px 24px;
+    border-radius: 15px;
+    font-weight: 600;
+    font-size: 16px;
+}
+
+.btn:hover {
+    background-color: var(--dark-purple);
+}
+
+.btn-outline {
+    background-color: transparent;
+    border: 1px solid var(--purple);
+    color: var(--white);
+}
+
+.btn-outline:hover {
+    background-color: var(--purple);
+}
+
+.question-card {
+    background-color: var(--gray);
+    border-radius: 15px;
+    padding: 20px;
+    margin-bottom: 20px;
+    border: 1px solid var(--purple);
+}
+
+.option-btn {
+    background-color: var(--black);
+    color: var(--white);
+    padding: 10px 15px;
+    border-radius: 10px;
+    border: 1px solid var(--purple);
+    margin: 5px;
+    text-align: left;
+}
+
+.option-btn:hover {
+    background-color: var(--purple);
+}
+
+.option-btn.selected {
+    background-color: var(--purple);
+    border-color: var(--white);
+}
+
+.correct-answer {
+    border: 2px solid var(--green) !important;
+    position: relative;
+}
+
+.wrong-answer {
+    border: 2px solid var(--red) !important;
+}
+
+.feedback {
+    background-color: var(--dark-purple);
+    color: var(--white);
+    padding: 15px;
+    border-radius: 10px;
+    margin-top: 15px;
+    border-left: 4px solid var(--purple);
+}
+
+.semester-grid {
+    display: grid;
+    grid-template-columns: repeat(auto-fill, minmax(250px, 1fr));
+    gap: 15px;
+    margin-bottom: 30px;
+}
+
+.subject-grid {
+    display: grid;
+    grid-template-columns: repeat(auto-fill, minmax(300px, 1fr));
+    gap: 15px;
+}
+
+.correct-mark {
+    position: absolute;
+    top: -10px;
+    right: -10px;
+    background-color: var(--green);
+    color: white;
+    border-radius: 50%;
+    width: 25px;
+    height: 25px;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    font-size: 12px;
+}
+
+.result-card {
+    border-radius: 15px;
+    padding: 20px;
+    margin-bottom: 20px;
+}
+
+.correct {
+    border: 1px solid var(--green);
+    background-color: rgba(76, 175, 80, 0.1);
+}
+
+.incorrect {
+    border: 1px solid var(--red);
+    background-color: rgba(244, 67, 54, 0.1);
+}
