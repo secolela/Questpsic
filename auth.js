@@ -22,7 +22,7 @@ function renderLogin() {
                 <h1>Bem-vindo ao PsicoQuestion</h1>
                 <p>Acesse seus questionários de psicologia</p>
             </div>
-            <form id="login-form" class="auth-form">
+            <form id="login-form" class="auth-form" onsubmit="submitLogin()">
                 <div class="form-group">
                     <label for="login-email">E-mail</label>
                     <div class="input-with-icon">
@@ -62,19 +62,37 @@ function renderLogin() {
     `;
 
     // Configura eventos
-    document.getElementById('login-form').addEventListener('submit', handleLogin);
-    document.getElementById('go-to-register').addEventListener('click', renderRegister);
     document.getElementById('login-toggle-password').addEventListener('click', function() {
         togglePasswordVisibility('login-password', 'login-toggle-password');
     });
 
     // Preenche e-mail lembrado se existir
-    const rememberedUser = JSON.parse(localStorage.getItem('psicoquestion_rememberedUser'));
-    if (rememberedUser && rememberedUser.email) {
-        document.getElementById('login-email').value = rememberedUser.email;
+    const rememberedUser = localStorage.getItem('psicoquestion_rememberedUser');
+    if (rememberedUser) {
+        document.getElementById('login-email').value = rememberedUser;
         document.getElementById('remember-me').checked = true;
     }
 }
+
+function submitLogin() {
+    let email       = document.getElementById('login-email').value;
+    let password    = document.getElementById('login-password').value;
+    let verif = 0;
+
+    usuarios.forEach((usuario, index) => {
+        if((usuario.nome == email || usuario.email == email) && usuario.senha == password)
+        {
+            localStorage.setItem('psicoquestion_rememberedUser', email);
+            verif = 1;
+        }
+    })
+
+    if(verif == 1)
+    {
+        window.location = "/home.html";
+    }
+}
+
 renderLogin()
 // Restante do código auth.js permanece igual...
 // (mantenha todas as outras funções como estão)

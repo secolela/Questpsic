@@ -197,11 +197,5 @@ const questoesPsicologiaTransito = [
       ],
       correta: "Personalidade impulsiva, baixa autoestima e busca por adrenalina",
       justificativa: "Esses fatores podem levar a comportamentos imprudentes e arriscados."
-    },
-    {
-      pergunta: "Qual é o papel da psicologia do trânsito na reabilitação de motoristas infratores?",
-      alternativas: [
-        "Desenvolver programas de conscientização e mudança de comportamento",
-        "Aplicar multas e suspender a carteira de motorista",
-        "Ignorar os comportamentos de risco dos motoristas",
-    },]
+    }
+]
