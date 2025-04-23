@@ -113,7 +113,7 @@ function renderQuiz() {
         html += `
             <div class="question-card">
                 <p><strong>${index + 1}.</strong> ${question.pergunta}</p>
-                <div style="margin-top: 15px;">
+                <div class='group-options'>
         `;
 
         question.alternativas.forEach((option, optionIndex) => {
@@ -133,7 +133,8 @@ function renderQuiz() {
     });
 
     html += `
-        <div style="text-align: right; margin-top: 30px;">
+        <div class="btn-bottom">
+            <button class="btn" onclick="resetApp()">Voltar ao início</button>
             <button class="btn" onclick="submitAnswers()">Enviar respostas</button>
         </div>
     `;
@@ -215,53 +216,102 @@ function selectSubject(subject) {
     let fullQuestions;
     // Carrega as questões para a matéria selecionada
     if (subject === "Avaliação Psicológica")
+    {
         fullQuestions = questoesAvaliacaoPsicologica;
+    }
     else if(subject === "Bioestatística")
+    {
         fullQuestions = questoesBioestatistica;
+    }
     else if(subject === "Saúde Coletiva")
+    {
         fullQuestions = questoesSaudeColetivaPsicologia;
+    }
     else if(subject === "Teoria e Sistemas")
+    {
         fullQuestions = questoesTeoriaSistemasPsicologia;
+    }
     else if(subject === "Ciência e Profissão")
+    {
         fullQuestions = questoesCienciaProfissaoPsicologia;
+    }
     else if(subject === "Comportamento, Sociedade e Psicologia")
+    {
         fullQuestions = questoesComportamentoSociedadePsicologia;
+    }
     else if(subject === "Psicologia da Personalidade")
+    {
         fullQuestions = questoesPsicologiaPersonalidade;
+    }   
     else if(subject === "Neurofisiologia")
+    {
         fullQuestions = questoesNeurofisiologiaPsicologia;
+    }
     else if(subject === "Psicologia Social")
+    {
         fullQuestions = questoesPsicologiaSocial;
+    }
     else if(subject === "Fenômenos e Processos")
+    {
         fullQuestions = questoesFenomenosProcessosPsicologia;
+    }
     else if(subject === "Desenvolvimento Infantil")
+    {
         fullQuestions = questoesDesenvolvimentoInfantil;
+    }
     else if(subject === "Neuroanatomofisiologia")
+    {
         fullQuestions = questoesNeuroanatomofisiologia;
+    }
     else if(subject === "Neuropsicologia")
+    {
         fullQuestions = questoesNeuropsicologia;
+    }
     else if(subject === "Psicologia Experimental")
+    {
         fullQuestions = questoesPsicologiaExperimental;
+    }
     else if(subject === "Teorias Psicanalíticas")
+    {
         fullQuestions = questoesTeoriasPsicanaliticas;
+    }
     else if(subject === "Desenvolvimento Humano")
+    {
         fullQuestions = questoesDesenvolvimentoHumano;
+    }
     else if(subject === "Métodos e Técnicas da Pesquisa Psicológica")
+    {
         fullQuestions = questoesMetodosPesquisaPsicologica;
+    }
     else if(subject === "Fenomenologia")
+    {
         fullQuestions = questoesFenomenologiaPsicologia;
+    }
     else if(subject === "Ética e Psicologia")
+    {
         fullQuestions = questoesEticaPsicologia;
+    }
     else if(subject === "Psicologia do Trânsito")
+    {
         fullQuestions = questoesPsicologiaTransito;
+    }
     else if(subject === "Psicopatologia")
+    {
         fullQuestions = questoesPsicopatologia;
+    }
     else if(subject === "Entrevistas e Testes Projetivos")
+    {
         fullQuestions = questoesRorschach;
+    }
     else if(subject === "Intervenções Psicológicas em TEA e Pessoa com Deficiência")
+    {
         fullQuestions = questoesIntervencoesTEAdeficiencia;
+    }
     else if(subject === "Bases da Psicologia Positiva")
+    {
         fullQuestions = questoesPsicologiaPositiva;
+    }
+        
     else {
         // Gera questões fictícias para outras matérias
         fullQuestions = Array.from({ length: 10 }, (_, i) => ({
@@ -291,6 +341,17 @@ function selectSubject(subject) {
     state.answers = Array(state.questions.length).fill(null);
     state.currentView = 'quiz';
     render();
+}
+
+function addScript(path)
+{
+    const script = document.createElement('script');
+    script.src = 'outro-script.js'; // caminho do seu script
+    script.onload = () => {
+        console.log('Script carregado com sucesso!');
+    };
+
+    document.head.appendChild(script);
 }
 
 function selectAnswer(questionIndex, answer) {
