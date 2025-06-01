@@ -177,6 +177,14 @@ body {
     display: none;
 }
 
+.correct-answer {
+    border: 1px solid var(--green) !important;
+}
+
+.wrong-answer {
+    border: 1px solid var(--red) !important;
+}
+
 /* Estilos para o app principal */
 .app-container {
     padding: 20px;

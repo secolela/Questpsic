@@ -301,7 +301,7 @@ function selectSubject(subject) {
     }
     else if(subject === "Entrevistas e Testes Projetivos")
     {
-        fullQuestions = questoesRorschach;
+        fullQuestions = questoesEntrevistasTestesProjetivos;
     }
     else if(subject === "Intervenções Psicológicas em TEA e Pessoa com Deficiência")
     {
