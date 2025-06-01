@@ -384,9 +384,5 @@ const questoesIntervencoesTEAdeficiencia = [
     ],
     correta: "O ambiente imediato onde a pessoa interage diretamente (família, escola, vizinhança)",
     justificativa: "O microssistema é o nível mais íntimo e direto de interação no modelo de Bronfenbrenner."
-  },
-  {
-    pergunta: "Qual é o principal objetivo do Plano Terapêutico Singular (PTS) no atendimento a PCDs e pessoas com TEA?",
-    alternativas: [
-      "Aplicar um tratamento padronizado para todos os indivíduos",
-      "Desenvolver objetivos personalizados e estratégias específi
+  }
+]
