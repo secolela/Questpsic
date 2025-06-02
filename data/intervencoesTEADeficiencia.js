@@ -1231,8 +1231,7 @@ const questoesIntervencoesTEAdeficiencia = [
     ],
     correta: "Revisar as estratégias sem julgamentos, focando na melhoria contínua",
     justificativa: "A comunicação 'no-blame' visa um ambiente de colaboração e aprendizado, sem atribu"
-  }
-[
+  },
     {
         pergunta: "Qual era a visão predominante da deficiência no Modelo Médico (Século XIX - Meados do Século XX)?",
         alternativas: [
