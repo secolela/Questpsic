@@ -983,7 +983,7 @@ const questoesEntrevistasTestesProjetivos = [
     ],
     correta: "Indica uma possível fixação em fases anteriores do desenvolvimento, regressão, ou necessidade de atenção e cuidado materno.",
     justificativa: "A escolha de brinquedos de bebê por uma criança mais velha pode sinalizar uma regressão a fases anteriores, em busca de segurança e atenção."
-  }
+  },
 {
 pergunta: "Segundo Klein, como a criança expressa seus conteúdos psicológicos, além das palavras?",
 alternativas: [

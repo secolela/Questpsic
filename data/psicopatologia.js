@@ -1114,8 +1114,7 @@ const questoesPsicopatologia = [
     ],
     correta: "Seus pensamentos, sentimentos ou ações estão sendo manipulados ou controlados por forças externas.",
     justificativa: "O delírio de controle é a crença de que as próprias ações, pensamentos ou sentimentos são influenciados ou controlados por uma força externa."
-  }
-
+  },
   {
     pergunta: "Conforme uma das fontes, como a depressão geralmente se apresenta?",
     alternativas: [
