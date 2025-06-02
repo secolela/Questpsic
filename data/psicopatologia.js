@@ -1115,4 +1115,2458 @@ const questoesPsicopatologia = [
     correta: "Seus pensamentos, sentimentos ou ações estão sendo manipulados ou controlados por forças externas.",
     justificativa: "O delírio de controle é a crença de que as próprias ações, pensamentos ou sentimentos são influenciados ou controlados por uma força externa."
   }
+
+  {
+    pergunta: "Conforme uma das fontes, como a depressão geralmente se apresenta?",
+    alternativas: [
+      "Como um transtorno agudo e de curta duração",
+      "Como um transtorno crônico, recorrente e incapacitante",
+      "Como um transtorno auto-limitado que não requer intervenção",
+      "Como um transtorno exclusivamente relacionado a perdas elaboradas"
+    ],
+    correta: "Como um transtorno crônico, recorrente e incapacitante",
+    justificativa: "A fonte [1] descreve a depressão como um transtorno crônico, recorrente e incapacitante, que é agravada, geralmente, pela associação à ideação, tentativa e suicídio."
+  },
+  {
+    pergunta: "Em termos psiquiátricos, em qual categoria geral a depressão é classificada segundo uma das fontes?",
+    alternativas: [
+      "Transtorno Psicótico",
+      "Transtorno de Ansiedade",
+      "Transtorno de Cunho Afetivo ou de Humor",
+      "Transtorno de Personalidade"
+    ],
+    correta: "Transtorno de Cunho Afetivo ou de Humor",
+    justificativa: "A fonte [1] indica que a depressão geralmente está classificada como transtorno de cunho afetivo ou de humor."
+  },
+  {
+    pergunta: "Qual código da Classificação Internacional de Doenças (CID) corresponde à depressão, de acordo com uma das fontes?",
+    alternativas: [
+      "F20",
+      "F32",
+      "F60.2",
+      "F41"
+    ],
+    correta: "F32",
+    justificativa: "A fonte [1] informa que o CID corresponde ao F32, subdividido em F32.0 a F32.9."
+  },
+  {
+    pergunta: "De acordo com a CID-11, quais subclassificações de transtorno depressivo são mencionadas?",
+    alternativas: [
+      "Transtorno Depressivo Maior, Transtorno Depressivo Persistente, Transtorno Disfórico Pré-Menstrual",
+      "Transtorno Depressivo com episódio único, Transtorno Depressivo Recorrente, Transtorno Distímico",
+      "Depressão Leve, Moderada, Grave com sintomas psicóticos",
+      "Depressão Atípica, Depressão Sazonal, Ciclotimia"
+    ],
+    correta: "Transtorno Depressivo com episódio único, Transtorno Depressivo Recorrente, Transtorno Distímico",
+    justificativa: "Conforme a CID-11, existem critérios diagnósticos para Transtorno Depressivo com episódio único, Transtorno Depressivo Recorrente (pelo menos dois episódios, separados por alguns meses), e Transtorno Distímico (duração de dois anos ou mais) [2]."
+  },
+  {
+    pergunta: "Qual é a natureza das causas da depressão segundo as fontes?",
+    alternativas: [
+      "Exclusivamente biológica",
+      "Principalmente social",
+      "Essencialmente psicológica",
+      "Multifatorial: genética, psicológica e social"
+    ],
+    correta: "Multifatorial: genética, psicológica e social",
+    justificativa: "Assim como a esquizofrenia, a depressão tem causa multifatorial, incluindo fatores genéticos, psicológicos e sociais [2, 3]."
+  },
+  {
+    pergunta: "Qual gene é sugerido em estudos como parte dos fatores-chave para o surgimento da depressão, devido a uma mutação?",
+    alternativas: [
+      "gene BDNF",
+      "gene SLC6A4",
+      "gene OXTR",
+      "gene COMT"
+    ],
+    correta: "gene OXTR",
+    justificativa: "Estudos sugerem que devido a uma mutação no gene OXTR (receptor de oxitocina), com localização cromossomal 3p25, este torna-se parte dos fatores-chave para o surgimento da doença [2]."
+  },
+  {
+    pergunta: "Além dos fatores genéticos, psicológicos e sociais, quais outras condições são mencionadas como causas da depressão?",
+    alternativas: [
+      "Clima e geografia",
+      "Condições socioeconômicas, perdas não elaboradas e traumas psicológicos",
+      "Excesso de atividade física",
+      "Dieta inadequada"
+    ],
+    correta: "Condições socioeconômicas, perdas não elaboradas e traumas psicológicos",
+    justificativa: "As causas da depressão incluem condições socioeconômicas, perdas não elaboradas e traumas psicológicos [3]."
+  },
+  {
+    pergunta: "Em qual texto Freud utilizou o termo 'Melancolia' para se referir à Depressão, segundo uma das fontes?",
+    alternativas: [
+      "'A Interpretação dos Sonhos'",
+      "'Luto e Melancolia'",
+      "'Além do Princípio do Prazer'",
+      "'O Mal-Estar na Civilização'"
+    ],
+    correta: "'Luto e Melancolia'",
+    justificativa: "Em 1917, em “Luto e Melancolia”, Freud utilizou-se do termo “Melancolia” para falar da Depressão [3]."
+  },
+  {
+    pergunta: "Como o luto é caracterizado em uma das fontes?",
+    alternativas: [
+      "Uma reação patológica à perda",
+      "Uma reação normal a uma perda, sinal de saúde mental",
+      "Uma condição que exige imediata intervenção medicamentosa",
+      "Uma forma de negação do sofrimento"
+    ],
+    correta: "Uma reação normal a uma perda, sinal de saúde mental",
+    justificativa: "O Luto consiste em uma reação normal a uma perda. Sendo assim, experimentá-lo é sinal de saúde mental [4]."
+  },
+  {
+    pergunta: "Segundo as fontes sobre 'Luto e Melancolia', a qual tipo de perda o luto nem sempre deve ser associado?",
+    alternativas: [
+      "Perdas financeiras",
+      "Perdas de ideais",
+      "Perdas por morte",
+      "Perdas de objetos materiais"
+    ],
+    correta: "Perdas por morte",
+    justificativa: "Quando se fala em luto, nem sempre devemos associar à perdas por morte, mas também, perdas de ideais [4]."
+  },
+  {
+    pergunta: "No 'trabalho do luto', a que se referem as fontes?",
+    alternativas: [
+      "Ao processo de esquecer a perda",
+      "À evitação de lembranças dolorosas",
+      "Ao processo que a pessoa vivencia: constantes lembranças, revisitar fotos/lugares, choro e tristeza profunda",
+      "À busca rápida por novas relações para substituir a perda"
+    ],
+    correta: "Ao processo que a pessoa vivencia: constantes lembranças, revisitar fotos/lugares, choro e tristeza profunda",
+    justificativa: "Quando falamos do trabalho do luto, nos referimos ao processo que a pessoa vivencia: constante lembranças do objeto perdido, revisitar fotos, lugares, choro e tristeza profunda etc. [4]."
+  },
+  {
+    pergunta: "Qual a diferença entre o luto e a melancolia na perspectiva freudiana apresentada nas fontes, em relação ao 'mundo' e ao 'ego'?",
+    alternativas: [
+      "No luto, o ego fica pobre; na melancolia, o mundo fica pobre",
+      "No luto, o mundo fica rico; na melancolia, o ego fica rico",
+      "No luto, o mundo fica pobre e a pessoa sabe o que perdeu; na melancolia, o ego fica pobre e existem autorrecriminações",
+      "Tanto no luto quanto na melancolia, o mundo e o ego ficam ricos"
+    ],
+    correta: "No luto, o mundo fica pobre e a pessoa sabe o que perdeu; na melancolia, o ego fica pobre e existem autorrecriminações",
+    justificativa: "Enquanto que, no luto, o mundo fica pobre (“preto e branco”), e a pessoa sabe o que ela perdeu, na melancolia o ego fica pobre e existem autorrecriminações [5]."
+  },
+  {
+    pergunta: "Qual o significado da frase 'A sombra do objeto recai sobre o ego' no contexto da melancolia, segundo a fonte?",
+    alternativas: [
+      "A pessoa se sente iluminada pela memória do objeto perdido",
+      "A pessoa não consegue se libertar da lembrança do objeto",
+      "A pessoa internalizou a perda de tal forma que afeta sua própria imagem, perdendo a vontade de viver",
+      "A pessoa projeta a perda no mundo externo"
+    ],
+    correta: "A pessoa internalizou a perda de tal forma que afeta sua própria imagem, perdendo a vontade de viver",
+    justificativa: "Na melancolia, a sombra do objeto recai sobre o ego, ou seja, a pessoa não está possibilitada de ser iluminada pelo sol, perdendo a vontade de viver [5]."
+  },
+  {
+    pergunta: "Qual destes não é listado como um sinal clínico da depressão nas fontes?",
+    alternativas: [
+      "Anedonia",
+      "Distimia",
+      "Euforia irrefreável",
+      "Ideação suicida"
+    ],
+    correta: "Euforia irrefreável",
+    justificativa: "Os sinais clínicos da depressão listados são Anedonia, Distimia, Desregulação no apetite, sono e rotina sexual, Irritabilidade, agitação, Alterações cognitivas (atenção, memória...) e Ideação suicida [5, 6]. Euforia irrefreável (mania) é o oposto e não um sinal de depressão."
+  },
+  {
+    pergunta: "Quais são os tipos de intervenções mencionados para a depressão?",
+    alternativas: [
+      "Somente psicoterapia",
+      "Somente intervenção medicamentosa",
+      "Internação hospitalar compulsória",
+      "Medicamentosa e acompanhamento psicoterapêutico"
+    ],
+    correta: "Medicamentosa e acompanhamento psicoterapêutico",
+    justificativa: "As intervenções mencionadas para a depressão são Medicamentosa (listando alguns exemplos de medicamentos) e Acompanhamento psicoterapêutico [6]."
+  },
+  {
+    pergunta: "A esquizofrenia é caracterizada como um Transtorno Psicótico com prejuízos em diversas áreas. Qual destas áreas *NÃO* é mencionada?",
+    alternativas: [
+      "Percepção",
+      "Inteligência (QI)",
+      "Pensamento",
+      "Afeto"
+    ],
+    correta: "Inteligência (QI)",
+    justificativa: "A esquizofrenia é caracterizada como um Transtorno Psicótico (CID F20) que traz prejuízos na Percepção, Pensamento, Autoexperiência, Cognição, Volição, Afeto e Comportamento [7]."
+  },
+  {
+    pergunta: "Qual o código CID da Esquizofrenia, segundo as fontes?",
+    alternativas: [
+      "F32",
+      "F60.2",
+      "F20",
+      "F41"
+    ],
+    correta: "F20",
+    justificativa: "A esquizofrenia é caracterizada como um Transtorno Psicótico (CID F20) [7]."
+  },
+  {
+    pergunta: "Qual alteração no ciclo bioquímico é correlacionada com o estado psicótico na esquizofrenia, segundo a pauta biológica?",
+    alternativas: [
+      "Aumento de serotonina",
+      "Alterações no ciclo dopaminérgico (aumento de dopamina)",
+      "Diminuição de noradrenalina",
+      "Alterações no GABA"
+    ],
+    correta: "Alterações no ciclo dopaminérgico (aumento de dopamina)",
+    justificativa: "A questão, voltada para o biológico na esquizofrenia, se relaciona às alterações no ciclo dopaminérgico (correlação entre aumento de dopamina e estado psicótico) [7]."
+  },
+  {
+    pergunta: "Segundo as compreensões psicodinâmicas da esquizofrenia, qual conceito freudiano é de suma importância?",
+    alternativas: [
+      "Complexo de Édipo",
+      "Pulsão de Morte",
+      "Princípio do Prazer",
+      "Narcisismo"
+    ],
+    correta: "Narcisismo",
+    justificativa: "É de suma importância recorrermos à ideia de Narcisismo para Freud ao compreender a esquizofrenia psicodinamicamente [8]."
+  },
+  {
+    pergunta: "Na compreensão psicodinâmica da esquizofrenia, o que acontece com a libido investida na realidade externa após uma situação de grande impacto ou ameaça?",
+    alternativas: [
+      "É redirecionada para novos objetos externos",
+      "É recolhida inteiramente, formando um 'vazio' psíquico e a realidade é forcluída",
+      "Permanece investida nos objetos externos, mas de forma distorcida",
+      "É transformada em agressividade dirigida ao outro"
+    ],
+    correta: "É recolhida inteiramente, formando um 'vazio' psíquico e a realidade é forcluída",
+    justificativa: "Ao longo de suas relações, algo poderá remeter à incompletude... Nesse momento, a libido investida é recolhida inteiramente, porém, a realidade investida forma um “vazio” psíquico. A realidade é forcluída [8, 9]."
+  },
+  {
+    pergunta: "Os Sintomas Positivos da Esquizofrenia são caracterizados por:",
+    alternativas: [
+      "Diminuição de alguma função mental",
+      "Envolvimento de algum tipo de aumento em determinadas faculdades",
+      "Ausência de contato com a realidade",
+      "Embotamento afetivo"
+    ],
+    correta: "Envolvimento de algum tipo de aumento em determinadas faculdades",
+    justificativa: "Sintomas Positivos são aqueles que envolvem algum tipo de aumento em determinadas faculdades [9]."
+  },
+  {
+    pergunta: "Qual destes é um Sintoma Positivo da Esquizofrenia?",
+    alternativas: [
+      "Anedonia",
+      "Apatia",
+      "Delírios",
+      "Embotamento afetivo"
+    ],
+    correta: "Delírios",
+    justificativa: "Dentre os Sintomas Positivos da Esquizofrenia, temos: Delírios, Alucinações, Desagregação do pensamento [10]."
+  },
+  {
+    pergunta: "Os Sintomas Negativos da Esquizofrenia são caracterizados por:",
+    alternativas: [
+      "Aumento da atividade psicomotora",
+      "Percepções distorcidas da realidade",
+      "Diminuição de alguma função mental",
+      "Criação de novas palavras (Neologismos)"
+    ],
+    correta: "Diminuição de alguma função mental",
+    justificativa: "Sintomas Negativos são os que envolvem diminuição de alguma função mental [10]."
+  },
+  {
+    pergunta: "Qual destes é um Sintoma Negativo da Esquizofrenia?",
+    alternativas: [
+      "Alucinações",
+      "Desagregação do pensamento",
+      "Embotamento afetivo",
+      "Delírios"
+    ],
+    correta: "Embotamento afetivo",
+    justificativa: "Dentre os Sintomas Negativos da Esquizofrenia, temos: Embotamento afetivo, Anedonia, Apatia [10]."
+  },
+  {
+    pergunta: "Qual a característica geral que marca a esquizofrenia, segundo as fontes?",
+    alternativas: [
+      "Alterações de humor cíclicas",
+      "Padrão persistente de violação dos direitos dos outros",
+      "Cisão com a realidade",
+      "Medo excessivo de ser avaliado negativamente"
+    ],
+    correta: "Cisão com a realidade",
+    justificativa: "De maneira geral, a esquizofrenia é caracterizada pela presença da cisão com a realidade [10]."
+  },
+  {
+    pergunta: "Qual tipo de esquizofrenia tem como sintoma principal delírios persecutórios?",
+    alternativas: [
+      "Esquizofrenia Hebefrênica",
+      "Esquizofrenia Catatônica",
+      "Esquizofrenia Paranoide",
+      "Esquizofrenia Simples"
+    ],
+    correta: "Esquizofrenia Paranoide",
+    justificativa: "Na Esquizofrenia Paranoide, seu sintoma principal envolve delírios persecutórios [11]."
+  },
+  {
+    pergunta: "Qual tipo de esquizofrenia, embora grave, menos afeta a personalidade?",
+    alternativas: [
+      "Esquizofrenia Simples",
+      "Esquizofrenia Indiferenciada",
+      "Esquizofrenia Residual",
+      "Esquizofrenia Paranoide"
+    ],
+    correta: "Esquizofrenia Paranoide",
+    justificativa: "A Esquizofrenia Paranoide é o tipo que, embora seja grave, menos afeta a personalidade [12]."
+  },
+  {
+    pergunta: "Na Esquizofrenia Hebefrênica, qual é o sintoma principal e a idade comum de início dos surtos?",
+    alternativas: [
+      "Delírios persecutórios; na vida adulta",
+      "Estupor catatônico; em idade tardia",
+      "Embotamento afetivo; na infância",
+      "Desagregação do pensamento; com surtos iniciando cedo, geralmente por volta dos 18 anos"
+    ],
+    correta: "Desagregação do pensamento; com surtos iniciando cedo, geralmente por volta dos 18 anos",
+    justificativa: "Na Esquizofrenia Hebefrênica, o sintoma principal é a desagregação do pensamento. Os surtos iniciam logo cedo, geralmente por volta dos 18 anos [12]."
+  },
+  {
+    pergunta: "Qual a principal característica da Esquizofrenia Catatônica?",
+    alternativas: [
+      "Delírios de grandeza",
+      "Estupor catatônico e sintomas motores predominantes",
+      "Ausência de sintomas positivos",
+      "Oscilações de humor"
+    ],
+    correta: "Estupor catatônico e sintomas motores predominantes",
+    justificativa: "A principal característica da Esquizofrenia Catatônica é o estupor catatônico. Os sintomas motores são predominantes [12, 13]."
+  },
+  {
+    pergunta: "A Esquizofrenia Simples é considerada a mais grave por qual motivo principal?",
+    alternativas: [
+      "Pela intensidade dos delírios e alucinações",
+      "Pela presença de estupor catatônico persistente",
+      "Pela ausência dos sintomas positivos na maioria dos casos, cindindo com a realidade sem colocar nada no lugar",
+      "Pela ocorrência de surtos em idade muito precoce"
+    ],
+    correta: "Pela ausência dos sintomas positivos na maioria dos casos, cindindo com a realidade sem colocar nada no lugar",
+    justificativa: "A Esquizofrenia Simples, embora seja 'simples', é a mais grave... Sua gravidade reside no fato de o sujeito cindir com a realidade e não colocar nada no lugar (nenhuma alucinação ou delírio). Isso mostra que a sua marca principal é o embotamento afetivo [13]."
+  },
+  {
+    pergunta: "O diagnóstico da Esquizofrenia Residual é feito em idade mais tardia, quando os sintomas positivos já amenizaram. O que geralmente resta nesta fase?",
+    alternativas: [
+      "Apenas sintomas positivos intensos",
+      "Uma mistura de sintomas positivos e negativos em igual intensidade",
+      "Geralmente restam apenas os sintomas negativos",
+      "Nenhum sintoma residual"
+    ],
+    correta: "Geralmente restam apenas os sintomas negativos",
+    justificativa: "Seu diagnóstico [Esquizofrenia Residual] é feito em idade mais tardia, quando os sintomas positivos já amenizaram; Desta forma, na fase residual é esperado que os delírios e alucinações estejam controlados; Geralmente restam apenas os sintomas negativos [14]."
+  },
+  {
+    pergunta: "Quais são os principais tipos de intervenções para a esquizofrenia, segundo as fontes?",
+    alternativas: [
+      "Terapia de Eletrochoque e Hipnose",
+      "Somente intervenção medicamentosa com ansiolíticos",
+      "Medicamentosa (antipsicóticos) e Acompanhamento Psicoterápico",
+      "Psicoterapia em grupo e Terapia Ocupacional"
+    ],
+    correta: "Medicamentosa (antipsicóticos) e Acompanhamento Psicoterápico",
+    justificativa: "As intervenções para a esquizofrenia mencionadas são Medicamentosa (antipsicóticos, ex., quetiapina, Haloperidol e Risperidona) e Acompanhamento Psicoterápico [15]."
+  },
+  {
+    pergunta: "Um dos objetivos da psicoterapia em pacientes com esquizofrenia é restabelecer o contato com a realidade. Como isso é descrito nas fontes?",
+    alternativas: [
+      "Ignorando completamente os delírios e alucinações",
+      "Fazendo o paciente entender que suas experiências são falsas de forma direta e confrontativa",
+      "De modo que o paciente consiga reconhecer experiências reais e diferenciá-las do delírio ou alucinação",
+      "Reforçando a ideia de que o delírio é parte da sua identidade"
+    ],
+    correta: "De modo que o paciente consiga reconhecer experiências reais e diferenciá-las do delírio ou alucinação",
+    justificativa: "Restabelecer o contato com a realidade, de modo que o paciente consiga reconhecer experiências reais e diferenciá-las do delírio ou alucinação [15]."
+  },
+  {
+    pergunta: "Qual a importância do apoio da família (ou rede de apoio) no tratamento de pacientes com esquizofrenia?",
+    alternativas: [
+      "É secundário e não impacta o tratamento",
+      "É de extrema importância",
+      "Pode ser prejudicial se a família não entender a doença",
+      "É importante apenas na fase aguda"
+    ],
+    correta: "É de extrema importância",
+    justificativa: "O apoio da família (ou rede de apoio) é de extrema importância [16]."
+  },
+  {
+    pergunta: "Qual a classificação internacional de doenças (CID) para o Transtorno da Personalidade Antissocial (TPAS), também chamado às vezes de psicopatia?",
+    alternativas: [
+      "F20",
+      "F32",
+      "F60.2",
+      "F41"
+    ],
+    correta: "F60.2",
+    justificativa: "O Transtorno da Personalidade Antissocial (TPAS) possui a Classificação Internacional de Doenças F60.2, sendo chamado, às vezes, de psicopatia [17]."
+  },
+  {
+    pergunta: "Qual a característica principal do Transtorno da Personalidade Antissocial (TPAS)?",
+    alternativas: [
+      "Oscilações de humor extremas",
+      "Padrão persistente de violação dos direitos dos outros ou normas sociais",
+      "Medo irracional de germes",
+      "Dificuldade em formar laços afetivos profundos"
+    ],
+    correta: "Padrão persistente de violação dos direitos dos outros ou normas sociais",
+    justificativa: "Trata-se de um padrão persistente de violação dos direitos dos outros ou normas sociais [17]."
+  },
+  {
+    pergunta: "Quais são as causas do TPAS mencionadas na literatura, segundo as fontes?",
+    alternativas: [
+      "Exclusivamente fatores genéticos",
+      "Exclusivamente fatores sociais",
+      "Causas ambientais e biológicas",
+      "Traumas físicos na infância"
+    ],
+    correta: "Causas ambientais e biológicas",
+    justificativa: "Conforme a literatura, o comportamento antissocial pode ter causas ambientais e biológicas (APA, 2023) [18]."
+  },
+  {
+    pergunta: "Em qual área da psicanálise a Personalidade Antissocial pode ser fundamentada, segundo as fontes?",
+    alternativas: [
+      "Psicanálise de Freud sobre o Complexo de Édipo",
+      "Psicanálise lacaniana sobre o Nome do Pai",
+      "Psicanálise objetal de Winnicott (em Privação e Delinquência) ou na perspectiva Kleiniana",
+      "Psicanálise junguiana sobre os arquétipos"
+    ],
+    correta: "Psicanálise objetal de Winnicott (em Privação e Delinquência) ou na perspectiva Kleiniana",
+    justificativa: "A Personalidade Antissocial pode ser fundamentada na psicanálise objetal de Winnicott (1957), em Privação e Delinquência ou na perspectiva Kleiniana [18]."
+  },
+  {
+    pergunta: "De acordo com Winnicott, a manutenção de um ambiente pouco favorável ao desenvolvimento da criança pode favorecer reações à frustração que se traduzem em comportamentos antissociais como o roubo ou agressão. Quais são outras características socialmente desviantes que podem surgir?",
+    alternativas: [
+      "Excessiva empatia e cuidado com o outro",
+      "Excesso de planejamento e cautela",
+      "Em decorrência da privação de afeto e cuidados na infância",
+      "Alta sociabilidade e facilidade em formar vínculos"
+    ],
+    correta: "Em decorrência da privação de afeto e cuidados na infância",
+    justificativa: "São características socialmente desviantes que podem surgir em decorrência da privação de afeto e cuidados na infância [19]."
+  },
+  {
+    pergunta: "O conceito de Psicopatia surgiu na medicina legal ao notarem que sujeitos que cumpriam pena não apresentavam quais sinais clássicos psicopatológicos?",
+    alternativas: [
+      "Transtornos de humor e ansiedade",
+      "Delírios e alucinações",
+      "Alterações de memória e atenção",
+      "Problemas de linguagem e volição"
+    ],
+    correta: "Delírios e alucinações",
+    justificativa: "O conceito de Psicopatia surgiu na medicina legal, ao notarem que sujeitos que cumpriam pena não apresentavam os sinais clássicos psicopatológicos como alucinação e delírio [19]."
+  },
+  {
+    pergunta: "Quem estabeleceu o conceito de psicopatia em sua obra 'A Máscara da Sanidade' em 1941?",
+    alternativas: [
+      "Sigmund Freud",
+      "Donald Winnicott",
+      "Hervey Cleckley",
+      "Melanie Klein"
+    ],
+    correta: "Hervey Cleckley",
+    justificativa: "Em 1941 o conceito de psicopatia foi estabelecido por Cleckley, em sua obra “A Máscara da Sanidade” (CLECKEY, 1988) [19]."
+  },
+  {
+    pergunta: "Qual destas características foi listada por Cleckley como parte da psicopatia?",
+    alternativas: [
+      "Elevada capacidade de empatia",
+      "Presença de delírios e alucinações frequentes",
+      "Falta de remorso/vergonha",
+      "Alto nível de nervosismo e ansiedade"
+    ],
+    correta: "Falta de remorso/vergonha",
+    justificativa: "Dentre as características da psicopatia listadas por Cleckley estão: (f) Falta de remorso/vergonha [20]."
+  },
+  {
+    pergunta: "Qual é a principal distinção entre Sociopatia e Psicopatia no que diz respeito à sua origem e comportamento, segundo as fontes?",
+    alternativas: [
+      "Sociopatia tem ordem biológica acentuada, Psicopatia tem origem social",
+      "Sociopatas são mais calculistas, Psicopatas são mais impulsivos",
+      "Sociopatia tem aspectos sociais influentes na origem e tendem a ser mais reativos; Psicopatia tem ordem biológica acentuada, ausência de culpa/empatia e são mais calculistas",
+      "Sociopatas não buscam prazer, Psicopatas buscam prazer no sofrimento alheio"
+    ],
+    correta: "Sociopatia tem aspectos sociais influentes na origem e tendem a ser mais reativos; Psicopatia tem ordem biológica acentuada, ausência de culpa/empatia e são mais calculistas",
+    justificativa: "A Sociopatia implica no comportamento socialmente desviante, com aspectos sociais influentes na origem e tendem a ser mais reativos e impulsivos [21, 22]. A Psicopatia implica em características conflituosas de ordem afetiva e emocional, mas com grande potencial biológico, ausência de Culpa e empatia, e são mais calculistas e planejadores [21, 23]."
+  },
+  {
+    pergunta: "Como a afetividade se manifesta na psicopatia, conforme descrito nas fontes?",
+    alternativas: [
+      "Com elevada expressão emocional e empatia",
+      "Com profundo sofrimento e culpa",
+      "Com elevado vazio mental, afetividade paralisada, fuga pela atuação para evitar angústia e frieza nos atos",
+      "Com constante busca por contato social e aprovação"
+    ],
+    correta: "Com elevado vazio mental, afetividade paralisada, fuga pela atuação para evitar angústia e frieza nos atos",
+    justificativa: "A afetividade na Psicopatia se manifesta com elevado vazio mental, afetividade paralisada (angústia terrificante que deve ser evitada), fuga pela atuação (justificando ausência de conflito, sofrimento, culpa) e presença de frieza nos seus atos [22, 24]."
+  },
+  {
+    pergunta: "Qual a controversa na literatura sobre o tratamento de pessoas com TPAS?",
+    alternativas: [
+      "A facilidade em estabelecer vínculo terapêutico",
+      "O excesso de pacientes buscando tratamento",
+      "A efetividade do tratamento e o pessimismo de que tais pacientes não são tratáveis pela dificuldade de estabelecer vínculo",
+      "A falta de protocolos de tratamento"
+    ],
+    correta: "A efetividade do tratamento e o pessimismo de que tais pacientes não são tratáveis pela dificuldade de estabelecer vínculo",
+    justificativa: "Há controversas na literatura sobre a efetividade do tratamento de pessoas com TPAS. Existe o pessimismo que tais pacientes não são tratáveis, pois julgam a dificuldade de se estabelecer vínculo psicoterapêutico [23]."
+  },
+  {
+    pergunta: "Um desafio no tratamento de pacientes com TPAS é a tentativa de perverter o setting terapêutico. Qual é uma das modalidades de psicoterapia sugeridas para esses pacientes?",
+    alternativas: [
+      "Psicanálise intensiva no divã",
+      "Psicoterapia grupal",
+      "Terapia familiar",
+      "Terapia de exposição"
+    ],
+    correta: "Psicoterapia grupal",
+    justificativa: "Uma das modalidades de tratamento mencionadas é a psicoterapia grupal, visto que proporcionará um momento no qual os pacientes “coletivamente constituirão a própria norma, da qual individualmente desviam” [25]."
+  },
+  {
+    pergunta: "No tratamento do TPAS, trabalha-se o processo de mentalização. O que isso significa?",
+    alternativas: [
+      "A capacidade de focar em uma única tarefa por longos períodos",
+      "A capacidade de memorizar grandes quantidades de informação",
+      "A capacidade de refletir sobre os próprios sentimentos e sentimentos dos outros",
+      "A capacidade de ignorar os sentimentos alheios"
+    ],
+    correta: "A capacidade de refletir sobre os próprios sentimentos e sentimentos dos outros",
+    justificativa: "Trabalha-se o processo de mentalização, isto é, a capacidade de refletir sobre os próprios sentimentos e sentimentos dos outros, processo que possuem dificuldade [25]."
+  },
+  {
+    pergunta: "Qual a reação comum que ocorre no terapeuta ao atender psicopatas no setting, segundo as fontes?",
+    alternativas: [
+      "Empatia e compaixão excessivas",
+      "Entusiasmo e curiosidade",
+      "Medo atávico de ser a presa de um predador intraespécie",
+      "Sensação de tédio e indiferença"
+    ],
+    correta: "Medo atávico de ser a presa de um predador intraespécie",
+    justificativa: "A reação comum, que ocorre principalmente quando os psicopatas estão no setting, é o medo atávico de ser a presa de um predador intraespécie [26]."
+  },
+  {
+    pergunta: "O que é 'Sensação' e 'Percepção' no contexto da sensopercepção?",
+    alternativas: [
+      "Ambos são sinônimos de alucinação",
+      "Sensação é a decodificação do estímulo, Percepção é a captação do estímulo",
+      "Sensação é a captação de um estímulo; Percepção é a decodificação desse estímulo",
+      "Sensação é interna, Percepção é externa"
+    ],
+    correta: "Sensação é a captação de um estímulo; Percepção é a decodificação desse estímulo",
+    justificativa: "Quando falamos em sensação, nos referimos à captação de um estímulo; A percepção é a decodificação desse estímulo [27, 28]."
+  },
+  {
+    pergunta: "Qual o tipo de sensopercepção interna que se refere à sensação de movimento e posição do corpo no espaço?",
+    alternativas: [
+      "Cenestesia",
+      "Cinestesia",
+      "Hiperestesia",
+      "Anestesia"
+    ],
+    correta: "Cinestesia",
+    justificativa: "Sensopercepção interna Cinestesia: sensação de movimento, bem como a posição do corpo em relação ao espaço, proporcionada pela musculatura, ossos, etc. [27, 29]."
+  },
+  {
+    pergunta: "Qual alteração quantitativa da sensopercepção se caracteriza pelo aumento das sensações como um todo, comum em degustadores ou em estado de mania?",
+    alternativas: [
+      "Hipoestesia",
+      "Anestesia",
+      "Hiperestesia",
+      "Ilusão"
+    ],
+    correta: "Hiperestesia",
+    justificativa: "Hiperestesia: aumento das sensações como um todo. Comum em degustadores ou pessoas em estado de mania [29, 30]."
+  },
+  {
+    pergunta: "O que é uma 'Ilusão' como alteração qualitativa da sensopercepção?",
+    alternativas: [
+      "Percepção com ausência do objeto",
+      "Percepção distorcida ou falseada de um objeto",
+      "Ausência total de percepção",
+      "Percepção de um objeto gigante"
+    ],
+    correta: "Percepção distorcida ou falseada de um objeto",
+    justificativa: "Ilusão: percepção distorcida ou falseada de um objeto. Por exemplo, enxergar uma faca na mão da pessoa, quando na verdade é uma caneta [30, 31]."
+  },
+  {
+    pergunta: "O que é uma 'Alucinação' e qual sua relação com a crítica, segundo as fontes?",
+    alternativas: [
+      "Percepção distorcida de um objeto; quem sofre tem crítica sobre ela",
+      "Percepção com a ausência do objeto; quem sofre não possui críticas",
+      "Ausência de percepção; quem sofre tenta se livrar dela",
+      "Percepção de um objeto presente que se transforma; quem sofre critica a situação"
+    ],
+    correta: "Percepção com a ausência do objeto; quem sofre não possui críticas",
+    justificativa: "Alucinação: é a percepção com a ausência do objeto, ou seja, enxerga-se o que não existe. Quem sofre de alucinação não possui críticas. É comum em psicoses. (Não tente desmentí-los) [31, 32]."
+  },
+  {
+    pergunta: "Qual tipo de alucinação se caracteriza por perceber estímulos auditivos sem que estejam ocorrendo, como ouvir vozes?",
+    alternativas: [
+      "Alucinação Visual",
+      "Alucinação Tátil",
+      "Alucinação Olfativa",
+      "Alucinação Auditiva"
+    ],
+    correta: "Alucinação Auditiva",
+    justificativa: "Alucinação auditiva: o sujeito percebe estímulos auditivos sem, de fato, estarem ocorrendo (ouvir vozes) [32, 33]."
+  },
+  {
+    pergunta: "O que é a 'Alucinação Cenestésica'?",
+    alternativas: [
+      "Perceber objetos pequenos",
+      "Sentir algo tocando a si mesmo",
+      "Sentir sensações viscerais anormais ('Sensação de arame no coração', 'sinto um rato no meu cérebro')",
+      "Perceber um objeto em outro local que não o seu campo visual"
+    ],
+    correta: "Sentir sensações viscerais anormais ('Sensação de arame no coração', 'sinto um rato no meu cérebro')",
+    justificativa: "Alucinação cenestésica: sensações viscerais. “Sensação de arame no coração”. Ou, então, “sinto um rato no meu cérebro” [34, 35]."
+  },
+  {
+    pergunta: "Qual a diferença entre Pseudoalucinação e Alucinose?",
+    alternativas: [
+      "Na Pseudoalucinação não há crítica; na Alucinose há crítica",
+      "Na Pseudoalucinação a consciência sofre dano e a crítica é possível; na Alucinose há alucinação, mas o sujeito percebe que há algo estranho e critica a situação",
+      "Pseudoalucinação ocorre com ausência do objeto; Alucinose ocorre com presença do objeto",
+      "Pseudoalucinação é tátil; Alucinose é visual"
+    ],
+    correta: "Na Pseudoalucinação a consciência sofre dano e a crítica é possível; na Alucinose há alucinação, mas o sujeito percebe que há algo estranho e critica a situação",
+    justificativa: "Pseudoalucinação: Ocorre quando a consciência sofre algum dano... Aqui podemos criticar e, talvez, o sujeito... [34, 36]. Alucinose: o sujeito alucina, porém, percebe que há algo estranho. Ele mesmo critica a situação. Acha que é “coisa da cabeça” [36, 37]."
+  },
+  {
+    pergunta: "Qual a alteração da sensopercepção onde o sujeito vê a si mesmo?",
+    alternativas: [
+      "Alucinação Gulliveriana",
+      "Alucinação Negativa",
+      "Alucinação Autoscópica",
+      "Alucinose"
+    ],
+    correta: "Alucinação Autoscópica",
+    justificativa: "Alucinação autoscópica: o sujeito vê a si [37, 38]."
+  },
+  {
+    pergunta: "Qual a função psíquica considerada a mais complexa, pois só pode ser inferida através da expressão (linguagem verbal, não verbal, etc.)?",
+    alternativas: [
+      "Memória",
+      "Atenção",
+      "Pensamento",
+      "Afeto"
+    ],
+    correta: "Pensamento",
+    justificativa: "O pensamento consiste em nossa função psíquica mais complexa, pois ninguém pode ver o que o outro pensa a não ser através da expressão pela linguagem verbal, não verbal etc. [37]."
+  },
+  {
+    pergunta: "Qual a unidade funcional do pensamento, descrita como informação ou conhecimento?",
+    alternativas: [
+      "Raciocínio",
+      "Juízo",
+      "Associação Ideativa",
+      "Ideias"
+    ],
+    correta: "Ideias",
+    justificativa: "O pensamento possui partes funcionais: Ideias: é a unidade funcional do pensamento. É a informação ou conhecimento [39]."
+  },
+  {
+    pergunta: "O que é uma 'Ideia Delirante'?",
+    alternativas: [
+      "Uma ideia que permanece na consciência contra a vontade do sujeito",
+      "Uma ideia que o sujeito reconhece como absurda",
+      "Um erro patológico, pontual e circunscrito (Ex.: sujeito afirma ser Jesus)",
+      "Uma trama psíquica com começo, meio e fim"
+    ],
+    correta: "Um erro patológico, pontual e circunscrito (Ex.: sujeito afirma ser Jesus)",
+    justificativa: "Ideia delirante: é considerada um erro patológico. Ela é pontual e circunscrita. Ex.: um sujeito chamado João afirma, enfaticamente, que é Jesus. A ideia delirante é: “Eu sou Jesus” [40]."
+  },
+  {
+    pergunta: "Qual a característica principal da 'Ideia Obsessiva'?",
+    alternativas: [
+      "Ausência de crítica pelo sujeito",
+      "É um erro patológico sem base na realidade",
+      "Permanece na consciência contra a vontade do sujeito, que reconhece o absurdo da ideia e tenta se livrar dela",
+      "É uma ideia que só aparece durante o sono"
+    ],
+    correta: "Permanece na consciência contra a vontade do sujeito, que reconhece o absurdo da ideia e tenta se livrar dela",
+    justificativa: "Ideia Obsessiva: É uma ideia que mesmo contra a vontade do sujeito, permanece em sua consciência. Há a crítica aqui, pois o indivíduo tenta se livrar, e não consegue. Reconhece o absurdo da ideia recorrente e insistente. É muito comum em neurose obsessiva [40]."
+  },
+  {
+    pergunta: "Qual a patologia do Juízo que ocorre obrigatoriamente com a presença de deficiência intelectual?",
+    alternativas: [
+      "Juízo Falseado",
+      "Juízo Diminuído ou debilitado",
+      "Juízo Insuficiente",
+      "Juízo Crítico"
+    ],
+    correta: "Juízo Insuficiente",
+    justificativa: "Juízo Insuficiente: Ocorre, obrigatoriamente, com a presença de deficiência intelectual. É a incapacidade de formular um juízo [41]."
+  },
+  {
+    pergunta: "O que é 'Taquipsiquismo' nas patologias do curso do pensamento?",
+    alternativas: [
+      "Pensamento muito lento",
+      "Pensamento muito acelerado",
+      "Repetição de ideias monótonas",
+      "Interrupção brusca do pensamento"
+    ],
+    correta: "Pensamento muito acelerado",
+    justificativa: "Taquipsiquismo: É o pensamento muito acelerado, que pode aparecer em qualquer patologia. É comum em estado de mania, também [41]."
+  },
+  {
+    pergunta: "O que é 'Desagregação' no curso do pensamento, e onde é comum?",
+    alternativas: [
+      "Excesso de detalhe no pensamento; comum em quadros obsessivos",
+      "Repetição de ideias monótonas; comum em autismo",
+      "Perda da associação ideativa, ideias sem ordem lógica; comum em esquizofrênicos hebefrênicos",
+      "Interrupção brusca do pensamento; comum em epilepsia"
+    ],
+    correta: "Perda da associação ideativa, ideias sem ordem lógica; comum em esquizofrênicos hebefrênicos",
+    justificativa: "Desagregação: É a patologia mais grave de pensamento, presente em esquizofrênicos hebefrênicos, também. É a perda da associação ideativa, ou seja, as ideias não seguem uma ordem lógica [42]."
+  },
+  {
+    pergunta: "O que é um 'Delírio'?",
+    alternativas: [
+      "Uma ideia que permanece na consciência contra a vontade",
+      "Uma percepção sem objeto",
+      "Uma trama psíquica (história com começo, meio e fim) formada por ideias delirantes, com ausência de críticas",
+      "Um pensamento acelerado e desorganizado"
+    ],
+    correta: "Uma trama psíquica (história com começo, meio e fim) formada por ideias delirantes, com ausência de críticas",
+    justificativa: "Delírio: É uma trama psíquica (história com começo, meio e fim), podendo ser muito ou pouco elaborada. É formado por ideias delirantes, havendo então a ausência das críticas! [42]."
+  },
+  {
+    pergunta: "Qual a primeira fase do surgimento e evolução do delírio, segundo Klaus Konrad, caracterizada por humor delirante, clima ameaçador e perplexidade?",
+    alternativas: [
+      "Consolidação",
+      "Apofania",
+      "Trema",
+      "Fase Apocalíptica"
+    ],
+    correta: "Trema",
+    justificativa: "O Delírio dispõe, conforme Klaus Konrad (1992), de diferentes momentos sequenciais em seu surgimento... Trema: É o momento do humor delirante, com clima ameaçador, mal definido e difuso... É a perplexidade [43]."
+  },
+  {
+    pergunta: "Qual a fase do delírio em que ocorre a verdadeira revelação e a anástrofe (o mundo se volta contra o sujeito)?",
+    alternativas: [
+      "Trema",
+      "Apofania",
+      "Fase Apocalíptica",
+      "Consolidação"
+    ],
+    correta: "Apofania",
+    justificativa: "Apofania: Significa “tornar-se manifesto”. O acúmulo da tensão do sujeito se desdobra, propriamente, no delírio. É a verdadeira revelação... Ocorre a anástrofe: o mundo se volta... [43, 44]."
+  },
+  {
+    pergunta: "Qual a fase do delírio em que ocorre a estabilização e o delírio se cristaliza?",
+    alternativas: [
+      "Trema",
+      "Apofania",
+      "Fase Apocalíptica",
+      "Consolidação"
+    ],
+    correta: "Consolidação",
+    justificativa: "Consolidação: Após idas e vindas na desorganização e reorganização, ocorre a estabilização. O delírio se cristaliza e o sujeito desenvolve a elaboração intelectual em torno dele [44, 45]."
+  },
+  {
+    pergunta: "Qual o tema associado ao Delírio Megalomaníaco?",
+    alternativas: [
+      "Perseguição",
+      "Corpo e doenças",
+      "Temas sensuais e sexuais",
+      "Grandeza (Ex: 'Sou o mais poderoso do mundo')"
+    ],
+    correta: "Grandeza (Ex: 'Sou o mais poderoso do mundo')",
+    justificativa: "Temas associados aos delírios incluem Delírio megalomaníaco (o tema é grandeza): Sou o mais poderoso do mundo, etc...etc...) [46]."
+  },
+  {
+    pergunta: "Qual o tema associado ao Delírio Persecutório?",
+    alternativas: [
+      "Grandeza",
+      "Perseguição (Ex: 'O FBI está atrás de mim')",
+      "Temas religiosos ou místicos",
+      "Corpo e doenças"
+    ],
+    correta: "Perseguição (Ex: 'O FBI está atrás de mim')",
+    justificativa: "Temas associados aos delírios incluem Delírio Persecutório (Perseguição: O FBI está atrás de mim, etc...etc...) [46]."
+  },
+  {
+    pergunta: "O que é o 'Afeto' e quais seus polos?",
+    alternativas: [
+      "É a capacidade de focar a atenção; polos: interno e externo",
+      "É a ordenação lógica de ideias; polos: verdade e falsidade",
+      "É a captação de estímulos; polos: intensidade e qualidade",
+      "É a energia que impulsiona o psiquismo; polos: prazer e desprazer"
+    ],
+    correta: "É a energia que impulsiona o psiquismo; polos: prazer e desprazer",
+    justificativa: "O afeto consiste na energia que impulsiona todo nosso psiquismo, garantindo a sua existência... possuindo dois polos: o do prazer e o desprazer [47]."
+  },
+  {
+    pergunta: "Qual alteração quantitativa do afeto é a base afetiva de todo transtorno depressivo e é frequentemente associada à tristeza ou desânimo?",
+    alternativas: [
+      "Hipertimia",
+      "Hipotimia",
+      "Atimia",
+      "Apatia"
+    ],
+    correta: "Hipotimia",
+    justificativa: "Hipotimia: é a base afetiva de todo transtorno depressivo. É frequentemente associada à tristeza ou desânimo [48]."
+  },
+  {
+    pergunta: "O que é 'Apatia' e qual seu aspecto?",
+    alternativas: [
+      "Aumento do potencial afetivo, humor elevado; aspecto: euforia",
+      "Perda profunda de vivência afetiva, observável por mímica; aspecto: falta de contato com emoções",
+      "Diminuição da excitabilidade emotiva e afetiva, queixa por não sentir nem alegria nem tristeza; aspecto: motivacional",
+      "Ausência total de afeto; aspecto: coma"
+    ],
+    correta: "Diminuição da excitabilidade emotiva e afetiva, queixa por não sentir nem alegria nem tristeza; aspecto: motivacional",
+    justificativa: "Apatia: diminuição da excitabilidade emotiva e afetiva. Os pacientes se queixam por não sentir nem alegria e nem tristeza, nem raiva. É um estado de “tanto faz, tanto fez”. Tem um aspecto motivacional [48, 49]."
+  },
+  {
+    pergunta: "Qual a alteração qualitativa do afeto que se caracteriza por um estado de imensa tristeza e baixa autoestima, podendo levar a delírios em quadros graves?",
+    alternativas: [
+      "Mania",
+      "Distimia",
+      "Euforia simples",
+      "Depressão"
+    ],
+    correta: "Depressão",
+    justificativa: "Depressão: estado de imensa tristeza, tendo como característica primordial e essencial a baixa autoestima. Quadros graves levam ao delírio [49]."
+  },
+  {
+    pergunta: "O que a alteração 'Disforia' indica?",
+    alternativas: [
+      "Ausência de afeto",
+      "Humor elevado e exaltado",
+      "Distimia acompanhada de irritabilidade, amargura, desgosto ou agressividade",
+      "Criação de um sentimento novo"
+    ],
+    correta: "Distimia acompanhada de irritabilidade, amargura, desgosto ou agressividade",
+    justificativa: "A alteração Disforia indica a distimia acompanhada de irritabilidade, amargura, desgosto ou agressividade [50]."
+  },
+  {
+    pergunta: "Qual alteração qualitativa do afeto se caracteriza pela alegria irrefreável, podendo possuir agressividade e agitação?",
+    alternativas: [
+      "Euforia simples",
+      "Hipomania",
+      "Mania",
+      "Moria"
+    ],
+    correta: "Mania",
+    justificativa: "Mania: é a alegria irrefreável. O sujeito está pleno, podendo possuir (na maioria das vezes) agressividade aflorada e agitação motora e psíquica. Há psicose [50]."
+  },
+  {
+    pergunta: "O que é a 'Ciclotimia'?",
+    alternativas: [
+      "Ausência total de afeto",
+      "Mudança brusca de humor, de curta duração",
+      "Oscilação de estados afetivos (hipomania e depressão), sem motivos aparentes, precursora do Transtorno Bipolar tipo II",
+      "Alegria estúpida em pessoas com déficit intelectual"
+    ],
+    correta: "Oscilação de estados afetivos (hipomania e depressão), sem motivos aparentes, precursora do Transtorno Bipolar tipo II",
+    justificativa: "Ciclotimia: é a oscilação de estados afetivos, também sem motivos aparentes. É o precursor do Transtorno Bipolar tipo II, com curso irregular entre hipomania e depressão, mas sem atender o critério diagnóstico de ambos [51]."
+  },
+  {
+    pergunta: "O que é 'Neotimia'?",
+    alternativas: [
+      "Um sentimento de raiva intensa por motivos mínimos",
+      "A coexistência de sentimentos opostos em relação a um objeto",
+      "A incapacidade de conter os afetos",
+      "A criação de um sentimento NOVO, incomum ('Estou me sentindo morto', 'Sentimento de ser uma pedra')"
+    ],
+    correta: "A criação de um sentimento NOVO, incomum ('Estou me sentindo morto', 'Sentimento de ser uma pedra')",
+    justificativa: "Neotimia: consiste na criação de um sentimento NOVO. Realmente novo, como por exemplo: “Estou me sentindo morto; Sentimento de ser uma pedra...Sentimento de ser um poste” [52]."
+  },
+  {
+    pergunta: "Qual a relação entre Neotimia e Delírio, segundo as fontes?",
+    alternativas: [
+      "Neotimia é sinônimo de Delírio",
+      "Neotimia e Delírio são alterações independentes",
+      "É impossível desvincular a Neotimia do Delírio; toda Neotimia está com o Delírio, porém nem todo Delírio traz a Neotimia",
+      "Delírio é a causa da Neotimia"
+    ],
+    correta: "É impossível desvincular a Neotimia do Delírio; toda Neotimia está com o Delírio, porém nem todo Delírio traz a Neotimia",
+    justificativa: "Temos que deixar claro: é IMPOSSÍVEL DESVINCULAR A NEOTIMIA DO DELÍRIO. Logo, toda neotimia está com o delírio, porém nem todo delírio traz a neotimia [52]."
+  },
+  {
+    pergunta: "O que é 'Ambivalência Afetiva' e onde é típica?",
+    alternativas: [
+      "Mudança brusca de humor; típica da histeria",
+      "Diminuição da excitabilidade afetiva; típica da apatia",
+      "Coexistência de dois sentimentos opostos em relação a um objeto no mesmo momento e com mesma intensidade; típica da esquizofrenia",
+      "Ausência de prazer; típica da anedonia"
+    ],
+    correta: "Coexistência de dois sentimentos opostos em relação a um objeto no mesmo momento e com mesma intensidade; típica da esquizofrenia",
+    justificativa: "Ambivalência Afetiva: consiste quando dois sentimentos opostos com relação a um objeto aparecem no mesmo momento e com a mesma intensidade. É típico da esquizofrenia, onde o sujeito pode odiar e amar ao mesmo tempo (Inconscientemente) [53]."
+  },
+  {
+    pergunta: "O que é 'Anedonia'?",
+    alternativas: [
+      "Sentir prazer excessivo em atividades",
+      "Não ter prazer com as coisas que faz",
+      "Medo intenso de altura",
+      "Necessidade compulsiva de lavar as mãos"
+    ],
+    correta: "Não ter prazer com as coisas que faz",
+    justificativa: "Anedonia: consiste quando o sujeito não tem prazer com as coisas que faz. É bem circunscrita. Não é sinônimo de depressão e nem mania, mas pode aparecer no primeiro caso [53]."
+  },
+  {
+    pergunta: "O que é 'Taquilalia'?",
+    alternativas: [
+      "Falar muito lento",
+      "Falar em excesso",
+      "Falar muito rápido, geralmente associado à taquipsiquia",
+      "Não falar (mutismo)"
+    ],
+    correta: "Falar muito rápido, geralmente associado à taquipsiquia",
+    justificativa: "Taquilalia: é o falar muito rápido, geralmente associado à taquipsiquia [54]."
+  },
+  {
+    pergunta: "O que é 'Ecolalia' e onde é comum?",
+    alternativas: [
+      "Criação de palavras novas; comum em psicoses",
+      "Dificuldade de pronunciar palavras; comum após AVC",
+      "Repetição da própria fala ou da fala alheia; comum no autismo ou esquizofrenia",
+      "Falar sozinho em voz alta; comum em monólogos"
+    ],
+    correta: "Repetição da própria fala ou da fala alheia; comum no autismo ou esquizofrenia",
+    justificativa: "Ecolalia: repetição da própria fala ou da fala alheia. Comum no autismo ou esquizofrenia. É uma forma, pequena, de manter contato próximo da realidade [54, 55]."
+  },
+  {
+    pergunta: "Qual alteração da linguagem mímica se caracteriza pela expressão oposta ao que se sente, podendo em casos raros haver divisão do rosto?",
+    alternativas: [
+      "Hipermimia",
+      "Hipomimia",
+      "Amimia",
+      "Paramimia"
+    ],
+    correta: "Paramimia",
+    justificativa: "Paramimia: a expressão mímica é oposta ao que se sente. Em casos raros, muito raros, pode haver a divisão do rosto. Metade sorri e a outra, chora [56]."
+  },
+  {
+    pergunta: "O que é 'Conação' na Volição?",
+    alternativas: [
+      "A realização propriamente dita do ato",
+      "Atos que não dependem da vontade",
+      "Desde o nascimento da vontade até a decisão pelo ato",
+      "Atos instintivos filogenéticos"
+    ],
+    correta: "Desde o nascimento da vontade até a decisão pelo ato",
+    justificativa: "Os Atos Voluntários possuem dois momentos: Conação: desde o nascimento da vontade até a decisão pelo ato [57]."
+  },
+  {
+    pergunta: "Qual alteração quantitativa da Volição consiste no aumento da atividade como um todo, comum no estado de mania?",
+    alternativas: [
+      "Hipobulia",
+      "Abulia",
+      "Hiperbulia/Hiperatividade",
+      "Negativismo"
+    ],
+    correta: "Hiperbulia/Hiperatividade",
+    justificativa: "Hiperbulia/Hiperatividade: que consiste no aumento da atividade como um todo. O sujeito faz muitas coisas, tem muitos atos. É comum no estado de mania [57]."
+  },
+  {
+    pergunta: "Qual alteração qualitativa da Conação é um ato irrefreável que não passa por linguagem nem pensamento, sendo um 'curto circuito' com resultado no ato?",
+    alternativas: [
+      "Compulsão",
+      "Impulsão",
+      "Estereotipia (ato)",
+      "Maneirismo"
+    ],
+    correta: "Impulsão",
+    justificativa: "Impulsão: ato irrefreável, que não passa por linguagem e nem pensamento. É um curto circuito que não é bem elaborado e não passa por uma simbolização. Ela tem o ato como resultado [58]."
+  },
+  {
+    pergunta: "Qual alteração qualitativa da Conação tem o ato como resultado, é mais sofisticada que a impulsão, e se origina de um conflito (Desejo x Defesa = Conflito = Angústia) para evitar o desprazer?",
+    alternativas: [
+      "Impulsão",
+      "Compulsão",
+      "Frangofilia",
+      "Dipsomania"
+    ],
+    correta: "Compulsão",
+    justificativa: "Compulsão: também tem o ato como resultado, é mais sofisticada do que a impulsão, e seu potencial simbólico é maior. Se origina de um conflito (Desejo x Defesa = Conflito = Angústia). É uma das formas de o aparelho psíquico evitar o desprazer [58]."
+  },
+  {
+    pergunta: "O que é 'Ecopraxia' na execução dos atos?",
+    alternativas: [
+      "Repetição de atos monótonos",
+      "Oposição a qualquer solicitação de ato",
+      "Repetição do ato alheio ('Imitar')",
+      "Aumento do tônus postural"
+    ],
+    correta: "Repetição do ato alheio ('Imitar')",
+    justificativa: "Ecopraxia: consiste na repetição do ato alheio. “Imitar”. É comum nos esquizofrênicos. A ecopraxia ou a ecolalia são sintomas bons... a pessoa ainda tem um vínculo libidinal que o mantém pelo menos um pouco em contato com a realidade externa [59]."
+  },
+  {
+    pergunta: "O que é 'Flexibilidade Cerácea'?",
+    alternativas: [
+      "Repetição de movimentos complexos",
+      "Aumento do tônus postural, parecendo um homem de cera, comum na esquizofrenia catatônica",
+      "Ato intermitente sem finalidade prática",
+      "Impulsão por quebrar objetos"
+    ],
+    correta: "Aumento do tônus postural, parecendo um homem de cera, comum na esquizofrenia catatônica",
+    justificativa: "Flexibilidade Cerácea: aumento do tônus postural, a ponto de parecer com um homem de cera. É comum da esquizofrenia catatônica [59]."
+  },
+  {
+    pergunta: "Qual alteração da execução se caracteriza por uma série de movimentos complexos (mais do que a estereotipia)?",
+    alternativas: [
+      "Estereotipia",
+      "Catalepsia",
+      "Tique",
+      "Maneirismo"
+    ],
+    correta: "Maneirismo",
+    justificativa: "Maneirismo: é uma série de movimentos complexos (bem mais do que a estereotipia, que não é complexa) [60]."
+  },
+  {
+    pergunta: "O que é 'Frangofilia'?",
+    alternativas: [
+      "Desejo sexual por cadáveres",
+      "Impulsão relativa ao consumo de álcool",
+      "Impulsão por quebrar objetos",
+      "Busca de prazer com uso de excrementos"
+    ],
+    correta: "Impulsão por quebrar objetos",
+    justificativa: "Frangofilia: impulsão por quebrar objetos. Comum em psicoses, borderline e sociopatia, em casos de excitação agressiva [61]."
+  },
+  {
+    pergunta: "Quais são os processos psicológicos básicos referidos como Funções Psíquicas?",
+    alternativas: [
+      "Somente Sensopercepção e Pensamento",
+      "Orientação, Atenção, Memória, Consciência, Sensopercepção, Pensamento, Afeto, Linguagem, Vontade (ato)",
+      "Exclusivamente as alterações de humor e pensamento",
+      "Apenas os sintomas positivos e negativos da esquizofrenia"
+    ],
+    correta: "Orientação, Atenção, Memória, Consciência, Sensopercepção, Pensamento, Afeto, Linguagem, Vontade (ato)",
+    justificativa: "Quando nos referimos às funções psíquicas, queremos dizer sobre nossos processos psicológicos básicos. São eles: Orientação, Atenção, Memória, Consciência, Sensopercepção, Pensamento, Afeto, Linguagem, Vontade (ato) [62]."
+  },
+  {
+    pergunta: "O que diz respeito à 'Orientação Autopsíquica'?",
+    alternativas: [
+      "A relação do sujeito com o mundo (onde está, em que ano)",
+      "O conhecimento do sujeito sobre sua idade, quem é, nome, profissão etc.",
+      "A capacidade de focar em estímulos",
+      "A capacidade de registrar e evocar memórias"
+    ],
+    correta: "O conhecimento do sujeito sobre sua idade, quem é, nome, profissão etc.",
+    justificativa: "A orientação autopsíquica diz respeito ao conhecimento do sujeito sobre: sua idade, quem é, nome, profissão etc. [62, 63]."
+  },
+  {
+    pergunta: "O que diz respeito à 'Orientação Alopsíquica'?",
+    alternativas: [
+      "O conhecimento do sujeito sobre si mesmo",
+      "A relação do sujeito com o mundo (onde está, em que ano está)",
+      "A capacidade de tomar decisões",
+      "A expressão dos afetos"
+    ],
+    correta: "A relação do sujeito com o mundo (onde está, em que ano está)",
+    justificativa: "Por sua vez, a orientação alopsíquica diz respeito à relação do sujeito com o mundo: onde está, em que ano está (espaço x tempo) [63]."
+  },
+  {
+    pergunta: "Qual a forma mais comum de desorientação, que ocorre devido à turvação da consciência?",
+    alternativas: [
+      "Desorientação delirante",
+      "Desorientação por déficit intelectual",
+      "Desorientação apática ou abúlica",
+      "Desorientação por redução do nível de consciência"
+    ],
+    correta: "Desorientação por redução do nível de consciência",
+    justificativa: "A alteração [de orientação] corresponde ao estado de desorientação, a qual pode ocorrer por: Redução do nível de consciência: ocorre devido à turvação da consciência... É a forma mais comum [63]."
+  },
+  {
+    pergunta: "A desorientação delirante é típica de estados psicóticos. O que acontece com o sujeito nessa desorientação?",
+    alternativas: [
+      "Ele se desinteressa pelo mundo externo",
+      "Ele acredita habitar o lugar de seus delírios ('estou no inferno, cercado de demônios')",
+      "Ele tem dificuldade em fixar novos conteúdos na memória",
+      "Ele não consegue interpretar convenções sociais"
+    ],
+    correta: "Ele acredita habitar o lugar de seus delírios ('estou no inferno, cercado de demônios')",
+    justificativa: "A desorientação delirante é típico de estados psicóticos. O sujeito acredita habitar o lugar de seus delírios (ex.: “estou no inferno, cercado de demônios”) [64]."
+  },
+  {
+    pergunta: "O que é 'Atenção' e o que ela possibilita?",
+    alternativas: [
+      "É a capacidade de registrar memórias; possibilita a evocação",
+      "É a ordenação lógica de ideias; possibilita o raciocínio",
+      "É a capacidade de focar em determinados estímulos em detrimento de outros; possibilita que um conteúdo fique presente na consciência",
+      "É a energia que impulsiona o psiquismo; possibilita a ação"
+    ],
+    correta: "É a capacidade de focar em determinados estímulos em detrimento de outros; possibilita que um conteúdo fique presente na consciência",
+    justificativa: "A atenção consiste em nossa capacidade de focar em determinados estímulos, em detrimento de outros... A atenção possibilita que um conteúdo fique presente em nossa consciência [64, 65]."
+  },
+  {
+    pergunta: "Qual alteração quantitativa da atenção se caracteriza pelo aumento significativo da capacidade atencional, comum em estados de mania?",
+    alternativas: [
+      "Hipoprosexia",
+      "Paraprosexia",
+      "Aprosexia",
+      "Hiperprosexia"
+    ],
+    correta: "Hiperprosexia",
+    justificativa: "Hiperprosexia: é o aumento significativo da capacidade atencional (tanto concentrada quanto alternada). É comum em estados de mania [65]."
+  },
+  {
+    pergunta: "O que é 'Paraprosexia'?",
+    alternativas: [
+      "Abolição total da atenção",
+      "Aumento excessivo da atenção voluntária e diminuição da atenção espontânea",
+      "Redução significativa da capacidade atencional",
+      "Atenção paradoxal, com aumento da atenção espontânea e queda da voluntária"
+    ],
+    correta: "Atenção paradoxal, com aumento da atenção espontânea e queda da voluntária",
+    justificativa: "Paraprosexia: é a atenção paradoxal. Ocorre o aumento da atenção espontânea e queda [da atenção voluntária] [66, 67]."
+  },
+  {
+    pergunta: "Como a 'Consciência' é descrita nas fontes?",
+    alternativas: [
+      "Apenas a capacidade de perceber estímulos externos",
+      "O palco de nossas funções psíquicas",
+      "A capacidade de formar juízos",
+      "A energia vital do organismo"
+    ],
+    correta: "O palco de nossas funções psíquicas",
+    justificativa: "A consciência é o palco de nossas funções psíquicas. Quer seja atenção, memória etc., todas elas ocorrem na consciência [67]."
+  },
+  {
+    pergunta: "Qual alteração quantitativa da consciência é a diminuição do grau de clareza do sujeito?",
+    alternativas: [
+      "Torpor",
+      "Coma",
+      "Obnubilação",
+      "Estado crepuscular"
+    ],
+    correta: "Obnubilação",
+    justificativa: "Obnubilação: consciência nublada. É a diminuição do grau de clareza do sujeito [68]."
+  },
+  {
+    pergunta: "O que é 'Estado Crepuscular'?",
+    alternativas: [
+      "Ausência total de consciência",
+      "Consciência nublada com pouca resposta a estímulos",
+      "Afunilamento da consciência com preservação dos atos motores ('Como fiz isso?')",
+      "Estado de sugestionabilidade"
+    ],
+    correta: "Afunilamento da consciência com preservação dos atos motores ('Como fiz isso?')",
+    justificativa: "Estado crepuscular: afunilamento da consciência, porém, com preservação dos atos motores. “Como fiz isso?”, “Como cheguei aqui?” [68]."
+  },
+  {
+    pergunta: "O que é 'Dissociação da Consciência' e onde é comum?",
+    alternativas: [
+      "Estado de sugestionabilidade; comum na histeria",
+      "Afunilamento da consciência; comum em psicoses tóxicas",
+      "Fenômeno de cisão/corte, perda da unidade do ego; comum em personalidades múltiplas",
+      "Oscilação entre estados de vigília e sono; comum em narcolepsia"
+    ],
+    correta: "Fenômeno de cisão/corte, perda da unidade do ego; comum em personalidades múltiplas",
+    justificativa: "Dissociação da Consciência: é o fenômeno de cisão/corte. Comum em personalidades múltiplas. É a perda da unidade do ego [69]."
+  },
+  {
+    pergunta: "Quais são as fases do processo de memorização?",
+    alternativas: [
+      "Codificação, Armazenamento, Recuperação",
+      "Sensação, Percepção, Interpretação",
+      "Conação, Execução, Deliberação",
+      "Registro, Conservação, Evocação"
+    ],
+    correta: "Registro, Conservação, Evocação",
+    justificativa: "As fases do processo de memorização são: Registro, Conservação, Evocação [70]."
+  },
+  {
+    pergunta: "O que é 'Hipermnésia' como alteração da memória?",
+    alternativas: [
+      "Diminuição da capacidade de memória",
+      "Abolição da capacidade mnêmica",
+      "Sensação de 'já visto'",
+      "O sujeito lembra de muitas coisas no quesito quantitativo, mas peca no qualitativo"
+    ],
+    correta: "O sujeito lembra de muitas coisas no quesito quantitativo, mas peca no qualitativo",
+    justificativa: "Hipermnésia: o sujeito lembra de muitas coisas no quesito quantitativo, porém peca no aspecto qualitativo da memória [70]."
+  },
+  {
+    pergunta: "Qual tipo de amnésia se refere à incapacidade de lembrar informações já registradas?",
+    alternativas: [
+      "Amnésia anterógrada",
+      "Amnésia lacunar",
+      "Amnésia retrógrada/de evocação",
+      "Amnésia retroanterógrada"
+    ],
+    correta: "Amnésia retrógrada/de evocação",
+    justificativa: "Amnésia retrógrada/de evocação: o sujeito não consegue lembrar das informações [70]."
+  },
+  {
+    pergunta: "Qual tipo de amnésia se refere à incapacidade de fixar novas informações?",
+    alternativas: [
+      "Amnésia retrógrada",
+      "Amnésia anterógrada",
+      "Amnésia lacunar",
+      "Amnésia retroanterógrada"
+    ],
+    correta: "Amnésia anterógrada",
+    justificativa: "Amnésia anterógrada: o indivíduo não consegue fixar algo [71]."
+  },
+  {
+    pergunta: "O que é 'Déjà-vu'?",
+    alternativas: [
+      "Uma recordação de eventos passados condensada",
+      "Uma memória que perde a natureza do passado",
+      "A sensação do 'já visto', impressão de ter vivenciado uma situação nova, geralmente seguida de angústia",
+      "A incapacidade de lembrar fatos passados"
+    ],
+    correta: "A sensação do 'já visto', impressão de ter vivenciado uma situação nova, geralmente seguida de angústia",
+    justificativa: "Déjà-vu: é a sensação do “já visto”. Impressão que temos de ter vivenciado uma situação, mesmo sendo nova. Geralmente é seguida de angústia [71]."
+  },
+  {
+    pergunta: "O que é 'Criptomnésia'?",
+    alternativas: [
+      "Recordação condensada de eventos passados",
+      "A memória que perde a natureza do passado (Ex: falar que inventou frase que já existe), comum em Alzheimer",
+      "A sensação de 'já visto'",
+      "Incapacidade de fixar novas memórias"
+    ],
+    correta: "A memória que perde a natureza do passado (Ex: falar que inventou frase que já existe), comum em Alzheimer",
+    justificativa: "Criptomnésia: “oculto”. A memória perde a natureza do passado. Por exemplo, o sujeito pode chegar com uma frase que já existe, mas falar que foi ele mesmo que inventou. É comum em Alzheimer [28]."
+  },
+  {
+    pergunta: "A esquizofrenia pode ter compreensões psicodinâmicas baseadas na ideia de Narcisismo de Freud. O narcisismo primário no bebê promove qual tipo de Ego?",
+    alternativas: [
+      "Ego frágil",
+      "Ego megalômano (Majestade “O Bebê”)",
+      "Ego empobrecido",
+      "Ego persecutório"
+    ],
+    correta: "Ego megalômano (Majestade “O Bebê”)",
+    justificativa: "Ao nascermos, temos um ego investido de libido (nossa e dos pais). É o narcisismo primário, que promove um Ego megalômano (Majestade “O Bebê”) [8]."
+  },
+  {
+    pergunta: "No contexto psicodinâmico da esquizofrenia, o 'vazio' psíquico que dá espaço para alucinações e delírios é formado por qual mecanismo?",
+    alternativas: [
+      "Repressão",
+      "Projeção",
+      "Forclusão da realidade investida após recolhimento da libido",
+      "Sublimação"
+    ],
+    correta: "Forclusão da realidade investida após recolhimento da libido",
+    justificativa: "Nesse momento [de grande impacto], a libido investida é recolhida inteiramente, porém, a realidade investida forma um “vazio” psíquico. A realidade é forcluída. Esse vazio dá espaços para alucinações e delírios [9]."
+  },
+  {
+    pergunta: "Qual tipo de esquizofrenia tem seu surto comum ao longo da vida adulta e sua principal característica é o estupor catatônico?",
+    alternativas: [
+      "Esquizofrenia Paranoide",
+      "Esquizofrenia Hebefrênica",
+      "Esquizofrenia Catatônica",
+      "Esquizofrenia Simples"
+    ],
+    correta: "Esquizofrenia Catatônica",
+    justificativa: "Na Esquizofrenia Catatônica, sua principal característica é o estupor catatônico; Os sintomas motores são predominantes, e o surto pode ocorrer ao longo da vida adulta [12, 13]."
+  },
+  {
+    pergunta: "Na Esquizofrenia Simples, qual é a marca principal, além da ausência de sintomas positivos na maioria dos casos?",
+    alternativas: [
+      "Delírios persecutórios",
+      "Estupor catatônico",
+      "Embotamento afetivo",
+      "Desagregação do pensamento"
+    ],
+    correta: "Embotamento afetivo",
+    justificativa: "A sua marca principal [da Esquizofrenia Simples] é o embotamento afetivo [13]."
+  },
+  {
+    pergunta: "No tratamento psicoterápico da esquizofrenia, qual deve ser a atitude do terapeuta em relação à expressão dos afetos no encontro?",
+    alternativas: [
+      "Ignorar a expressão dos afetos",
+      "Monitorar ativamente a expressão dos afetos",
+      "Inibir a expressão dos afetos",
+      "Apenas observar passivamente"
+    ],
+    correta: "Monitorar ativamente a expressão dos afetos",
+    justificativa: "O terapeuta pode/deve ser: Ativo e monitorar a expressão dos afetos no encontro terapêutico [72]."
+  },
+  {
+    pergunta: "Qual tipo de interpretação é considerada um caso especial de atribuição de significado na psicoterapia da esquizofrenia, sendo mais útil quando se refere a sentimentos obviamente presentes?",
+    alternativas: [
+      "Interpretações baseadas no passado remoto",
+      "Interpretações focadas em sonhos",
+      "Interpretações focadas em sentimentos expressos na face do paciente",
+      "Interpretações simbólicas complexas"
+    ],
+    correta: "Interpretações focadas em sentimentos expressos na face do paciente",
+    justificativa: "O processo de interpretação é um caso especial de atribuição de significado. Sendo assim, as interpretações são mais úteis quando se referem a sentimentos que estão obviamente presentes (expressos na face do paciente) [73]."
+  },
+  {
+    pergunta: "As características do TPAS incluem a elevada reatividade e impulsividade. Como isso geralmente se reflete?",
+    alternativas: [
+      "Em alto planejamento de seus atos",
+      "Em direções imprudentes, por exemplo, ou baixo planejamento de seus atos",
+      "Em comportamento socialmente adequado",
+      "Em dificuldade em tomar decisões rápidas"
+    ],
+    correta: "Em direções imprudentes, por exemplo, ou baixo planejamento de seus atos",
+    justificativa: "Dentre as características do TPAS, encontram-se também a elevada reatividade e impulsividade, geralmente refletidas por direções imprudentes, por exemplo, ou baixo planejamento de seus atos [17]."
+  },
+  {
+    pergunta: "Segundo as fontes, o conceito de Sociopatia implica no comportamento socialmente desviante que é o foco de qual manual diagnóstico?",
+    alternativas: [
+      "CID-11",
+      "DSM (Manual Diagnóstico e Estatístico dos Transtornos Mentais)",
+      "APA Dictionary of Psychology",
+      "WHO Disability Assessment Schedule (WHODAS)"
+    ],
+    correta: "DSM (Manual Diagnóstico e Estatístico dos Transtornos Mentais)",
+    justificativa: "A Sociopatia implica no comportamento socialmente desviante, a qual é o foco do Manual Diagnóstico e Estatístico dos Transtornos Mentais – DSM [21]."
+  },
+  {
+    pergunta: "Na distinção entre Sociopatas e Psicopatas, quem tende a ser mais dissimulado, perigoso e com maior déficit no processamento emocional?",
+    alternativas: [
+      "Sociopatas",
+      "Psicopatas",
+      "Ambos em igual medida",
+      "Nenhum dos dois"
+    ],
+correta: "Psicopatas",
+justificativa: "Os Psicopatas são mais dissimulados e perigosos, escondendo seus reais propósitos. Possuem maior déficit no processamento emocional do que os sociopatas [24]."
+},
+{
+pergunta: "No tratamento de pacientes com TPAS, quais são as duas modalidades de psicoterapia mencionadas?",
+alternativas: [
+"Psicoterapia individual e Terapia familiar",
+"Terapia de grupo e Terapia ocupacional",
+"Psicoterapia individual e psicoterapia grupal",
+"Terapia comunitária e Psicanálise"
+],
+correta: "Psicoterapia individual e psicoterapia grupal",
+justificativa: "Uma das modalidades é a psicoterapia grupal [25]... Na psicoterapia individual, quer seja psicodinâmica ou cognitiva-comportamental, ou ainda, qualquer outra abordagem... [74]."
+},
+{
+pergunta: "No setting terapêutico com pacientes TPAS, o que o profissional corre o risco de enfrentar, especialmente na psicoterapia individual?",
+alternativas: [
+"Excesso de gratidão e reconhecimento",
+"Dificuldade em manter a atenção do paciente",
+"Cair nas malhas da sedução ou atuação do paciente",
+"Resistência total à fala"
+],
+correta: "Cair nas malhas da sedução ou atuação do paciente",
+justificativa: "Na psicoterapia individual... o profissional corre o risco de cair nas malhas da sedução ou atuação do paciente [74]."
+},
+{
+pergunta: "Quando um paciente TPAS faz comentários como 'Você é um(a) terapeuta diferente... Se tivesse o conhecido antes, minha vida seria melhor' ou 'Sinto que você realmente me entende', a serviço de que tais comentários existem?",
+alternativas: [
+"Expressão genuína de apreço",
+"Tentativa de manipular ou perverter a relação terapêutica",
+"Sinal de melhora significativa",
+"Manifestação de transferência positiva saudável"
+],
+correta: "Tentativa de manipular ou perverter a relação terapêutica",
+justificativa: "Comentários como 'Você é um(a) terapeuta diferente dos(as) outros que passei...Se tivesse o conhecido antes, minha vida seria melhor' ou 'Sinto que você realmente me entende' levam à investigação: A serviço de que tais comentários existem? [75]."
+},
+{
+pergunta: "No manejo da contratransferência com psicopatas, o que é requerido do terapeuta além de teoria e supervisão?",
+alternativas: [
+"Maior permissividade",
+"Intensificação do vínculo pessoal",
+"Distanciamento afetivo total",
+"Psicoterapia intensiva"
+],
+correta: "Psicoterapia intensiva",
+justificativa: "O manejo da contratransferência requer psicoterapia intensiva, além dos dois fatores que compõem a tríade: Teoria e Supervisão [26]."
+},
+{
+pergunta: "Qual a alteração da sensopercepção que se refere à queda das sensações como um todo, onde o sujeito tem dificuldade em captar e codificar uma informação?",
+alternativas: [
+"Hiperestesia",
+"Anestesia",
+"Hipoestesia",
+"Ilusão"
+],
+correta: "Hipoestesia",
+justificativa: "Hipoestesia: queda das sensações como um todo. O sujeito tem dificuldade em captar e codificar uma informação [29, 30]."
+},
+{
+pergunta: "Qual a alteração da sensopercepção que se refere à abolição da capacidade sensoperceptiva, ocorrendo, por exemplo, no coma?",
+alternativas: [
+"Hipoestesia",
+"Anestesia",
+"Hiperestesia",
+"Alucinose"
+],
+correta: "Anestesia",
+justificativa: "Anestesia: abolição da capacidade sensoperceptiva. Ou o sujeito está em [coma ou morte] [30, 31]."
+},
+{
+pergunta: "Alucinação Visual Extracampina é aquela onde o sujeito vê um objeto em qual localização?",
+alternativas: [
+"Dentro do seu próprio corpo",
+"Em outro local que não o seu campo visual",
+"Distorcidamente dentro do seu campo visual",
+"No campo visual de outra pessoa"
+],
+correta: "Em outro local que não o seu campo visual",
+justificativa: "Pode ocorrer, também, a alucinação visual extracampina (o sujeito vê um objeto, mas em outro local que não o seu) [32, 33]."
+},
+{
+pergunta: "Qual tipo de alucinação se refere à percepção de algum cheiro específico sem que o mesmo exista?",
+alternativas: [
+"Alucinação Tátil",
+"Alucinação Gustativa",
+"Alucinação Olfativa",
+"Alucinação Cinestésica"
+],
+correta: "Alucinação Olfativa",
+justificativa: "Alucinação olfativa: percepção de algum cheiro específico, sem que o mesmo exista. Geralmente ocorre junto da gustativa [33, 76]."
+},
+{
+pergunta: "O que é 'Alucinação Gulliveriana'?",
+alternativas: [
+"Perceber objetos pequenos",
+"Perceber objetos gigantes",
+"Sentir algo tocando a si mesmo",
+"Sentir sensações viscerais"
+],
+correta: "Perceber objetos gigantes",
+justificativa: "Alucinação Gulliveriana: perceber objetos gigantes [35, 76]."
+},
+{
+pergunta: "O que é 'Alucinação Negativa'?",
+alternativas: [
+"Percepção com ausência do objeto",
+"Percepção distorcida de um objeto",
+"Percepção de ausência de um objeto que se encontra no ambiente",
+"Alucinação que o sujeito critica"
+],
+correta: "Percepção de ausência de um objeto que se encontra no ambiente",
+justificativa: "Alucinação negativa: é a percepção de ausência de um objeto. Ou seja, o objeto se encontra no ambiente, mas o sujeito não o vê [34, 36]."
+},
+{
+pergunta: "Qual a capacidade de avaliar algo como verdade ou não, através da valoração e comparação?",
+alternativas: [
+"Ideias",
+"Associação Ideativa",
+"Juízo",
+"Raciocínio"
+],
+correta: "Juízo",
+justificativa: "O pensamento possui partes funcionais: Juízo: capacidade em avaliar algo como verdade ou não, através da valoração e comparação [39]."
+},
+{
+pergunta: "O que é 'Bradipsiquismo' nas patologias do curso do pensamento?",
+alternativas: [
+"Pensamento muito acelerado",
+"Repetição de uma ideia",
+"Interrupção brusca do pensamento",
+"Pensamento lento, vagaroso, percebido pela fala pastosa"
+],
+correta: "Pensamento lento, vagaroso, percebido pela fala pastosa",
+justificativa: "Bradipsiquismo: É o oposto do taquipsiquismo, ou seja, temos aqui uma pessoa que pensa de forma lenta e percebemos isso pela fala, [pastosa, lenta, vagarosa] [77]."
+},
+{
+pergunta: "O que é 'Interceptação do pensamento'?",
+alternativas: [
+"Excesso de detalhe no pensamento",
+"Perda da associação lógica de ideias",
+"Interrupção brusca do pensamento, gerando falha e vazio",
+"Pensamento muito rápido e desorganizado"
+],
+correta: "Interrupção brusca do pensamento, gerando falha e vazio",
+justificativa: "Interceptação do pensamento: o indivíduo parece ter sido tirado da tomada. É uma interrupção brusca do pensamento, gerando sua falha. Fica vazio [77]."
+},
+{
+pergunta: "O que é 'Prolixidade'?",
+alternativas: [
+"Repetição de ideias monótonas",
+"Excesso de detalhe no pensamento",
+"Perda da associação lógica de ideias",
+"Pensamento lento"
+],
+correta: "Excesso de detalhe no pensamento",
+justificativa: "Prolixidade: Excesso de detalhe no pensamento [42]."
+},
+{
+pergunta: "Qual a fase do delírio em que ocorre a primeira desorganização e o sujeito vivencia situações de ameaças psíquicas e perda da sensação de continuidade do mundo?",
+alternativas: [
+"Trema",
+"Apofania",
+"Fase Apocalíptica",
+"Consolidação"
+],
+correta: "Fase Apocalíptica",
+justificativa: "Após a revelação que o sujeito faz para si, ocorre a primeira desorganização; O sujeito vivencia situações de ameaças psíquicas, perda de sensação de continuidade do mundo; É como se o mundo interno fosse reestruturado [44]."
+},
+{
+pergunta: "Qual a fase final do processo delirante, onde o desgaste psíquico é evidente, com isolamento como forma de reestruturação?",
+alternativas: [
+"Trema",
+"Consolidação",
+"Fase de resíduo",
+"Apofania"
+],
+correta: "Fase de resíduo",
+justificativa: "É a fase final do processo delirante. O desgaste psíquico é evidente: não há a possibilidade de se relacionar calorosamente com o outro; Ocorre isolamento enquanto forma de se reestruturar [45]."
+},
+{
+pregunta: "Qual tipo de delírio é agudo, surge rápido (horas ou dias) e comumente associado a transtornos de consciência em psicoses tóxicas ou infecciosas?",
+alternativas: [
+"Delírios Crônicos",
+"Delírios Persecutórios",
+"Delírios Agudos",
+"Delírios Megalomaníacos"
+],
+correta: "Delírios Agudos",
+justificativa: "Delírios agudos: surgem de forma rápida, podendo desaparecer em pouco tempo (horas ou dias). Comumente associados a transtornos de consciência em psicoses tóxicas ou infecciosas ou demais condições médicas [45, 46]."
+},
+{
+pregunta: "Qual tema de delírio está associado a Deus, mas que se relaciona à vida do indivíduo, como 'Ele é algo [importante]'?",
+alternativas: [
+"Delírio Persecutório",
+"Delírio Megalomaníaco",
+"Delírio Religioso e Místico",
+"Delírio Hipocondríaco"
+],
+correta: "Delírio Religioso e Místico",
+justificativa: "Temas associados aos delírios incluem Delírio Religioso e Místico: Tema associado a Deus, etc, que são associados à vida do indivíduo. Ele é algo [importante] [46]."
+},
+{
+pregunta: "O que é o 'Embotamento Afetivo' e onde é comum?",
+alternativas: [
+"Diminuição da excitabilidade afetiva; comum na apatia",
+"Ausência da capacidade de expressar afeto; comum no coma",
+"Perda profunda de vivência afetiva, observável por mímica/postura/atitude; comum em esquizofrenias",
+"Estado de imensa tristeza; comum na depressão"
+],
+correta: "Perda profunda de vivência afetiva, observável por mímica/postura/atitude; comum em esquizofrenias",
+justificativa: "Embotamento afetivo: enquanto a apatia é algo subjetivo, o embotamento afetivo é a perda profunda de todo tipo de vivência afetiva, observável por meio da mímica, postura e atitude. É comum em esquizofrenias. Envolve a falta de contato com as próprias emoções [49]."
+},
+{
+pregunta: "O que é 'Labilidade Afetiva'?",
+alternativas: [
+"Criação de um sentimento novo",
+"Coexistência de sentimentos opostos",
+"Mudança brusca de humor, sem motivo aparente, de curta duração",
+"Incapacidade de conter os afetos"
+],
+correta: "Mudança brusca de humor, sem motivo aparente, de curta duração",
+justificativa: "Labilidade afetiva: é a mudança brusca de humor, sem motivo aparente, sendo de curta duração. Histéricos podem ser assim [52]."
+},
+{
+pregunta: "O que é 'Incontinência Afetiva' e a que dá lugar?",
+alternativas: [
+"Capacidade de conter os afetos; dá lugar à calma",
+"Incapacidade do sujeito em 'botar o pé no freio', conter afetos; dá lugar à impulsão (agressividade colocada ao ato)",
+"Diminuição da excitabilidade afetiva; dá lugar à apatia",
+"Mudança brusca de humor; dá lugar à disforia"
+],
+correta: "Incapacidade do sujeito em 'botar o pé no freio', conter afetos; dá lugar à impulsão (agressividade colocada ao ato)",
+justificativa: "Incontinência afetiva: seria a incapacidade do sujeito em “botar o pé no freio”, ou seja, conter seus afetos... A incontinência afetiva dá lugar para a impulsão – que é a agressividade colocada ao ato [78]."
+},
+{
+pregunta: "O que é 'Verborragia' na linguagem verbal?",
+alternativas: [
+"Falar muito rápido",
+"Falar muito lento",
+"Falar em excesso, independentemente da velocidade",
+"Repetição da fala alheia"
+],
+correta: "Falar em excesso, independentemente da velocidade",
+justificativa: "Verborragia: É o falar em excesso, independentemente da velocidade [54]."
+},
+{
+pregunta: "O que é 'Mutismo' e onde é comum?",
+alternativas: [
+"Falar sozinho em voz baixa; comum em solilóquio",
+"Repetição da fala alheia; comum em autismo",
+"Alteração de origem psicológica, o sujeito não fala; comum na histeria ou esquizofrenia",
+"Dificuldade para pronunciar palavras; comum após AVC"
+],
+correta: "Alteração de origem psicológica, o sujeito não fala; comum na histeria ou esquizofrenia",
+justificativa: "Mutismo: alteração de origem psicológica. O sujeito não fala. Comum na histeria ou esquizofrenia [54]."
+},
+{
+pregunta: "O que é 'Neologismo' e qual cuidado devemos ter ao identificá-lo?",
+alternativas: [
+"Repetição da fala alheia; cuidado com o contexto social",
+"Criação de palavras novas; cuidado com regionalismo ou questões culturais",
+"Dificuldade para pronunciar palavras; cuidado com a musculatura orofacial",
+"Falar sozinho em voz alta; cuidado com o ambiente"
+],
+correta: "Criação de palavras novas; cuidado com regionalismo ou questões culturais",
+justificativa: "Neologismo: criação de palavras novas. Devemos tomar cuidado com regionalismo ou questões culturais [55]."
+},
+{
+pregunta: "Qual a alteração da linguagem escrita caracterizada pela letra ilegível ou má organização dos espaços?",
+alternativas: [
+"Agrafia",
+"Disgrafia",
+"Alexia",
+"Dislexia"
+],
+correta: "Disgrafia",
+justificativa: "Disgrafia: alteração da escrita conforme o quadro (orgânico ou psíquico). É caracterizada pela letra ilegível ou má organização dos espaços [79]."
+},
+{
+pregunta: "Qual alteração da linguagem mímica se refere à diminuição da capacidade de expressão mímica, geralmente ligada ao embotamento afetivo ('Cara de paisagem')?",
+alternativas: [
+"Hipermimia",
+"Hipomimia",
+"Amimia",
+"Paramimia"
+],
+correta: "Hipomimia",
+justificativa: "Hipomimia: Diminuição da capacidade de expressão mímica. Geralmente se liga ao embotamento afetivo. “Cara de paisagem” [56]."
+},
+{
+pregunta: "Quais são os três tipos de atos definidos na Volição?",
+alternativas: [
+"Atos conscientes, inconscientes e pré-conscientes",
+"Atos reflexos, condicionados e operantes",
+"Atos instintivos, involuntários e voluntários",
+"Atos pensados, sentidos e atuados"
+],
+correta: "Atos instintivos, involuntários e voluntários",
+justificativa: "Existem três tipos de atos: Atos Instintivos... Os Atos involuntários... O terceiro e, nosso foco, consiste nos Atos voluntários [80]."
+},
+{
+pregunta: "O que é 'Hipobulia' na Volição?",
+alternativas: [
+"Aumento da atividade como um todo",
+"Ausência de atividade",
+"Diminuição da atividade como um todo",
+"Ato irrefreável"
+],
+correta: "Diminuição da atividade como um todo",
+justificativa: "Hipobulia: diminuição da atividade como um todo. Pode ocorrer na depressão [57]."
+},
+{
+pregunta: "O que é 'Abulia' na Volição?",
+alternativas: [
+"Aumento da atividade",
+"Diminuição da atividade",
+"Ausência de atividade, comum no [coma ou morte]",
+"Repetição de atos monótonos"
+],
+correta: "Ausência de atividade, comum no [coma ou morte]",
+justificativa: "Abulia: ausência de atividade. Comum no [coma ou morte] [57]."
+},
+{
+pregunta: "Qual a alteração da execução onde ocorre a interrupção de um ato, e que vem junto com a interceptação do pensamento?",
+alternativas: [
+"Estereotipia",
+"Negativismo",
+"Ecopraxia",
+"Interceptação cinética"
+],
+correta: "Interceptação cinética",
+justificativa: "Interceptação cinética: interrupção de um ato. Ocorre na esquizofrenia e, quando ocorre a interceptação cinética, vem junto a interceptação do pensamento, porém o oposto nem sempre é via de regras [81]."
+},
+{
+pregunta: "Qual alteração da execução se refere à oposição do indivíduo frente qualquer solicitação de ato?",
+alternativas: [
+"Negativismo",
+"Ecopraxia",
+"Flexibilidade Cerácea",
+"Catalepsia"
+],
+correta: "Negativismo",
+justificativa: "Negativismo: oposição do indivíduo frente qualquer solicitação de ato. Temos o negativismo passivo... e também o negativismo ativo [81]."
+},
+{
+pregunta: "O que é 'Catalepsia' na execução dos atos?",
+alternativas: [
+"Aumento do tônus postural, parecendo cera",
+"Aumento do tônus e redução da mobilidade, o sujeito enrijece, parece morto",
+"Repetição do ato alheio",
+"Repetição de atos monótonos sem finalidade prática"
+],
+correta: "Aumento do tônus e redução da mobilidade, o sujeito enrijece, parece morto",
+justificativa: "Catalepsia: apresenta também o aumento do tônus, porém com a redução da mobilidade. O sujeito enrijece. Fica rígido. Parece morto [60]."
+},
+{
+pregunta: "O que é 'Tique' na Volição?",
+alternativas: [
+"Série de movimentos complexos",
+"Impulsão para quebrar objetos",
+"Ato intermitente, sem finalidade prática, não monótono, comum em transtorno de Tourette",
+"Impulsão para consumir bebida alcoólica"
+],
+correta: "Ato intermitente, sem finalidade prática, não monótono, comum em transtorno de Tourette",
+justificativa: "Tique: ato intermitente, ou seja, aparece de vez em quando. Não dispõe de finalidade prática, mas não é monótono. Comum em transtorno de Tourette [60]."
+},
+{
+pregunta: "O que é 'Dipsomania'?",
+alternativas: [
+"Impulsão por quebrar objetos",
+"Desejo sexual excessivo",
+"Impulsão relativa ao consumo periódico de grandes quantidades de bebida alcoólica até ficar inconsciente",
+"Busca de prazer com uso de excrementos"
+],
+correta: "Impulsão relativa ao consumo periódico de grandes quantidades de bebida alcoólica até ficar inconsciente",
+justificativa: "Dipsomania: impulsão relativa ao consumo de bebida alcoólica. O sujeito, periodicamente, ingere grandes quantidades de álcool até ficar inconsciente [61]."
+},
+{
+pregunta: "Quais são as impulsões/compulsões sexuais mencionadas nas fontes?",
+alternativas: [
+"Anorexia e bulimia",
+"Cronoinversões do desejo sexual (pedofilia, gerontofilia), Zoofilia, Necrofilia (vampirismo), Coprofilia, Ninfomania e satiríase",
+"Cleptomania e piromania",
+"Transtorno Voyeurístico e Exibicionista"
+],
+correta: "Cronoinversões do desejo sexual (pedofilia, gerontofilia), Zoofilia, Necrofilia (vampirismo), Coprofilia, Ninfomania e satiríase",
+justificativa: "Impulsões e compulsões sexuais mencionadas incluem Cronoinversões do desejo sexual: pedofilia e gerontofilia; Zoofilia: desejo sexual dirigido a animais; Necrofilia (vampirismo): desejo sexual por cadáveres; Coprofilia: busca do prazer com uso de excrementos no ato sexual; Ninfomania e satiríase: aumento excessivo do desejo sexual [61, 82]."
+},
+{
+pregunta: "A 'Distração do Sábio' é um termo mencionado na psicopatologia da atenção. Como ela se caracteriza?",
+alternativas: [
+"Aumento da atenção espontânea e queda da voluntária",
+"Abolição total da atenção",
+"Aumento excessivo da atenção voluntária, com os demais estímulos 'deixados de lado' (oposto da paraprosexia)",
+"Redução significativa da capacidade atencional"
+],
+correta: "Aumento excessivo da atenção voluntária, com os demais estímulos 'deixados de lado' (oposto da paraprosexia)",
+justificativa: "Distração do Sábio: Aumento excessivo da atenção voluntária. Geralmente todos os estímulos restantes são “deixados de lado”... É o oposto da paraprosexia [66, 67]."
+},
+{
+pregunta: "O estado de consciência onde a pessoa é sugestionável, com atenção concentrada no hipnotizador, é chamado de:",
+alternativas: [
+"Estado Crepuscular",
+"Torpor",
+"Estado Hipnótico",
+"Dissociação da Consciência"
+],
+correta: "Estado Hipnótico",
+justificativa: "Estado Hipnótico: ocorre quando a pessoa é sugestionável, sendo um estado de consciência cuja a atenção se concentra no hipnotizador [68]."
+},
+{
+pregunta: "O que é 'Transe'?",
+alternativas: [
+"Afunilamento da consciência",
+"Dissociação da consciência que se parece com 'sonhar acordado', com diminuição dos atos voluntários e aumento de atividades motoras automáticas estereotipadas",
+"Estado de sugestionabilidade",
+"Perda da unidade do ego"
+],
+correta: "Dissociação da consciência que se parece com 'sonhar acordado', com diminuição dos atos voluntários e aumento de atividades motoras automáticas estereotipadas",
+justificativa: "Transe: dissociação da consciência que se parece com o “sonhar acordado”, porém com a diminuição dos atos voluntários e aumento das atividades motoras automáticas estereotipadas [69]."
+},
+{
+pregunta: "Qual tipo de amnésia é típica do estado crepuscular de consciência, onde ocorre a perda de algum fragmento de um acontecimento?",
+alternativas: [
+"Amnésia retrógrada",
+"Amnésia anterógrada",
+"Amnésia retroanterógrada",
+"Amnésia lacunar"
+],
+correta: "Amnésia lacunar",
+justificativa: "Amnésia lacunar: é típica do estado crepuscular de Cs. Ela, então, se instala a partir da operação de uma consciência. É quando ocorre a perda de algum fragmento de um acontecimento [71]."
+},
+{
+pregunta: "O que é 'Ecmnésia'?",
+alternativas: [
+"Sensação de 'já visto'",
+"Memória que perde a natureza do passado",
+"Recordação condensada de vários eventos passados, comum em EQM",
+"Incapacidade de lembrar e fixar experiências"
+],
+correta: "Recordação condensada de vários eventos passados, comum em EQM",
+justificativa: "Ecmnésia: recordação condensada de vários eventos passados. Comum em EQM [28]."
+},
+{
+pregunta: "A sensopercepção é considerada interna a nós, mas é separada em duas categorias. Quais são?",
+alternativas: [
+"Sensorial e Cognitiva",
+"Externa e Interna",
+"Aguda e Crônica",
+"Positiva e Negativa"
+],
+correta: "Externa e Interna",
+justificativa: "O fenômeno de sensopercepção é considerado interno a nós, mas os separamos em duas categorias: a sensopercepção externa e interna [27, 28]."
+},
+{
+pregunta: "Qual a alteração da sensopercepção tátil onde o sujeito acredita estar tocando o outro (ativo)?",
+alternativas: [
+"Alucinação Tátil Passiva",
+"Alucinação Tátil Ativa",
+"Alucinação Cinestésica",
+"Alucinação Cenestésica"
+],
+correta: "Alucinação Tátil Ativa",
+justificativa: "Alucinação tátil: sentir algo tocando a si mesmo [passivo] ou, então, estar tocando o outro (ativo) [33, 76]."
+},
+{
+pregunta: "O que é 'Alucinação Lilliputiana'?",
+alternativas: [
+"Perceber objetos gigantes",
+"Perceber objetos pequenos",
+"Sentir algo tocando a si mesmo",
+"Sentir sensações viscerais"
+],
+correta: "Perceber objetos pequenos",
+justificativa: "Alucinação Lilliputiana: perceber objetos pequenos [35, 76]."
+},
+{
+pregunta: "Em qual patologia do juízo a base é o delírio, sendo algo bem duvidoso?",
+alternativas: [
+"Juízo Insuficiente",
+"Juízo Falseado",
+"Juízo Diminuído",
+"Juízo Crítico"
+],
+correta: "Juízo Falseado",
+justificativa: "Juízo Falseado: É a base do delírio. Algo bem duvidoso [41]."
+},
+{
+pregunta: "Qual patologia do juízo ocorre quando o indivíduo perdeu, paulatinamente, a capacidade de formular um juízo, sendo decorrente das demências como Alzheimer?",
+alternativas: [
+"Juízo Insuficiente",
+"Juízo Falseado",
+"Juízo Diminuído ou debilitado",
+"Juízo Crítico"
+],
+correta: "Juízo Diminuído ou debilitado",
+justificativa: "Juízo Diminuído ou debilitado: O indivíduo perdeu, paulatinamente, a capacidade de formular um juízo. É decorrente das demências, como por exemplo, Alzheimer [41]."
+},
+{
+pregunta: "Qual alteração do curso do pensamento consiste em inserir uma ideia no meio do pensamento de forma que não influencie na lógica, mas aumenta o grau de bizarrice (Ex: excesso de 'né' ou 'tá')?",
+alternativas: [
+"Desagregação",
+"Prolixidade",
+"Interceptação",
+"Estereotipia (curso)"
+],
+correta: "Estereotipia (curso)",
+justificativa: "Estereotipia: Consiste quando inserimos uma ideia no meio do pensamento, mas de forma que tal ideia não influencie na lógica. O que muda é o grau de bizarrice. Em um caso, por exemplo, o excesso de “né” ou “tá” compreende em uma estereotipia [77]."
+},
+{
+pregunta: "Qual a alteração qualitativa do afeto que é a alteração básica do humor, tanto na inibição quanto na exaltação, podendo ser hipotímica (depressivo) ou hipertímica (expansível)?",
+alternativas: [
+"Depressão",
+"Mania",
+"Euforia simples",
+"Distimia (Afeto)"
+],
+correta: "Distimia (Afeto)",
+justificativa: "Distimia: alteração básica do humor tanto na inibição quanto na exaltação. (distimia hipertímica quando for humor expansível ou distimia hipotímica quando for humor depressivo) [50]."
+},
+{
+pregunta: "O que é 'Hipomania'?",
+alternativas: [
+"Alegria irrefreável com psicose",
+"Alegria estúpida em pessoas com déficit intelectual",
+"Quadro de alegria, agitação, excitação e aceleração psicomotora, porém não tão grave quanto a Mania",
+"Mudança brusca de humor"
+],
+correta: "Quadro de alegria, agitação, excitação e aceleração psicomotora, porém não tão grave quanto a Mania",
+justificativa: "Hipomania: é também um quadro de alegria, agitação, excitação e aceleração psicomotora, porém não tão grave quanto a [Mania] [51]."
+},
+{
+pregunta: "O que é 'Moria'?",
+alternativas: [
+"Oscilação de estados afetivos",
+"Alegria estúpida (humor pueril) em pessoas com déficit intelectual",
+"Irritabilidade excessiva",
+"Coexistência de sentimentos opostos"
+],
+correta: "Alegria estúpida (humor pueril) em pessoas com déficit intelectual",
+justificativa: "Moria: consiste na alegria estúpida (humor pueril), ocorrendo em pessoas com déficit intelectual (natureza orgânica) [51]."
+},
+{
+pregunta: "Qual alteração qualitativa do afeto representa exclusivamente a raiva, onde o indivíduo está MUITO irritado por coisas mínimas?",
+alternativas: [
+"Disforia",
+"Irritabilidade Afetiva",
+"Incontinência Afetiva",
+"Ambivalência Afetiva"
+],
+correta: "Irritabilidade Afetiva",
+justificativa: "Irritabilidade Afetiva: é aquele indivíduo que está MUITO irritado, por coisas mínimas. É uma alteração que representa, exclusivamente, a raiva [53]."
+},
+{
+pregunta: "O que é 'Bradilalia'?",
+alternativas: [
+"Falar muito rápido",
+"Falar em excesso",
+"Falar pastoso, lento, vagaroso, comum em embriagados e associada à Bradipsiquia",
+"Não falar (mutismo)"
+],
+correta: "Falar pastoso, lento, vagaroso, comum em embriagados e associada à Bradipsiquia",
+justificativa: "Bradilalia: é o falar pastoso, lento, vagaroso. Comum em embriagados. Associada à Bradipsiquia [54]."
+},
+{
+pregunta: "O que é 'Solilóquio'?",
+alternativas: [
+"Falar sozinho em voz alta",
+"Falar enquanto dorme",
+"Falar sozinho em voz baixa",
+"Falar com murmúrios inaudíveis"
+],
+correta: "Falar sozinho em voz baixa",
+justificativa: "Solilóquio: falar sozinho em voz baixa [55]."
+},
+{
+pregunta: "O que é 'Mussitação'?",
+alternativas: [
+"Falar sozinho em voz alta",
+"Falar enquanto dorme",
+"Falar sozinho em voz baixa",
+"Falar sozinho, porém com murmúrios, inaudíveis em termos de clareza, comum em psicoses"
+],
+correta: "Falar sozinho, porém com murmúrios, inaudíveis em termos de clareza, comum em psicoses",
+justificativa: "Mussitação: falar sozinho, porém com murmúrios, inaudíveis em termos de clareza. Comum em psicoses [55]."
+},
+{
+pregunta: "O que é 'Disartria' na linguagem verbal?",
+alternativas: [
+"Dificuldade na articulação silábica",
+"Criação de palavras novas",
+"Dificuldade para pronunciar palavras, envolvendo musculatura orofacial, com fonação alterada",
+"Falar muito rápido"
+],
+correta: "Dificuldade para pronunciar palavras, envolvendo musculatura orofacial, com fonação alterada",
+justificativa: "Disartria: dificuldade para pronunciar palavras, envolvendo musculatura orofacial. A fonação estará sempre alterada. Ou seja, os sons não saem de maneira inteligíveis [55]."
+},
+{
+pregunta: "O que é 'Agrafia'?",
+alternativas: [
+"Alteração da escrita (letra ilegível)",
+"Dificuldade na leitura",
+"Dificuldade para pronunciar palavras",
+"Ocorre em pessoas que sabem escrever, mas por causas orgânicas/psicológicas passam a desconhecer os símbolos"
+],
+correta: "Ocorre em pessoas que sabem escrever, mas por causas orgânicas/psicológicas passam a desconhecer os símbolos",
+justificativa: "Agrafia: ocorre em pessoas que sabem escrever, porém, por causas orgânicas ou psicológicas passam a desconhecer os símbolos [79]."
+},
+{
+pregunta: "Qual alteração da linguagem mímica se refere à ausência de expressão mímica, aparecendo no coma ou na morte?",
+alternativas: [
+"Hipermimia",
+"Hipomimia",
+"Amimia",
+"Paramimia"
+],
+correta: "Amimia",
+justificativa: "Amimia: ausência de expressão mímica. Aparece no coma ou na morte [56]."
+},
+{
+pregunta: "Qual alteração quantitativa da Volição se refere à ausência de atividade, comum no coma ou morte?",
+alternativas: [
+"Hiperbulia",
+"Hipobulia",
+"Abulia",
+"Impulsão"
+],
+correta: "Abulia",
+justificativa: "Abulia: ausência de atividade. Comum no [coma ou morte] [57]."
+},
+{
+pregunta: "Na psicoterapia de pacientes com TPAS, qual a importância de analisar/interpretar comentários sedutores como 'Você é um terapeuta diferente...'?",
+alternativas: [
+"Para reforçar o comportamento do paciente",
+"Para contestar imediatamente a veracidade da afirmação",
+"Para investigar a serviço de que tais comentários existem, optando pela neutralidade inicialmente",
+"Para concordar e estabelecer um vínculo forte"
+],
+correta: "Para investigar a serviço de que tais comentários existem, optando pela neutralidade inicialmente",
+justificativa: "Comentários como 'Você é um(a) terapeuta diferente...' levam à investigação: A serviço de que tais comentários existem? Para investigar, podemos optar pela neutralidade. Ex.: Percebo que você está tentando criar uma conexão diferente do que normalmente ocorre em terapia. Podemos explorar juntos o que isso significa para você [75]."
+},
+{
+pregunta: "Quando um paciente TPAS minimiza ou justifica seu comportamento antissocial ('Você descreve essa situação como se fosse um jogo, sem considerar o impacto real sobre a outra pessoa'), qual a abordagem sugerida para o terapeuta?",
+alternativas: [
+"Aceitar a perspectiva do paciente para não quebrar o vínculo",
+"Ignorar o comentário e mudar de assunto",
+"Intervir de forma interpretativa, pontuando o padrão e o impacto nas relações, podendo ser mais direto se necessário",
+"Referenciar a situação para um grupo terapêutico"
+],
+correta: "Intervir de forma interpretativa, pontuando o padrão e o impacto nas relações, podendo ser mais direto se necessário",
+justificativa: "Paciente relatou, sem qualquer remorso, ter explorado emocionalmente um colega... O psicólogo pode intervir de forma interpretativa, dizendo: 'Você descreve essa situação como se fosse um jogo...' Se o paciente continuar minimizando... o terapeuta pode ser ainda mais direto [83, 84]."
+},
+{
+pregunta: "No tratamento do TPAS, por que as contestações às negações ou atenuações do paciente sobre sua condição devem ser cautelosas?",
+alternativas: [
+"Para não aborrecer o paciente",
+"Porque o paciente pode interpretar como ataque (Objeto Persecutório em Klein), confirmando que só existem pessoas más, incluindo o terapeuta",
+"Porque o paciente não tem capacidade cognitiva para entender contestações",
+"Porque contestações são ineficazes no TPAS"
+],
+correta: "Porque o paciente pode interpretar como ataque (Objeto Persecutório em Klein), confirmando que só existem pessoas más, incluindo o terapeuta",
+justificativa: "As negações ou atenuações sobre a condição psicológica do paciente devem ser contestadas. No entanto, tais contestações devem ser cautelosas, pois... Há um ego frágil e, ainda, maus objetos introjetados; Contestações podem ser interpretadas como ataque (vide Objeto Persecutório em Klein), confirmando que no mundo só existem pessoas más, inclusive a/o terapeuta [84, 85]."
+},
+{
+pregunta: "Uma alteração qualitativa da sensopercepção é a Alucinose. O que a diferencia da Alucinação?",
+alternativas: [
+"Na Alucinose, o sujeito não tem crítica; na Alucinação, ele critica.",
+"Na Alucinose, o sujeito alucina, mas percebe que há algo estranho e critica a situação ('coisa da cabeça'); na Alucinação, o sujeito não possui críticas.",
+"A Alucinose ocorre com objeto presente; a Alucinação com ausência do objeto.",
+"A Alucinose é auditiva; a Alucinação é visual."
+],
+correta: "Na Alucinose, o sujeito alucina, mas percebe que há algo estranho e critica a situação ('coisa da cabeça'); na Alucinação, o sujeito não possui críticas.",
+justificativa: "Alucinose: o sujeito alucina, porém, percebe que há algo estranho. Ele mesmo critica a situação. Acha que é “coisa da cabeça” [36, 37]. Alucinação: é a percepção com a ausência do objeto... Quem sofre de alucinação não possui críticas [31, 32]."
+},
+{
+pregunta: "O que é a 'Associação Ideativa' no pensamento?",
+alternativas: [
+"A unidade funcional do pensamento",
+"A capacidade de avaliar algo como verdade ou não",
+"O conjunto de ideias encadeadas de maneira lógica",
+"O tema do pensamento"
+],
+correta: "O conjunto de ideias encadeadas de maneira lógica",
+justificativa: "O pensamento possui partes funcionais: Associação Ideativa: é o conjunto de ideias encadeadas de maneira lógica [39]."
+},
+{
+pregunta: "O que é a 'Interceptação Cinética' e qual sua relação com a interceptação do pensamento?",
+alternativas: [
+"Repetição de atos monótonos; não tem relação com o pensamento.",
+"Oposição a um ato; ocorre independentemente da interrupção do pensamento.",
+"Interrupção de um ato; ocorre na esquizofrenia e, quando ocorre, vem junto a interceptação do pensamento, mas o oposto nem sempre é regra.",
+"Repetição do ato alheio; ocorre separadamente da interceptação do pensamento."
+],
+correta: "Interrupção de um ato; ocorre na esquizofrenia e, quando ocorre, vem junto a interceptação do pensamento, mas o oposto nem sempre é regra.",
+justificativa: "Interceptação cinética: interrupção de um ato. Ocorre na esquizofrenia e, quando ocorre a interceptação cinética, vem junto a interceptação do pensamento, porém o oposto nem sempre é via de regras [81]."
+},
+{
+pregunta: "Qual a alteração da execução caracterizada pela repetição de atos monótonos, sem finalidade prática, comum na esquizofrenia ou autismo (neste último, com finalidade autorregulatória)?",
+alternativas: [
+"Negativismo",
+"Ecopraxia",
+"Estereotipia (ato)",
+"Maneirismo"
+],
+correta: "Estereotipia (ato)",
+justificativa: "Estereotipia: repetição de atos monótonos, sem finalidade prática. É comum na esquizofrenia ou autismo (aqui, com finalidade autorregulatória) [81]."
+},
+{
+pregunta: "Qual a alteração da execução onde o sujeito que fica parado na parede, achando que é uma lagartixa, demonstra um aumento do tônus postural?",
+alternativas: [
+"Catalepsia",
+"Estereotipia (ato)",
+"Flexibilidade Cerácea",
+"Maneirismo"
+],
+correta: "Flexibilidade Cerácea",
+justificativa: "Flexibilidade Cerácea: aumento do tônus postural, a ponto de parecer com um homem de cera. É comum da esquizofrenia catatônica. Um exemplo disso é o sujeito que fica parado na parede, achando que é uma lagartixa [59]."
+},
+{
+pregunta: "O que é 'Catalepsia' em comparação com Flexibilidade Cerácea?",
+alternativas: [
+"Ambas são sinônimos.",
+"Catalepsia tem aumento do tônus postural como cera; Flexibilidade Cerácea tem aumento do tônus e redução da mobilidade, parecendo morto.",
+"Catalepsia tem aumento do tônus e redução da mobilidade, parecendo morto; Flexibilidade Cerácea tem aumento do tônus postural como cera.",
+"Catalepsia é repetição de atos; Flexibilidade Cerácea é oposição a atos."
+],
+correta: "Catalepsia tem aumento do tônus e redução da mobilidade, parecendo morto; Flexibilidade Cerácea tem aumento do tônus postural como cera.",
+justificativa: "Flexibilidade Cerácea: aumento do tônus postural, a ponto de parecer com um homem de cera [59]. Catalepsia: apresenta também o aumento do tônus, porém com a redução da mobilidade. O sujeito enrijece. Fica rígido. Parece morto [60]."
+},
+{
+pregunta: "O que é 'Ninfomania e Satiríase'?",
+alternativas: [
+"Cronoinversões do desejo sexual",
+"Desejo sexual por cadáveres",
+"Aumento excessivo do desejo sexual, comum em estado de mania",
+"Busca de prazer com uso de excrementos"
+],
+correta: "Aumento excessivo do desejo sexual, comum em estado de mania",
+justificativa: "Ninfomania e satiríase: aumento excessivo do desejo sexual. Comum em estado de mania [82]."
+},
+{
+pregunta: "O que a Atenção possibilita, de acordo com as fontes?",
+alternativas: [
+"A ordenação lógica das ideias.",
+"A captação de um estímulo.",
+"Que um conteúdo fique presente em nossa consciência.",
+"A realização de atos voluntários."
+],
+correta: "Que um conteúdo fique presente em nossa consciência.",
+justificativa: "A atenção possibilita que um conteúdo fique presente em nossa consciência [65]."
+},
+{
+pregunta: "Qual alteração quantitativa da atenção é a redução significativa da capacidade atencional, comum em quadros depressivos ou em sujeitos que não dormiram?",
+alternativas: [
+"Hiperprosexia",
+"Hipoprosexia",
+"Paraprosexia",
+"Aprosexia"
+],
+correta: "Hipoprosexia",
+justificativa: "Hipoprosexia: é a redução significativa da capacidade atencional do sujeito. Comum em quadros depressivos ou em sujeitos que não dormiram a noite [65]."
+},
+{
+pregunta: "O que é 'Aprosexia'?",
+alternativas: [
+"Aumento da atenção voluntária",
+"Redução da atenção espontânea",
+"Atenção paradoxal",
+"Abolição total da atenção, ocorrendo no coma ou morte"
+],
+correta: "Abolição total da atenção, ocorrendo no coma ou morte",
+justificativa: "Aprosexia: abolição total da atenção. Ocorre no coma ou morte [66]."
+},
+{
+pregunta: "As alterações da Consciência são quantitativas e qualitativas. Qual tipo se refere a um mecanismo específico, e não necessariamente ao aumento ou [redução]?",
+alternativas: [
+"Alterações Quantitativas",
+"Alterações Qualitativas",
+"Ambos os tipos",
+"Nenhum dos tipos"
+],
+correta: "Alterações Qualitativas",
+justificativa: "A consciência possui, além das alterações quantitativas, as qualitativas (relativas a um mecanismo específico, e não necessariamente ao aumento ou [redução]) [67]."
+},
+{
+pregunta: "Qual alteração quantitativa da consciência é a intensificação da obnubilação, também de causa orgânica, com consciência ofuscada e pouca resposta a estímulos?",
+alternativas: [
+"Obnubilação",
+"Torpor",
+"Coma",
+"Estado Crepuscular"
+],
+correta: "Torpor",
+justificativa: "Torpor: é a intensificação da obnubilação, também de causa orgânica. Consciência ofuscada, com pouca resposta a estímulos [68]."
+},
+{
+pregunta: "Qual das seguintes alterações da memória é quantitativa?",
+alternativas: [
+"Déjà-vu",
+"Criptomnésia",
+"Amnésias",
+"Ecmnésia"
+],
+correta: "Amnésias",
+justificativa: "As alterações quantitativas da memória são: Hipermnésia, Hipomnésia, Amnésias [70]."
+},
+{
+pregunta: "Qual tipo de amnésia impede o indivíduo de lembrar e nem fixar uma experiência?",
+alternativas: [
+"Amnésia retrógrada",
+"Amnésia anterógrada",
+"Amnésia retroanterógrada",
+"Amnésia lacunar"
+],
+correta: "Amnésia retroanterógrada",
+justificativa: "Amnésia retroanterógrada: o indivíduo não consegue lembrar e nem fixar uma experiência [70]."
+},
+{
+pregunta: "Qual a definição de 'Consciência', segundo as fontes?",
+alternativas: [
+"Apenas a capacidade de memória",
+"A capacidade de focar em estímulos",
+"O palco de todas as nossas funções psíquicas",
+"A capacidade de realizar atos voluntários"
+],
+correta: "O palco de todas as nossas funções psíquicas",
+justificativa: "A consciência é o palco de nossas funções psíquicas. Quer seja atenção, memória etc., todas elas ocorrem na consciência [67]."
+},
+{
+pregunta: "Na psicoterapia de pacientes com esquizofrenia, qual é um dos objetivos do terapeuta?",
+alternativas: [
+"Estimular a atuação dos delírios",
+"Promover a cisão com a realidade",
+"Auxiliar na forma com a qual lida com sentimentos, bem como promover autonomia e independência",
+"Desmentir os delírios de forma agressiva"
+],
+correta: "Auxiliar na forma com a qual lida com sentimentos, bem como promover autonomia e independência",
+justificativa: "Auxiliar na forma com a qual lida com sentimentos, bem como promover autonomia e independência [16]."
+},
+{
+pregunta: "Como o terapeuta deve ser na psicoterapia com pacientes esquizofrênicos em relação à sua fala?",
+alternativas: [
+"Formal e distante",
+"Científica e complexa",
+"Concreta e de fácil entendimento, aproximando-se ao máximo do universo e linguagem do paciente",
+"Evitar falar muito para não sobrecarregar o paciente"
+],
+correta: "Concreta e de fácil entendimento, aproximando-se ao máximo do universo e linguagem do paciente",
+justificativa: "Sua fala [do terapeuta] deve ser concreta e de fácil entendimento, aproximando-se ao máximo do universo e da linguagem dos pacientes [72]."
+},
+{
+pregunta: "No tratamento grupal do TPAS, qual é o objetivo de os pacientes 'coletivamente constituírem a própria norma'?",
+alternativas: [
+"Fortalecer o comportamento antissocial em grupo",
+"Criar um ambiente onde possam expressar seus atos impulsivos livremente",
+"Permitir que aprendam e apliquem normas sociais (respeito, tempo de fala) que individualmente desviam",
+"Competir para ver quem é mais antissocial"
+],
+correta: "Permitir que aprendam e apliquem normas sociais (respeito, tempo de fala) que individualmente desviam",
+justificativa: "Uma das modalidades é a psicoterapia grupal, visto que proporcionará um momento no qual os pacientes “coletivamente constituirão a própria norma, da qual individualmente desviam” (Ex.: respeito, tempo de fala para cada um...) [25]."
+},
+{
+pregunta: "Qual a distinção principal entre a causa da Psicopatia e da Sociopatia segundo as fontes?",
+alternativas: [
+"Psicopatia é primariamente ambiental; Sociopatia é primariamente biológica.",
+"Psicopatia tem ordem biológica acentuada e alteração cerebral; Sociopatia tem aspectos sociais influentes na origem.",
+"Ambas são causadas exclusivamente por traumas na infância.",
+"Ambas são causadas exclusivamente por genética."
+],
+correta: "Psicopatia tem ordem biológica acentuada e alteração cerebral; Sociopatia tem aspectos sociais influentes na origem.",
+justificativa: "Psicopatia: Ordem biológica acentuada e alteração cerebral significativa (Lobo frontal e neurônios espelho) [23]. Sociopatia: Aspectos sociais influentes na origem do transtorno [22]."
+},
+{
+pregunta: "Em relação à impulsividade, qual a diferença entre Sociopatas e Psicopatas?",
+alternativas: [
+"Sociopatas são mais calculistas; Psicopatas são mais impulsivos.",
+"Sociopatas tendem a ser mais reativos e impulsivos; Psicopatas são mais calculistas e planejadores.",
+"Ambos são igualmente impulsivos.",
+"Nenhum dos dois apresenta impulsividade significativa."
+],
+correta: "Sociopatas tendem a ser mais reativos e impulsivos; Psicopatas são mais calculistas e planejadores.",
+justificativa: "Sociopatia: Tendem a ser mais reativos e impulsivos, denotando reação emocional [22]. Psicopatia: São mais calculistas e planejadores, o que os torna mais perigosos [23]."
+},
+{
+pregunta: "Na Psicanálise Objetal de Winnicott, o comportamento antissocial pode ser fundamentado em qual conceito?",
+alternativas: [
+"Complexo de Édipo",
+"Privação e Delinquência",
+"Identificação Projetiva",
+"Posição Depressiva"
+],
+correta: "Privação e Delinquência",
+justificativa: "A Personalidade Antissocial pode ser fundamentada na psicanálise objetal de Winnicott (1957), em Privação e Delinquência [18]."
+},
+{
+pregunta: "Quais são exemplos de intervenções medicamentosas mencionadas para a Esquizofrenia?",
+alternativas: [
+"Cloridrato de sertralina e fluoxetina",
+"Cloridrato de bupropiona e escitalopram",
+"Quetiapina, Haloperidol e Risperidona (antipsicóticos)",
+"Ansiolíticos e estabilizadores de humor"
+],
+correta: "Quetiapina, Haloperidol e Risperidona (antipsicóticos)",
+justificativa: "Medicamentosa (antipsicóticos), ex., quetiapina, Haloperidol e Risperidona [15]."
+},
+{
+pregunta: "O que significa a Alucinação Autoscópica?",
+alternativas: [
+"O sujeito vê um objeto em outro lugar.",
+"O sujeito sente algo tocando seu corpo.",
+"O sujeito percebe estímulos auditivos sem origem externa.",
+"O sujeito vê a si [mesmo] [37, 38]."
+],
+correta: "O sujeito vê a si [mesmo] [37, 38].",
+justificativa: "Alucinação autoscópica: o sujeito vê a si [37, 38]."
+},
+{
+pregunta: "Na fase de resíduo do delírio, qual a consequência para a capacidade de se relacionar calorosamente com o outro?",
+alternativas: [
+"Melhora significativa",
+"Não há alteração",
+"Fica mais intensa",
+"Não há a possibilidade"
+],
+correta: "Não há a possibilidade",
+justificativa: "É a fase final do processo delirante... O desgaste psíquico é evidente: não há a possibilidade de se relacionar calorosamente com o outro [45]."
+},
+{
+pregunta: "Qual alteração da sensopercepção cenestésica é um exemplo de alucinação?",
+alternativas: [
+"Ver dedos se transformando em cobras.",
+"Sentir 'arame no coração' ou 'rato no cérebro'.",
+"Ouvir vozes.",
+"Ver objetos gigantes."
+],
+correta: "Sentir 'arame no coração' ou 'rato no cérebro'.",
+justificativa: "Alucinação cenestésica: sensações viscerais. “Sensação de arame no coração”. Ou, então, “sinto um rato no meu cérebro” [34, 35]."
+},
+{
+pregunta: "Em que contexto a neotimia aparece?",
+alternativas: [
+"Em transtornos de ansiedade.",
+"Em transtornos de humor.",
+"Em psicoses, sempre ligada ao delírio.",
+"Em transtornos de personalidade."
+],
+correta: "Em psicoses, sempre ligada ao delírio.",
+justificativa: "É IMPOSSÍVEL DESVINCULAR A NEOTIMIA DO DELÍRIO. Logo, toda neotimia está com o delírio [52]."
+},
+{
+pregunta: "O que a Ecolalia ou a Ecopraxia em esquizofrênicos indicam de positivo?",
+alternativas: [
+"O sujeito está totalmente cindido da realidade.",
+"O sujeito não tem nenhum vínculo com o outro.",
+"A pessoa ainda tem um vínculo libidinal que a mantém pelo menos um pouco em contato com a realidade externa.",
+"São sinais de piora do quadro."
+],
+correta: "A pessoa ainda tem um vínculo libidinal que a mantém pelo menos um pouco em contato com a realidade externa.",
+justificativa: "A ecopraxia ou a ecolalia são sintomas bons. De certa forma, a pessoa ainda tem um vínculo libidinal que o mantém pelo menos um pouco em contato com a realidade externa, ao invés de cindir totalmente [59]."
+},
+{
+pregunta: "O que é 'Cenestesia'?",
+alternativas: [
+"Sensação de movimento corporal.",
+"Sensibilidade Orgânica Geral (SOG) relativa às vísceras.",
+"Aumento das sensações.",
+"Diminuição das sensações."
+],
+correta: "Sensibilidade Orgânica Geral (SOG) relativa às vísceras.",
+justificativa: "Sensopercepção interna... Cenestesia: SOG – Sensibilidade Orgânica Geral: Vísceras (dores no estômago, cabeça, etc.) [27, 29]."
+},
+{
+pregunta: "Em qual tipo de desorientação o sujeito se desinteressa em investir no mundo, sendo comum em quadros depressivos?",
+alternativas: [
+"Desorientação delirante",
+"Desorientação por déficit intelectual",
+"Desorientação Apática ou Abúlica",
+"Desorientação por redução do nível de consciência"
+],
+correta: "Desorientação Apática ou Abúlica",
+justificativa: "A Desorientação Apática ou Abúlica ocorre pelo desinteresse do sujeito em investir no mundo. Comum em quadros depressivos [63]."
+},
+{
+pregunta: "O que é 'Hipermimia'?",
+alternativas: [
+"Diminuição da expressão mímica.",
+"Ausência de expressão mímica.",
+"Expressão mímica oposta ao que se sente.",
+"Aumento do potencial mímico, comum em estado de mania."
+],
+correta: "Aumento do potencial mímico, comum em estado de mania.",
+justificativa: "Hipermimia: aumento do potencial mímico. Comum em estado de mania [56]."
+},
+{
+pregunta: "O que a falta de remorso/vergonha e a inabilidade em aprender com as experiências indicam, segundo Cleckley?",
+alternativas: [
+"Transtorno de Ansiedade Social",
+"Depressão Grave",
+"Características da Psicopatia",
+"Esquizofrenia Catatônica"
+],
+correta: "Características da Psicopatia",
+justificativa: "Dentre as características da psicopatia [listadas por Cleckley] estão: (f) Falta de remorso/vergonha, (h) Inabilidade em aprender com as experiências [20]."
+},
+{
+pregunta: "Na psicoterapia para esquizofrenia, o que pode ajudar o paciente a ter uma melhor evolução?",
+alternativas: [
+"Evitar falar sobre situações estressoras.",
+"Discutir formas de suportar, modificar ou compreender melhor as situações vividas.",
+"Confrontar diretamente os delírios e alucinações.",
+"Aumentar o isolamento social."
+],
+correta: "Discutir formas de suportar, modificar ou compreender melhor as situações vividas.",
+justificativa: "Identificar fatores estressores e elaborar, junto do paciente, recursos para que ele lide com tais situações (Discutir formas de suportar, modificar ou compreender melhor as situações vividas pelos pacientes podem ajudá-los a ter uma melhor evolução na sua doença) [16]."
+},
+{
+pregunta: "O que o terapeuta pode/deve criar na psicoterapia com pacientes esquizofrênicos?",
+alternativas: [
+"Um clima de confrontação.",
+"Um clima de indiferença.",
+"Um clima de dependência.",
+"Um clima de compreensão, respeito e empatia."
+],
+correta: "Um clima de compreensão, respeito e empatia.",
+justificativa: "O terapeuta pode/deve ser: Criador de um clima de compreensão, respeito e empatia [72]."
+},
+{
+pregunta: "Em qual tipo de esquizofrenia há a prevalência de todos os sintomas dos outros tipos?",
+alternativas: [
+"Esquizofrenia Residual",
+"Esquizofrenia Simples",
+"Esquizofrenia Indiferenciada",
+"Esquizofrenia Paranoide"
+],
+correta: "Esquizofrenia Indiferenciada",
+justificativa: "Nesse tipo [Esquizofrenia Indiferenciada] há a prevalência de todos os sintomas dos tipos de esquizofrenia [14]."
+},
+{
+pregunta: "O que o Juízo Insuficiente implica?",
+alternativas: [
+"Perda gradual da capacidade de julgar.",
+"Base do delírio.",
+"Incapacidade de formular um juízo devido a deficiência intelectual.",
+"Reconhecer o absurdo de uma ideia."
+],
+correta: "Incapacidade de formular um juízo devido a deficiência intelectual.",
+justificativa: "Juízo Insuficiente: Ocorre, obrigatoriamente, com a presença de deficiência intelectual. É a incapacidade de formular um juízo [41]."
+},
+{
+pregunta: "Qual alteração do curso do pensamento é a perda da associação ideativa, sendo a mais grave de pensamento, presente em esquizofrênicos hebefrênicos?",
+alternativas: [
+"Taquipsiquismo",
+"Bradipsiquismo",
+"Interceptação",
+"Desagregação"
+],
+correta: "Desagregação",
+justificativa: "Desagregação: É a patologia mais grave de pensamento, presente em esquizofrênicos hebefrênicos, também. É a perda da associação ideativa, ou seja, as ideias não seguem uma ordem lógica [42]."
+},
+{
+pregunta: "Qual alteração qualitativa do afeto é um estado de alegria, satisfação, sem motivo aparente?",
+alternativas: [
+"Mania",
+"Hipomania",
+"Euforia simples",
+"Moria"
+],
+correta: "Euforia simples",
+justificativa: "Euforia simples: consiste quando o indivíduo está em um quadro de alegria, satisfação, sem motivo aparente [50]."
+},
+{
+pregunta: "Qual a distinção entre Euforia Simples e Moria?",
+alternativas: [
+"Euforia simples é intensa, Moria é leve.",
+"Euforia simples tem agitação, Moria não.",
+"Euforia simples não tem motivo aparente; Moria é a alegria estúpida em pessoas com déficit intelectual.",
+"Euforia simples é duradoura; Moria é transitória."
+],
+correta: "Euforia simples não tem motivo aparente; Moria é a alegria estúpida em pessoas com déficit intelectual.",
+justificativa: "Euforia simples: consiste quando o indivíduo está em um quadro de alegria, satisfação, sem motivo aparente [50]. Moria: consiste na alegria estúpida (humor pueril), ocorrendo em pessoas com déficit intelectual... A diferença da Euforia Simples, é que aqui o sujeito não tem inteligência [51]."
+},
+{
+pregunta: "O que é 'Cronoinversões do desejo sexual'?",
+alternativas: [
+"Desejo sexual por animais.",
+"Desejo sexual por cadáveres.",
+"Busca de prazer com uso de excrementos.",
+"Pedofilia e Gerontofilia (desejo sexual direcionado a idades específicas)."
+],
+correta: "Pedofilia e Gerontofilia (desejo sexual direcionado a idades específicas).",
+justificativa: "Cronoinversões do desejo sexual: pedofilia e gerontofilia [61]."
+},
+{
+pregunta: "O que é 'Zoofilia'?",
+alternativas: [
+"Desejo sexual por animais.",
+"Desejo sexual por cadáveres.",
+"Aumento excessivo do desejo sexual.",
+"Busca de prazer com uso de excrementos."
+],
+correta: "Desejo sexual por animais.",
+justificativa: "Zoofilia: desejo sexual dirigido a animais [61]."
+},
+{
+pregunta: "O que é 'Necrofilia (vampirismo)'?",
+alternativas: [
+"Desejo sexual por animais.",
+"Desejo sexual por cadáveres.",
+"Aumento excessivo do desejo sexual.",
+"Busca de prazer com uso de excrementos."
+],
+correta: "Desejo sexual por cadáveres.",
+justificativa: "Necrofilia (vampirismo): desejo sexual por cadáveres [61]."
+},
+{
+pregunta: "O que é 'Coprofilia'?",
+alternativas: [
+"Desejo sexual por animais.",
+"Desejo sexual por cadáveres.",
+"Aumento excessivo do desejo sexual.",
+"Busca do prazer com uso de excrementos no ato sexual."
+],
+correta: "Busca do prazer com uso de excrementos no ato sexual.",
+justificativa: "Coprofilia: busca do prazer com uso de excrementos no ato sexual [82]."
+},
+{
+pregunta: "Em qual tipo de esquizofrenia os sintomas positivos já amenizaram e geralmente restam apenas os negativos?",
+alternativas: [
+"Esquizofrenia Paranoide",
+"Esquizofrenia Hebefrênica",
+"Esquizofrenia Catatônica",
+"Esquizofrenia Residual"
+],
+correta: "Esquizofrenia Residual",
+justificativa: "Seu diagnóstico [Esquizofrenia Residual] é feito em idade mais tardia, quando os sintomas positivos já amenizaram... Geralmente restam apenas os sintomas negativos [14]."
+},
+{
+pregunta: "Qual o principal objetivo da psicoterapia para pacientes com esquizofrenia em relação ao contato com a realidade?",
+alternativas: [
+"Ignorar os delírios e alucinações.",
+"Fazer com que o paciente acredite que o terapeuta é a única realidade.",
+"Restabelecer o contato com a realidade, ajudando o paciente a diferenciar experiências reais de delírios/alucinações.",
+"Incentivar a vivência dos delírios em um ambiente seguro."
+],
+correta: "Restabelecer o contato com a realidade, ajudando o paciente a diferenciar experiências reais de delírios/alucinações.",
+justificativa: "Restabelecer o contato com a realidade, de modo que o paciente consiga reconhecer experiências reais e diferenciá-las do delírio ou alucinação [15]."
+}
 ];
