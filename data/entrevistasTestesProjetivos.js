@@ -984,4 +984,2644 @@ const questoesEntrevistasTestesProjetivos = [
     correta: "Indica uma possível fixação em fases anteriores do desenvolvimento, regressão, ou necessidade de atenção e cuidado materno.",
     justificativa: "A escolha de brinquedos de bebê por uma criança mais velha pode sinalizar uma regressão a fases anteriores, em busca de segurança e atenção."
   }
+{
+pergunta: "Segundo Klein, como a criança expressa seus conteúdos psicológicos, além das palavras?",
+alternativas: [
+"Apenas através de desenhos",
+"Principalmente com palavras, assim como adultos",
+"Através do brincar, atividades variadas e todo o seu comportamento",
+"Por meio de testes escritos"
+],
+correta: "Através do brincar, atividades variadas e todo o seu comportamento",
+justificativa: "Klein aplicou o princípio básico de interpretação não apenas das palavras, mas também das atividades com brinquedos e do comportamento da criança como meios de expressar o que o adulto expressa predominantemente com palavras [1]."
+},
+{
+pergunta: "No contexto do Ludodiagnóstico, qual papel a criança assume frequentemente em uma brincadeira, e o que isso pode expressar?",
+alternativas: [
+"O papel de bebê, expressando dependência",
+"O papel de animal, expressando instintos primitivos",
+"O papel de adulto, expressando desejo de inversão de papéis e como sente que pessoas de autoridade se comportam",
+"O papel de super-herói, expressando desejo de poder"
+],
+correta: "O papel de adulto, expressando desejo de inversão de papéis e como sente que pessoas de autoridade se comportam",
+justificativa: "Na maioria das vezes, a criança assume, em uma brincadeira, o papel de adulto, o que pode expressar seu desejo de inversão de papéis e, principalmente, como ela sente que seus pais ou outras pessoas de autoridade se comportam ou deveriam se comportar [2]."
+},
+{
+pergunta: "Além do desejo de inversão de papéis, o que a criança pode expressar ao assumir o papel de cuidador na brincadeira, representando a figura do profissional?",
+alternativas: [
+"Gratidão e afeto",
+"Agressividade e ressentimento",
+"Tédio e indiferença",
+"Criatividade e imaginação"
+],
+correta: "Agressividade e ressentimento",
+justificativa: "A criança pode dar espaço para a sua agressividade e ressentimento quando no papel de algum dos cuidadores com relação à criança, representada pela figura do(a) profissional [2]."
+},
+{
+pergunta: "Qual a definição principal de Ludodiagnóstico?",
+alternativas: [
+"Uma técnica de tratamento para crianças",
+"Uma entrevista verbal com os pais",
+"Uma técnica projetiva utilizada na avaliação psicológica infantil para coletar informações através do brincar",
+"Um método de observação do comportamento da criança na escola"
+],
+correta: "Uma técnica projetiva utilizada na avaliação psicológica infantil para coletar informações através do brincar",
+justificativa: "Ludodiagnóstico é uma técnica projetiva utilizada na avaliação psicológica infantil, por meio da qual há a coleta de informações através do brincar e suas representações [2]."
+},
+{
+pergunta: "Qual a diferença fundamental entre Ludodiagnóstico e Ludoterapia, de acordo com os fontes?",
+alternativas: [
+"Ludodiagnóstico é apenas para bebês, Ludoterapia para crianças mais velhas",
+"Ludodiagnóstico foca na coleta de informações, enquanto Ludoterapia foca no processo interventivo e de elaboração através do brincar",
+"Ludodiagnóstico usa apenas brinquedos estruturados, Ludoterapia usa não-estruturados",
+"Ludodiagnóstico é para grupos, Ludoterapia é individual"
+],
+correta: "Ludodiagnóstico foca na coleta de informações, enquanto Ludoterapia foca no processo interventivo e de elaboração através do brincar",
+justificativa: "Ludodiagnóstico, hora do jogo, hora lúdica ou entrevista lúdica (nomes sinônimos) são técnicas projetivas de avaliação. Já a Ludoterapia, em diferentes abordagens, implica no processo interventivo e de comunicação 'criança x psicoterapeuta' que envolve o brincar enquanto veículo principal para a compreensão e elaboração de conteúdos da criança [3]."
+},
+{
+pergunta: "Ao organizar o setting para atender crianças, qual postura o profissional deve adotar, segundo as fontes?",
+alternativas: [
+"Uma postura de autoritarismo rígido",
+"Uma postura distante e observacional",
+"Uma postura de equidade, com limites claros, evitando autoritarismo e indução",
+"Uma postura de total permissividade"
+],
+correta: "Uma postura de equidade, com limites claros, evitando autoritarismo e indução",
+justificativa: "Ao atender crianças, lembrem-se: Postura de equidade. Limites existem. Basta não confundir autoridade com autoritarismo e, ainda, tomar cuidado com a indução [3]."
+},
+{
+pergunta: "Qual a função do setting na psicoterapia infantil, similar ao espaço do adulto?",
+alternativas: [
+"Ser um local de punição",
+"Ser apenas um local de diversão",
+"Ser o espaço para expressar e fazer como berço de angústias, desejos e frustrações",
+"Ser um local para o psicólogo demonstrar sua autoridade"
+],
+correta: "Ser o espaço para expressar e fazer como berço de angústias, desejos e frustrações",
+justificativa: "Assim como o adulto possui o setting como o espaço para expressar e fazer como berço de suas angústias, o mesmo se aplica para a criança; Espaço que, por meio do brincar ou qualquer outra forma lúdica, a criança manifestará desejos e frustrações [4]."
+},
+{
+pergunta: "Quais são alguns cuidados práticos importantes na organização do setting para psicoterapia infantil, mencionados nas fontes?",
+alternativas: [
+"Móveis pontiagudos e janelas sem tela",
+"Ausência de pia para lavar objetos",
+"Móveis laváveis, cuidado com pontas, janelas teladas e materiais de fácil reposição",
+"Ambientes com excesso de decoração e brinquedos"
+],
+correta: "Móveis laváveis, cuidado com pontas, janelas teladas e materiais de fácil reposição",
+justificativa: "Alguns cuidados devem ser tomados quando se fala na organização do setting para psicoterapia infantil: Móveis laváveis; Cuidado com móveis pontiagudos; As janelas devem ser teladas; Os materiais devem ser de fácil reposição [4]."
+},
+{
+pergunta: "Por que é importante ter uma pia de fácil acesso no setting de psicoterapia infantil?",
+alternativas: [
+"Para o psicólogo lavar as mãos após cada sessão",
+"Para as crianças lavarem objetos ou tirarem tintas das mãos",
+"Para armazenar materiais líquidos",
+"Não é um cuidado relevante"
+],
+correta: "Para as crianças lavarem objetos ou tirarem tintas das mãos",
+justificativa: "Deverá possuir uma pia de fácil acesso, para lavar objetos ou tirar tintas das mãos [5]."
+},
+{
+pergunta: "De acordo com a fonte, o que uma sala de brincar com excesso de fantasia pode dizer?",
+alternativas: [
+"Que o profissional é muito criativo",
+"Que a criança se sentirá mais à vontade",
+"Que a sala fantasiada diz mais sobre o(a) profissional do que propriamente os recursos suficientes para se fazer uma intervenção",
+"Que a sala é ideal para Ludodiagnóstico"
+],
+correta: "Que a sala fantasiada diz mais sobre o(a) profissional do que propriamente os recursos suficientes para se fazer uma intervenção",
+justificativa: "Cuidado com o excesso! A sala fantasiada diz mais sobre a(o) profissional do que propriamente os recursos suficientes para se fazer uma intervenção [5]."
+},
+{
+pergunta: "Segundo Klein (1953/1955), como devem ser, em geral, os brinquedos providos pelo analista na sala de brincar?",
+alternativas: [
+"Complexos e mecânicos",
+"Grandes e barulhentos",
+"Simples, pequenos e não mecânicos",
+"Em grande quantidade e caros"
+],
+correta: "Simples, pequenos e não mecânicos",
+justificativa: "Klein (1953/1955) menciona que os brinquedos providos pelo analista devem ser, no geral, simples, pequenos e não mecânicos [6]."
+},
+{
+pergunta: "Em casos de Psicoterapia Infantil (Ludoterapia), qual objeto é importante que cada criança tenha individualmente?",
+alternativas: [
+"Uma caixa de lápis de cor nova",
+"Uma caixa lúdica",
+"Um caderno para desenhar",
+"Um boneco específico"
+],
+correta: "Uma caixa lúdica",
+justificativa: "Em casos de Psicoterapia Infantil (Ludoterapia), cada criança deverá ter a sua caixa lúdica [5]."
+},
+{
+pergunta: "Quais são as características recomendadas para a confecção da caixa lúdica?",
+alternativas: [
+"Deve ser transparente e sem fechadura",
+"Feita de metal, com interior exposto",
+"Confeccionada em madeira ou plástico, com isolamento do conteúdo interior e alguma forma de trancá-la",
+"Feita de papelão, sem isolamento"
+],
+correta: "Confeccionada em madeira ou plástico, com isolamento do conteúdo interior e alguma forma de trancá-la",
+justificativa: "A caixa lúdica deve ser Confeccionada em madeira ou plástico. É importante que tenha isolamento do conteúdo interior e Alguma forma de trancá-la [6]."
+},
+{
+pergunta: "Quais são os dois tipos de materiais que compõem, inicialmente, a caixa lúdica?",
+alternativas: [
+"Materiais caros e baratos",
+"Materiais de metal e de plástico",
+"Materiais estruturados e não-estruturados",
+"Materiais grandes e pequenos"
+],
+correta: "Materiais estruturados e não-estruturados",
+justificativa: "A caixa lúdica é composta, inicialmente, por dois tipos de materiais: estruturados e os não-estruturados [7]."
+},
+{
+pergunta: "Cite um exemplo de material estruturado na caixa lúdica.",
+alternativas: [
+"Folha sulfite",
+"Massinha de modelar",
+"Carrinho",
+"Tinta lavável"
+],
+correta: "Carrinho",
+justificativa: "Os materiais estruturados são os brinquedos que já estão prontos para o uso. Exemplos: carrinhos, espada, panelinhas, bonecos e animais, jogos etc. [7]."
+},
+{
+pergunta: "Cite um exemplo de material não-estruturado na caixa lúdica.",
+alternativas: [
+"Bonecos",
+"Jogos de tabuleiro",
+"Lápis de cor",
+"Carrinhos"
+],
+correta: "Lápis de cor",
+justificativa: "Os materiais não-estruturados envolvem, em grande parte, os gráficos. Ex.: folha sulfite, lápis, massinha, cola, tinta lavável, uma bacia e água etc. [7, 8]."
+},
+{
+pergunta: "Por que é mais adequado organizar os brinquedos da sala de brincar em caixas organizadas em armários do que em prateleiras?",
+alternativas: [
+"Para economizar espaço",
+"Para que os brinquedos fiquem mais visíveis",
+"O uso de caixas é mais adequado do que colocar os brinquedos em prateleiras, e devem ser organizadas em armários",
+"Não há diferença significativa"
+],
+correta: "O uso de caixas é mais adequado do que colocar os brinquedos em prateleiras, e devem ser organizadas em armários",
+justificativa: "O uso de caixas é mais adequado do que colocar os brinquedos em prateleiras. Devem organizadas em armários [8]."
+},
+{
+pergunta: "O que a criança pode experienciar se, ao retornar para uma sessão, encontra sua caixa lúdica em um estado diferente de como a deixou?",
+alternativas: [
+"Alívio e satisfação",
+"Curiosidade e excitação",
+"Uma sensação de invasão ou falta de cuidado para consigo mesma",
+"Indiferença"
+],
+correta: "Uma sensação de invasão ou falta de cuidado para consigo mesma",
+justificativa: "Sair de uma sessão deixando a caixa lúdica em um estado e, posteriormente ao chegar, encontra-la noutro, a criança poderá experienciar uma sensação de invasão ou falta de cuidado para consigo mesma [9]."
+},
+{
+pergunta: "Quais são as possíveis representações simbólicas da caixa lúdica?",
+alternativas: [
+"Um baú de tesouros",
+"Um espelho ou um portal",
+"O ego da criança ou um recipiente que contém seus conteúdos",
+"A casa da família"
+],
+correta: "O ego da criança ou um recipiente que contém seus conteúdos",
+justificativa: "A caixa lúdica traz como representação o ego da criança ou, então, recipiente no qual há a contenção de seus conteúdos [9]."
+},
+{
+pergunta: "O que o conteúdo guardado na caixa lúdica representa?",
+alternativas: [
+"Objetos perdidos",
+"Coisas sem importância",
+"Os conteúdos que são importantes e fazem parte da vida psíquica da criança",
+"Objetos de valor material"
+],
+correta: "Os conteúdos que são importantes e fazem parte da vida psíquica da criança",
+justificativa: "Todo conteúdo nela guardado representará os conteúdos que são importantes e, assim, fazem parte da vida psíquica da criança [10]."
+},
+{
+pergunta: "Como a forma com a qual a caixa lúdica é utilizada pela criança pode ser interpretada?",
+alternativas: [
+"Como um indicador do nível de organização da criança",
+"Como um reflexo da relação dos pais com objetos",
+"Diz respeito às diversas possibilidades de funcionamento psíquico",
+"Como um sinal de inteligência"
+],
+correta: "Diz respeito às diversas possibilidades de funcionamento psíquico",
+justificativa: "A forma com a qual a caixa lúdica é utilizada pela criança diz respeito às diversas possibilidades de funcionamento psíquico [10]."
+},
+{
+pergunta: "Como a ideia de manter o sigilo no setting clínico pode ser representada simbolicamente na caixa lúdica para uma criança, dependendo da idade?",
+alternativas: [
+"Colocando adesivos na caixa",
+"Mantendo a caixa aberta durante as sessões",
+"Utilizando um cadeado na caixa lúdica, fornecendo ao paciente uma cópia da chave",
+"Contando segredos para a caixa"
+],
+correta: "Utilizando um cadeado na caixa lúdica, fornecendo ao paciente uma cópia da chave",
+justificativa: "A depender da idade, a criança não compreenderá a efetividade de se manter um sigilo no setting clínico. Isto poderá ser representado, por exemplo, pela utilização de um cadeado na caixa lúdica, fornecendo ao paciente uma cópia da chave [10]."
+},
+{
+pergunta: "O que a resistência em guardar brinquedos, guardá-los de maneira obsessiva, ou evitar retirá-los da caixa lúdica podem indicar?",
+alternativas: [
+"Falta de interesse na brincadeira",
+"Cansaço ou sono",
+"Alguns conflitos que a criança traz",
+"Inteligência superior"
+],
+correta: "Alguns conflitos que a criança traz",
+justificativa: "Resistência ao guardar brinquedos, ou então guarda-los de maneira obsessiva e, ainda, evitar retirá-los da caixa lúdica, podem indicar alguns conflitos que a criança traz [11]."
+},
+{
+pergunta: "Que tipo de organização psíquica a resistência em guardar brinquedos ou intolerância à frustração pode sugerir, de acordo com as fontes?",
+alternativas: [
+"Neurótica-obsessiva",
+"Psicótica ou intolerante à frustração",
+"Histérica",
+"Borderline"
+],
+correta: "Psicótica ou intolerante à frustração",
+justificativa: "Resistência ao guardar brinquedos... poderia se referir a uma criança com possível organização psicótica (ou intolerante à frustração) [11]."
+},
+{
+pergunta: "Que tipo de organização psíquica o ato de guardar brinquedos de maneira obsessiva ou evitar retirá-los da caixa lúdica pode sugerir?",
+alternativas: [
+"Histérica e extrovertida",
+"Psicótica e agitada",
+"Neurótica-obsessiva + introvertida/insegura",
+"Borderline e impulsiva"
+],
+correta: "Neurótica-obsessiva + introvertida/insegura",
+justificativa: "...guarda-los de maneira obsessiva e, ainda, evitar retirá-los da caixa lúdica, podem indicar alguns conflitos que a criança traz; Respectivamente, poderia se referir a uma criança com possível organização... neurótica-obsessiva + introvertida/insegura [11]."
+},
+{
+pergunta: "No Ludodiagnóstico, qual é a possível representação simbólica para armários e brinquedos com estruturas côncavas?",
+alternativas: [
+"Relação com a função paterna",
+"Relação com a função materna, remetendo ao útero",
+"Agressividade e poder",
+"Limites e regras"
+],
+correta: "Relação com a função materna, remetendo ao útero",
+justificativa: "Armários e demais brinquedos com estruturas côncavas: remetem à relação com a função materna. O côncavo remete ao útero [11]."
+},
+{
+pergunta: "Qual a possível representação simbólica de lápis, espadas e carrinhos na brincadeira?",
+alternativas: [
+"Criatividade e aprendizado",
+"Substitutos fálicos, instrumentos agressivos ou representação de poder",
+"Necessidades básicas",
+"Interação social"
+],
+correta: "Substitutos fálicos, instrumentos agressivos ou representação de poder",
+justificativa: "Lápis, espadas, carrinhos e afins: substitutos fálicos, geralmente utilizados como instrumentos agressivos ou, então, com representação de poder [12]."
+},
+{
+pergunta: "Qual a possível representação simbólica da água na brincadeira?",
+alternativas: [
+"Fome ou sede",
+"Limpeza e higiene",
+"Líquido amniótico ou, a depender da brincadeira, o grau de manifestação de angústia",
+"Felicidade e diversão"
+],
+correta: "Líquido amniótico ou, a depender da brincadeira, o grau de manifestação de angústia",
+justificativa: "Água: líquido amniótico ou, então, a depender da brincadeira, o grau de manifestação de angústia [12]."
+},
+{
+pergunta: "O que a utilização de casinhas e, especificamente, a brincadeira na cozinha podem representar?",
+alternativas: [
+"Agressividade e ressentimento",
+"Situações que remetam à fase oral ou conteúdos voltados ao comprometimento alimentar",
+"Necessidade de organização",
+"Criatividade"
+],
+correta: "Situações que remetam à fase oral ou conteúdos voltados ao comprometimento alimentar",
+justificativa: "Utilização de casinhas: Cozinha (situações que remetam à fase oral ou conteúdos voltados ao comprometimento alimentar) [12]."
+},
+{
+pergunta: "Na brincadeira com casinhas, o que o quarto pode representar?",
+alternativas: [
+"Relacionamentos sociais",
+"A fase anal",
+"Sexualidade, isolamento ou introspecção",
+"Energia psíquica"
+],
+correta: "Sexualidade, isolamento ou introspecção",
+justificativa: "Utilização de casinhas: ...quarto (sexualidade, isolamento ou introspecção) [12]."
+},
+{
+pergunta: "Na brincadeira com casinhas, o que o banheiro pode representar?",
+alternativas: [
+"Agressividade",
+"Relação com a função materna",
+"Fase anal, como lida com regras e impulsos",
+"Capacidade de síntese"
+],
+correta: "Fase anal, como lida com regras e impulsos",
+justificativa: "Utilização de casinhas: Banheiro (fase anal, como lida com regras e impulsos) [13]."
+},
+{
+pergunta: "Qual o significado simbólico do fogão na brincadeira, quando não utilizado de maneira destrutiva?",
+alternativas: [
+"Passividade e calma",
+"Energia psíquica que mobiliza a transformação",
+"Fase oral",
+"Regras e limites"
+],
+correta: "Energia psíquica que mobiliza a transformação",
+justificativa: "Fogão: energia psíquica que mobiliza a transformação, quando não utilizado de maneira destrutiva [13]."
+},
+{
+pergunta: "O que os animais domésticos representam simbolicamente na brincadeira?",
+alternativas: [
+"Conteúdos de ordem mais primitiva",
+"A parte domesticada da personalidade (sociabilidade)",
+"O Superego",
+"O Id"
+],
+correta: "A parte domesticada da personalidade (sociabilidade)",
+justificativa: "Animais domésticos: parte domesticada da personalidade (sociabilidade) [13]."
+},
+{
+pergunta: "O que os animais selvagens representam simbolicamente na brincadeira?",
+alternativas: [
+"A parte domesticada da personalidade",
+"O Superego",
+"O Id",
+"Conteúdos de ordem mais primitiva"
+],
+correta: "Conteúdos de ordem mais primitiva",
+justificativa: "Animais selvagens: conteúdos de ordem mais primitiva [13]."
+},
+{
+pergunta: "No Rorschach RPAS, o que o código 'Or' na coluna do Sumário de Codificação indica?",
+alternativas: [
+"A qualidade formal da resposta",
+"O tipo de conteúdo",
+"A orientação do cartão",
+"A localização da resposta"
+],
+correta: "A orientação do cartão",
+justificativa: "A coluna 'Or' no Sumário de Codificação indica a Orientação do Cartão [14]."
+},
+{
+pergunta: "Qual código é utilizado na coluna 'Or' quando o cartão foi rotacionado e voltou para a posição de origem?",
+alternativas: [
+"<",
+">",
+"V",
+"@"
+],
+correta: "@",
+justificativa: "Na coluna 'Or', @ = cartão foi rotacionado e voltou na posição de origem [14]."
+},
+{
+pergunta: "No RPAS, o que significa codificar 'Pr' (Pedir)?",
+alternativas: [
+"Que o avaliado puxou uma quarta resposta",
+"Que o avaliador teve que pedir para que o avaliado desse uma resposta ao cartão",
+"Que o cartão foi rotacionado",
+"Que a resposta tem qualidade formal comum"
+],
+correta: "Que o avaliador teve que pedir para que o avaliado desse uma resposta ao cartão",
+justificativa: "Pr: o avaliador codifica quando tiver que pedir para que o avaliado dê uma resposta ao cartão [15]."
+},
+{
+pergunta: "O que pode indicar um elevado número de códigos 'Pr' (Pedir) no RPAS?",
+alternativas: [
+"Esforço por agradar ou produtividade",
+"Rigidez, percepção inflexível, depressão ou resistência",
+"Alta capacidade de síntese",
+"Adequado teste de realidade"
+],
+correta: "Rigidez, percepção inflexível, depressão ou resistência",
+justificativa: "Pedir (Pr): quando elevado, pode se associar à rigidez, percepção inflexível, depressão, falta de confiança ou engajamento, defesa, resistência ou estilo opositor, não-cooperativo ou passivo-agressivo [16]."
+},
+{
+pergunta: "No RPAS, o que significa codificar 'Pu' (Puxar)?",
+alternativas: [
+"Que o avaliador teve que pedir uma resposta",
+"Que o avaliado rotacionou o cartão",
+"Toda vez que uma quarta resposta for emitida, no cartão",
+"Que a resposta usou espaço em branco"
+],
+correta: "Toda vez que uma quarta resposta for emitida, no cartão",
+justificativa: "Pu: o avaliador codifica toda vez que uma quarta resposta for emitida, no cartão [15]."
+},
+{
+pergunta: "Um elevado número de códigos 'Pu' (Puxar) no RPAS pode indicar o quê?",
+alternativas: [
+"Falta de engajamento na tarefa",
+"Pensamento simples ou linear",
+"Esforço de realização, ambição, esforço por agradar ou produtividade",
+"Dificuldade na compreensão de si e dos outros"
+],
+correta: "Esforço de realização, ambição, esforço por agradar ou produtividade",
+justificativa: "Puxar (Pu): quando elevado pode indicar esforço de realização, ambição, esforço por agradar ou produtividade para amenizar insegurança. A hiperprodução pode se relacionar à desinibição, qualidades maníacas, limites psicológicos pobres ou dificuldade para interiorizar regras [17]."
+},
+{
+pergunta: "No Rorschach RPAS, qual código de localização é utilizado quando a resposta usa a mancha inteira?",
+alternativas: [
+"D",
+"Dd",
+"W",
+"SR"
+],
+correta: "W",
+justificativa: "Os códigos para localização são W, D, Dd, SR e SI, sendo: W (Global) = utilizado quando a resposta usa toda a mancha [15]."
+},
+{
+pergunta: "Qual código de localização é usado no RPAS quando a resposta abrange um detalhe ou mais, frequentemente utilizados na prancha?",
+alternativas: [
+"W",
+"Dd",
+"D",
+"SI"
+],
+correta: "D",
+justificativa: "Os códigos para localização são W, D, Dd, SR e SI, sendo: D (Detalhe comum) = utilizado quando a resposta abrange um detalhe ou mais, frequentemente utilizados na prancha [15]."
+},
+{
+pergunta: "Quando a resposta no Rorschach usa uma ou mais áreas pouco utilizadas da mancha, qual código de localização é aplicado?",
+alternativas: [
+"W",
+"D",
+"Dd",
+"SR"
+],
+correta: "Dd",
+justificativa: "Os códigos para localização são W, D, Dd, SR e SI, sendo: Dd (Detalhe incomum) = a resposta usa uma ou mais áreas pouco utilizadas [18]."
+},
+{
+pergunta: "No RPAS, como é codificado o Espaço em Branco quando ele se torna o foco do sujeito, e a mancha fica em segundo plano?",
+alternativas: [
+"SI",
+"Dd",
+"SR",
+"W"
+],
+correta: "SR",
+justificativa: "SR = Reversão do Espaço em branco. O espaço em branco passa a ser o foco do sujeito, enquanto que a mancha fica em segundo plano [18]."
+},
+{
+pergunta: "Qual o código usado no RPAS quando o sujeito integra as partes em branco à mancha na sua resposta?",
+alternativas: [
+"SR",
+"Dd",
+"SI",
+"W"
+],
+correta: "SI",
+justificativa: "SI = O sujeito integra as partes em branco à mancha [18]."
+},
+{
+pergunta: "No RPAS, qual código de Conteúdo é utilizado para uma figura humana completa?",
+alternativas: [
+"(H)",
+"Hd",
+"H",
+"(Hd)"
+],
+correta: "H",
+justificativa: "H = Código utilizado para conteúdo humano completo [19]."
+},
+{
+pergunta: "Como é codificado o conteúdo de uma figura humana completa, porém, fantasiosa ou mágica, como um personagem de desenho animado ou um gigante?",
+alternativas: [
+"H",
+"(H)",
+"Hd",
+"(Hd)"
+],
+correta: "(H)",
+justificativa: "(H) = Figura humana completa, porém, fantasiosa ou mágica. Personagens de desenho animados... Deuses, gigantes, ciclopes, ninfas, feiticeiros, centauros, bruxos... também são (H) [20]."
+},
+{
+pergunta: "Qual código de Conteúdo é usado para detalhes humanos, como 'só' um olho ou uma perna?",
+alternativas: [
+"H",
+"(H)",
+"Hd",
+"(Hd)"
+],
+correta: "Hd",
+justificativa: "Hd = código utilizado para detalhes humanos. Quando são vistos 'só' o olho, perna, etc. O foco está em uma parte do corpo, apenas [21]."
+},
+{
+pergunta: "No RPAS, como é codificado o conteúdo de um detalhe humano mágico, como 'olho de ciclope' ou 'rosto na lua'?",
+alternativas: [
+"Hd",
+"(Hd)",
+"H",
+"(H)"
+],
+correta: "(Hd)",
+justificativa: "(Hd) = detalhe do humano mágico. Ex.: olho de ciclope, cabeça de bruxo, rosto na lua, cara em abóbora... [21]."
+},
+{
+pergunta: "Qual código de Conteúdo é utilizado para um animal completo?",
+alternativas: [
+"(A)",
+"Ad",
+"A",
+"(Ad)"
+],
+correta: "A",
+justificativa: "A = código para definir animal completo. Ex.: Urso, cachorro, lesma, borboleta e afins [21]."
+},
+{
+pergunta: "Como é codificado o conteúdo de um animal mágico, como Pato Donald ou um Hipogrifo?",
+alternativas: [
+"A",
+"(A)",
+"Ad",
+"(Ad)"
+],
+correta: "(A)",
+justificativa: "(A) = Animais mágicos. Pato Donald, Mickey, Hipogrifo do Harry Potter ou qualquer outra criatura mágica [22]."
+},
+{
+pergunta: "Qual código de Conteúdo é usado para detalhes animais, como 'pata de urso' ou 'asa de passarinho'?",
+alternativas: [
+"A",
+"(A)",
+"Ad",
+"(Ad)"
+],
+correta: "Ad",
+justificativa: "Ad = Detalhe animal. Pata de urso, asa de passarinho, concha do mar, etc. Assim como Hd, aqui será voltado à uma parte de um animal [22]."
+},
+{
+pergunta: "No RPAS, como é codificado o conteúdo de um detalhe animal mágico, como 'asa de hipogrifo' ou 'bico do pato Donald'?",
+alternativas: [
+"Ad",
+"(Ad)",
+"A",
+"(A)"
+],
+correta: "(Ad)",
+justificativa: "(Ad) = Asa de hipogrifo, bico do pato Donald, cara de um dragão etc. [22]."
+},
+{
+pergunta: "Qual código de Conteúdo é utilizado para estruturas internas que não são vistas por fora, tanto de animal quanto de humano (crânio, intestino, etc.)?",
+alternativas: [
+"Art",
+"Ay",
+"Bl",
+"An"
+],
+correta: "An",
+justificativa: "An = Código de Anatomia. Codifica-se para todas as estruturas internas que não são vistas por fora, tanto de animal como de humano. Ex.: crânio, intestino, ferida aberta, secção do cérebro. Órgãos vistos por PET Scan também entram, assim como as radiografias [23]."
+},
+{
+pergunta: "No RPAS, qual código de Conteúdo é usado para pintura, escultura, desenhos ou objetos de decoração?",
+alternativas: [
+"An",
+"Ay",
+"Art",
+"NC"
+],
+correta: "Art",
+justificativa: "Art = conteúdo de arte, pintura, escultura, desenhos. Objetos de decoração também são codificados como Art [23]."
+},
+{
+pergunta: "Qual código de Conteúdo é utilizado para sangue, feridas ou menstruação descritos como vermelhos?",
+alternativas: [
+"An",
+"Sx",
+"Bl",
+"Fi"
+],
+correta: "Bl",
+justificativa: "Bl = Sangue, feridas ou menstruação descritos como vermelhas recebem esse código [24]."
+},
+{
+pergunta: "No RPAS, qual código de Conteúdo é usado para vestuário, como laço, camisa ou sapatos?",
+alternativas: [
+"Art",
+"Sx",
+"Cg",
+"NC"
+],
+correta: "Cg",
+justificativa: "Cg = Vestuário. Itens como laço, camisa, sapatos, botas e chapéu. Geralmente vem associados com conteúdo humano H. Além de vestimenta, se for algo decorativo, codificar Art [24]."
+},
+{
+pergunta: "Qual código de Conteúdo é utilizado para explosões, foguetes em propulsão ou erupções vulcânicas?",
+alternativas: [
+"Fi",
+"Ex",
+"Bl",
+"m"
+],
+correta: "Ex",
+justificativa: "Ex = Explosão que abrange bombas estourando, foguete em propulsão, erupção vulcânica, arma que disparou e fogos de artifício [24]."
+},
+{
+pergunta: "No RPAS, qual código de Conteúdo é usado para fogo, chamas, brasas ou lava?",
+alternativas: [
+"Ex",
+"m",
+"Y",
+"Fi"
+],
+correta: "Fi",
+justificativa: "Fi = Fogo, chamas, brasas, lava ou fumaça. Vapor ou rastros de jatos não são Fi. Descarga colorida de gases ou fumaça/gás saindo de um motor seriam Fi e não Ex [25]."
+},
+{
+pergunta: "Qual código de Conteúdo é utilizado para conteúdo sexual, seja órgão, atividade ou vestuário sexualmente sugestivo?",
+alternativas: [
+"An",
+"Hd",
+"Cg",
+"Sx"
+],
+correta: "Sx",
+justificativa: "Sx = conteúdo sexual, quer seja órgão ou atividade, vestuário sexualmente sugestivo ou roupa interior [25]."
+},
+{
+pergunta: "Como diferenciar na codificação de Conteúdo A (animal) de Ad (detalhe animal)?",
+alternativas: [
+"A é para animais terrestres, Ad para aquáticos",
+"A é para animais com mais de 4 patas, Ad para menos",
+"Para codificarmos A, a figura vista deve ser capaz de viver com a parte que falta. Ad foca em uma parte do animal",
+"A é para animais domésticos, Ad para selvagens"
+],
+correta: "Para codificarmos A, a figura vista deve ser capaz de viver com a parte que falta. Ad foca em uma parte do animal",
+justificativa: "Para codificarmos A ou H, a figura vista deve ser capaz de viver com a parte que falta. Exemplo: 'Um urso sem o rabo' é 'A', enquanto que uma galinha correndo com a cabeça cortada é Ad. Ad é voltado à uma parte de um animal [22, 26]."
+},
+{
+pergunta: "No RPAS, quando se codifica Sy (Sintetizado)?",
+alternativas: [
+"Quando há apenas um objeto na resposta",
+"Quando há dois objetos separados sem relação",
+"Quando há dois objetos distintos, separados, mas em relação, e com forma definida",
+"Quando o objeto não tem exigência de forma"
+],
+correta: "Quando há dois objetos distintos, separados, mas em relação, e com forma definida",
+justificativa: "Sy: codificamos Sy quando existem dois objetos distintos, separados, mas em relação. Os objetos possuem forma definida. Ex: urso escalando uma montanha... [27]."
+},
+{
+pergunta: "Quando se codifica Vg (Vago) no RPAS?",
+alternativas: [
+"Quando o objeto tem forma muito precisa",
+"Quando o objeto não tem exigência de forma ou o avaliado não dá a forma de maneira precisa",
+"Quando há dois objetos em interação",
+"Quando a resposta usa espaço em branco"
+],
+correta: "Quando o objeto não tem exigência de forma ou o avaliado não dá a forma de maneira precisa",
+justificativa: "Vg: codificamos Vg quando o objeto não tem exigência de forma ou o avaliado não dá a forma de maneira precisa. (Fogo, nuvem, fumaça, água, explosão, felicidade...) [28]."
+},
+{
+pergunta: "No RPAS, quando o código (2) - Par é utilizado?",
+alternativas: [
+"Quando há dois objetos diferentes em interação",
+"Quando a simetria da prancha caracteriza dois objetos iguais",
+"Quando o avaliado dá duas respostas para o mesmo cartão",
+"Quando há dois objetos sem forma definida"
+],
+correta: "Quando a simetria da prancha caracteriza dois objetos iguais",
+justificativa: "(2) - Par: codificamos Par (2) quando a simetria da prancha caracteriza dois objetos iguais [29]."
+},
+{
+pergunta: "Qual código de Qualidade Formal (FQ) é utilizado quando o objeto visto se adequa bem à localização na mancha ('O formato se encaixa bem')?",
+alternativas: [
+"FQu",
+"FQ-",
+"FQn",
+"FQo"
+],
+correta: "FQo",
+justificativa: "FQo: será codificado se o objeto visto se adequar à localização na mancha. 'O formato se encaixa bem na mancha' [29]."
+},
+{
+pergunta: "No RPAS, qual código de Qualidade Formal (FQ) é utilizado quando o ajuste da resposta à mancha é pouco frequente e pouco acurado?",
+alternativas: [
+"FQo",
+"FQu",
+"FQ-",
+"FQn"
+],
+correta: "FQ-",
+justificativa: "FQ-: ajuste à mancha pouco frequente e pouco acurado [29]."
+},
+{
+pergunta: "No RPAS, se uma resposta apresentar mais de um código de Qualidade Formal (FQ), qual deles prevalecerá na codificação?",
+alternativas: [
+"O primeiro mencionado pelo avaliado",
+"FQo tem prioridade",
+"FQu tem prioridade",
+"Segue a ordem de importância: FQ-, FQu e FQo"
+],
+correta: "Segue a ordem de importância: FQ-, FQu e FQo",
+justificativa: "Se tivermos uma resposta com mais de um FQ, apenas um deles prevalecerá. Segue, na ordem de importância: FQ-, FQu e Fqo [30]."
+},
+{
+pergunta: "O que são Respostas Populares (P) no Rorschach RPAS?",
+alternativas: [
+"Respostas dadas por crianças",
+"Respostas que ocorrem com maior frequência na amostra, envolvendo mancha e localização específicas",
+"Respostas que usam a mancha inteira (W)",
+"Respostas com conteúdo humano (H)"
+],
+correta: "Respostas que ocorrem com maior frequência na amostra, envolvendo mancha e localização específicas",
+justificativa: "Respostas Populares - P: São respostas que ocorrem com maior frequência na amostra; Envolve mancha específica, bem como sua localização [30]."
+},
+{
+pergunta: "No RPAS, qual código de Determinante é utilizado para Movimento Humano (M)?",
+alternativas: [
+"FM",
+"m",
+"Ma",
+"M"
+],
+correta: "M",
+justificativa: "Movimento Humano: o código utilizado é M. Codificamos M quando a resposta envolver um ser humano em atividade, vivência, emoção ou sensação [31]."
+},
+{
+pergunta: "Um exemplo de Movimento Humano (M) pode ser:",
+alternativas: [
+"Dois peixes nadando",
+"Um prato quebrando",
+"Um gato deprimido",
+"Uma pessoa chorando"
+],
+correta: "Uma pessoa chorando",
+justificativa: "Ex. de Movimento Humano: lutando, chorando, sentado, em pé, voando (mesmo que sobrenatural), “separando as ondas do mar”, etc. Além disso, respostas com “Sorrindo”, “boca aberta” representam movimento de Flexão! [31]."
+},
+{
+pergunta: "No RPAS, qual código de Determinante é utilizado para Movimento Animal (FM)?",
+alternativas: [
+"M",
+"m",
+"FMa",
+"FM"
+],
+correta: "FM",
+justificativa: "Movimento Animal: o código que utilizamos é FM. São movimentos adequados às respostas animais [32]."
+},
+{
+pergunta: "Qual código de Movimento é utilizado para um animal que apresenta uma emoção ou sensação humana, como 'um gato deprimido'?",
+alternativas: [
+"FM",
+"m",
+"M",
+"FMa"
+],
+correta: "M",
+justificativa: "No entanto, se tivermos respostas como: um gato deprimido com cara emburrada, uma minhoca satisfeita, um peixe amamentando sua cria nos peitos são codificados como M [32]."
+},
+{
+pergunta: "No RPAS, qual código de Determinante é utilizado para Movimento Inanimado (m)?",
+alternativas: [
+"M",
+"FM",
+"ma",
+"m"
+],
+correta: "m",
+justificativa: "Movimento inanimado: são respostas que envolvem movimentos mecânicos, forças naturais, inorgânicos como rigidez cadavérica, “sangrando”, um avião decolando, um prato quebrando etc. Codificamos o movimento inanimado como m (minúsculo!) [32]."
+},
+{
+pergunta: "Para que um movimento seja codificado no RPAS, em que tempo verbal ele deve estar?",
+alternativas: [
+"Futuro",
+"Passado",
+"Presente",
+"Condicional"
+],
+correta: "Presente",
+justificativa: "O movimento deve estar acontecendo no presente. Não codificamos movimento se, por exemplo: Um animal que foi atropelado por um carro. (O movimento aconteceu, o carro não foi visto) [33]."
+},
+{
+pergunta: "No RPAS, como é codificado um Movimento Ativo (a)?",
+alternativas: [
+"Ma ou Mp",
+"M, FM ou m",
+"Ma, FMa ou ma",
+"a-p"
+],
+correta: "Ma, FMa ou ma",
+justificativa: "Movimento ativo (a): codificamos quando o movimento em questão, quer seja humano, animal ou inanimado requer elevada energia para acontecer. Nesses casos, ficaria Ma, FMa ou ma [34]."
+},
+{
+pergunta: "Qual código de Movimento é utilizado para movimentos mais brandos, sem dispêndio de energia, como 'sentado' ou 'sorrindo'?",
+alternativas: [
+"Ativo (a)",
+"Inanimado (m)",
+"Passivo (p)",
+"Humano (M)"
+],
+correta: "Passivo (p)",
+justificativa: "Movimento passivo (p): tratam-se de movimentos mais brandos, sem dispêndio de energia. Ex.: sentado, deitado, sorrindo ou qualquer movimento acompanhado de “levemente”, “devagar”, coração batendo etc. Codificando, teríamos Mp, FMp ou mp [34]."
+},
+{
+pergunta: "Quando se codifica um Movimento Ativo-Passivo (a-p) no RPAS?",
+alternativas: [
+"Quando um mesmo organismo realiza movimento ativo e passivo simultaneamente",
+"Quando a resposta envolve movimento inanimado e animal",
+"Quando existem dois objetos diferentes, cada qual com uma ação distinta em termos de intensidade (ativo e passivo)",
+"Quando o avaliado hesita entre movimento ativo e passivo"
+],
+correta: "Quando existem dois objetos diferentes, cada qual com uma ação distinta em termos de intensidade (ativo e passivo)",
+justificativa: "Movimento Ativo-Passivo (a-p): codificamos a-p quando existem dois objetos diferentes, cada qual com uma ação distinta em termos de intensidade [35]."
+},
+{
+pergunta: "No RPAS, quando se codifica FC (Forma-Cor)?",
+alternativas: [
+"Quando a cor é dominante sobre a forma",
+"Quando não há cor na resposta",
+"Quando o formato do que foi visto for dominante sobre a cor mencionada",
+"Quando a cor e a forma têm a mesma importância"
+],
+correta: "Quando o formato do que foi visto for dominante sobre a cor mencionada",
+justificativa: "Forma e Cor (FC): Codificaremos FC quando o formato do que foi visto for dominante sobre a cor mencionada [36]."
+},
+{
+pergunta: "Quando se codifica CF (Cor-Forma) no RPAS?",
+alternativas: [
+"Quando o formato é dominante sobre a cor",
+"Quando a cor é dominante sobre a forma",
+"Quando a cor é acromática",
+"Quando não há forma na resposta"
+],
+correta: "Quando a cor é dominante sobre a forma",
+justificativa: "Cor e Forma (CF): Codificamos CF quando a cor for dominante sobre a forma [37]."
+},
+{
+pergunta: "Qual a ordem de prevalência dos determinantes de Cor quando há mais de um em uma resposta?",
+alternativas: [
+"FC >> CF >> C",
+"CF >> FC >> C",
+"C >> CF >> FC",
+"FC >> C >> CF"
+],
+correta: "C >> CF >> FC",
+justificativa: "Quando ocorrer essa situação [mais de um determinante cor], será escolhido o código em que a cor for mais dominante. Se tivéssemos CF e C, optaríamos pelo C. C >> CF >> FC [37, 38]."
+},
+{
+pergunta: "No RPAS, qual determinante é usado para cores preta, cinzenta e branca?",
+alternativas: [
+"C",
+"FC",
+"CF",
+"C'"
+],
+correta: "C'",
+justificativa: "Cor acromática (C’): Envolve o preto, cinzento e branco. A codificação de C’ é relativamente simples. 'Um fantasma branco', 'Um carvão, porque é preto' [38]."
+},
+{
+pergunta: "O que é Cor Convergente no RPAS?",
+alternativas: [
+"Quando o avaliado atribui uma cor arbitrária ao objeto",
+"Quando a cor é traço intrínseco do objeto da resposta (ex: este vermelho é sangue)",
+"Quando há mistura de cores",
+"Quando a cor é usada apenas para localização"
+],
+correta: "Quando a cor é traço intrínseco do objeto da resposta (ex: este vermelho é sangue)",
+justificativa: "A cor convergente diz respeito quando a cor é traço intrínseco do objeto da resposta. Por exemplo, “este vermelho é sangue”. Aqui, saberemos que entrelinhas, a cor foi a motivadora [38]."
+},
+{
+pergunta: "No RPAS, qual determinante de Sombreado é utilizado para dar noção de profundidade ou perspectiva com base nos tons (claro/escuro)?",
+alternativas: [
+"T",
+"Y",
+"V",
+"FD"
+],
+correta: "V",
+justificativa: "Sombreado Perspectiva (V): codificaremos V quando a resposta trouxer noção de profundidade ou perspectiva, mas com base nos tons. Ex.: A parte mais escura é o fundo da caverna [39]."
+},
+{
+pergunta: "Qual determinante de Sombreado no RPAS é utilizado quando a resposta passa uma impressão tátil, como 'macio' ou 'pelos de cachorro'?",
+alternativas: [
+"V",
+"Y",
+"T",
+"FD"
+],
+correta: "T",
+justificativa: "Sombreado Textura (T): codificaremos T quando a resposta passar impressão tátil. Ex.: “o sombreado faz parecer macio”, “são pelos de cachorros, aqueles bem macios” [40]."
+},
+{
+pergunta: "No RPAS, qual determinante de Sombreado é o código padrão quando não se identifica Sombreado Perspectiva (V) nem Sombreado Textura (T)?",
+alternativas: [
+"V",
+"T",
+"FD",
+"Y"
+],
+correta: "Y",
+justificativa: "Sombreado Difuso (Y): Codificaremos Y quando não tiver nem V nem T [40]. Se, porventura, não ficar claro mesmo após o inquérito, codifique Y [41]."
+},
+{
+pergunta: "Qual determinante é utilizado no RPAS quando a noção de profundidade ou perspectiva é dada pela FORMA da mancha, e não pelo sombreado?",
+alternativas: [
+"V",
+"T",
+"Y",
+"FD"
+],
+correta: "FD",
+justificativa: "A forma da mancha implica a noção de profundidade, e não o sombreado. Ex.: “um coelho atrás de um arbusto” codificaremos FD. A forma dá a noção de distanciamento, perspectiva [41, 42]."
+},
+{
+pergunta: "No RPAS, qual determinante é utilizado para uma resposta que envolve uma imagem espelhada ou refletida, baseada na simetria da prancha?",
+alternativas: [
+"(2)",
+"FD",
+"r",
+"SI"
+],
+correta: "r",
+justificativa: "Reflexo (r): Geralmente a resposta com r é dada com o cartão virado para o lado (< ou >). O avaliado menciona o objeto com sua imagem espelhada ou refletida; Assim como a resposta em par (2), o reflexo se baseia na simetria da prancha. O objeto e seu reflexo devem possuir a mesma localização em cada lado do cartão [42]."
+},
+{
+pergunta: "Qual determinante é codificado no RPAS quando nenhum dos outros determinantes (Movimento, Cor, Sombreado, Dimensão, Reflexo) aparece, e a resposta é determinada apenas pela forma?",
+alternativas: [
+"W",
+"F",
+"NC",
+"FQo"
+],
+correta: "F",
+justificativa: "Quando nenhum dos determinantes explicados aparecer, nós codificamos F. Ou seja, o que determinou a resposta do sujeito foi a forma [43]."
+},
+{
+pergunta: "No RPAS, qual determinante sempre aparece sozinho e nunca em misturas (Blends)?",
+alternativas: [
+"M",
+"C",
+"F",
+"Y"
+],
+correta: "F",
+justificativa: "O único determinante que sempre aparece sozinho é o F. Se codificar F, não se codifica mais nenhum [43]."
+},
+{
+pergunta: "O que são Blends (Misturas) de Determinantes no RPAS?",
+alternativas: [
+"Quando dois avaliados dão a mesma resposta",
+"Quando um determinante aparece sozinho na resposta",
+"Quando um determinante aparece junto de outros em uma resposta",
+"Quando a resposta não é clara"
+],
+correta: "Quando um determinante aparece junto de outros em uma resposta",
+justificativa: "As misturas (Blends) consistem quando um determinante aparece junto de outros em uma resposta [43]."
+},
+{
+pergunta: "No RPAS, o que o código cognitivo DV (Verbalizações Desviantes) indica?",
+alternativas: [
+"Uma resposta ilógica",
+"Um raciocínio peculiar",
+"Uma combinação implausível",
+"Quando o avaliado utiliza uma palavra ou frase errada para dar uma resposta"
+],
+correta: "Quando o avaliado utiliza uma palavra ou frase errada para dar uma resposta",
+justificativa: "Codificamos DV quando o avaliado utiliza uma palavra ou frase errada para dar uma resposta [44, 45]."
+},
+{
+pergunta: "Qual a diferença entre DV1 e DV2?",
+alternativas: [
+"DV1 é para erros na Fase de Resposta, DV2 na Fase de Inquérito",
+"DV1 indica erros na localização, DV2 nos conteúdos",
+"DV1 é menos grave (erros incomuns mas claros), DV2 é mais grave (maior bizarrice, avaliador não entende)",
+"DV1 se refere a erros de pronúncia, DV2 a erros gramaticais"
+],
+correta: "DV1 é menos grave (erros incomuns mas claros), DV2 é mais grave (maior bizarrice, avaliador não entende)",
+justificativa: "O 1 e 2 indicam a gravidade, sendo o 2, o mais grave [44, 45]. DV1 – Codificamos DV1 quando os erros são palavras de verbalizações incomuns, mas que ficam claros para o examinador [46, 47]. DV2 – Codificamos quando há maior bizarrice nas palavras. Aqui, o avaliador não tem a menor ideia de que se trata [46, 48]."
+},
+{
+pergunta: "No RPAS, o que o código cognitivo DR (Respostas Desviantes) indica?",
+alternativas: [
+"Verbalizações com palavras estranhas",
+"Justificativas com lógica peculiar",
+"Manifestações verbais que se afastam da tarefa, ilógicas ou irrelevantes à pergunta",
+"Combinações impossíveis de características"
+],
+correta: "Manifestações verbais que se afastam da tarefa, ilógicas ou irrelevantes à pergunta",
+justificativa: "DR – São manifestações verbais que se afastam da tarefa. Ou seja, são respostas ilógicas ou irrelevantes à pergunta: “O que poderia ser isto?” [49, 50]."
+},
+{
+pergunta: "O que pode implicar em codificar DR no RPAS, além de comentários irrelevantes?",
+alternativas: [
+"Pedir para rotacionar o cartão",
+"Tratar a resposta como se fosse real ('Um monstro escuro que está prestes a me pegar')",
+"Dar uma resposta popular",
+"Não dar nenhuma resposta"
+],
+correta: "Tratar a resposta como se fosse real ('Um monstro escuro que está prestes a me pegar')",
+justificativa: "Outro ponto: tratar a resposta como se fosse real implica em DR. “Um monstro escuro que está prestes a me pegar”. O grau de como o avaliado concebe o cartão como real determina se será 1 ou 2 [51, 52]."
+},
+{
+pergunta: "No RPAS, o que o código cognitivo PEC (Lógica Peculiar) indica?",
+alternativas: [
+"Uso de palavras erradas",
+"Respostas que se afastam da tarefa",
+"Raciocínio peculiar, forçado ou confuso, justificativas que não exprimem lógica clara",
+"Interação impossível entre objetos"
+],
+correta: "Raciocínio peculiar, forçado ou confuso, justificativas que não exprimem lógica clara",
+justificativa: "Codificamos PEC quando o avaliado evidenciar algum raciocínio peculiar, forçado ou confuso... São justificativas que não exprimem uma lógica clara [53, 54]."
+},
+{
+pergunta: "No RPAS, quando se codifica INC (Combinações Incongruentes)?",
+alternativas: [
+"Quando há uma interação impossível entre dois objetos",
+"Quando o avaliado usa palavras bizarras",
+"Quando há combinações implausíveis de características de um objeto",
+"Quando o avaliado trata a resposta como real"
+],
+correta: "Quando há combinações implausíveis de características de um objeto",
+justificativa: "Codificaremos INC quando tivermos, na resposta, combinações implausíveis [53, 55]."
+},
+{
+pergunta: "Qual a diferença fundamental entre INC (Combinação Incongruente) e FAB (Combinação Fabulada)?",
+alternativas: [
+"INC envolve palavras erradas, FAB envolve lógica confusa",
+"INC envolve características implausíveis de um objeto, FAB envolve interação impossível entre dois ou mais objetos",
+"INC se refere a conteúdo humano, FAB a conteúdo animal",
+"INC é mais grave que FAB"
+],
+correta: "INC envolve características implausíveis de um objeto, FAB envolve interação impossível entre dois ou mais objetos",
+justificativa: "O INC envolve um objeto principal e sua característica secundária, a qual será pouco ou não usual [56, 57]. O FAB envolverá a interação entre dois ou mais objetos, interação esta impossível. Há o aspecto de “fábula” – tramas [56, 58]."
+},
+{
+pergunta: "No RPAS, quando se codifica CON (Contaminação)?",
+alternativas: [
+"Quando há uma mistura de determinantes",
+"Quando o avaliado dá uma resposta muito popular",
+"Quando o sujeito vê duas coisas sobrepostas, em uma mesma área da mancha (transparência)",
+"Quando a resposta usa apenas a forma"
+],
+correta: "Quando o sujeito vê duas coisas sobrepostas, em uma mesma área da mancha (transparência)",
+justificativa: "Contaminação (CON): É um código extremamente raro. O sujeito vê duas coisas sobrepostas, em uma mesma área da mancha... (Transparência) [59, 60]."
+},
+{
+pergunta: "Em qual tipo de sujeito o código cognitivo CON (Contaminação) é comum?",
+alternativas: [
+"Sujeitos com alta capacidade de síntese",
+"Sujeitos com teste de realidade comprometido",
+"Sujeitos com pensamento simples",
+"Sujeitos com estilo cognitivo vigilante"
+],
+correta: "Sujeitos com teste de realidade comprometido",
+justificativa: "Contaminação (CON): É comum em sujeitos com teste de realidade comprometido [61, 62]."
+},
+{
+pergunta: "No RPAS, se uma resposta contiver vários códigos cognitivos em uma única 'cena' ou situação, qual regra é seguida?",
+alternativas: [
+"Codifica-se todos os códigos presentes",
+"Codifica-se apenas o primeiro código mencionado",
+"Codifica-se o código mais 'grave' (com maior peso)",
+"Não se codifica nenhum código cognitivo"
+],
+correta: "Codifica-se o código mais 'grave' (com maior peso)",
+justificativa: "Códigos Cognitivos sobrepostos: ...Por se tratar de uma situação só, codificaremos o mais “grave” – PEC [62, 63]. Para as imagens referentes à batalha, apenas um código deve ser atribuído. FAB2 (o mais grave) [64]."
+},
+{
+pergunta: "Após a codificação no Rorschach RPAS, qual é o próximo passo?",
+alternativas: [
+"Interpretação imediata das respostas",
+"Realização das contagens de cada código",
+"Cálculo do Escore Z",
+"Finalizar o protocolo e entregar ao supervisor"
+],
+correta: "Realização das contagens de cada código",
+justificativa: "Após realizarmos toda a codificação, realizaremos a contagem (unidades) de cada código que apareceu [65, 66]."
+},
+{
+pergunta: "Como se calcula o escore WSumC (Weighted Sum of Color) no RPAS?",
+alternativas: [
+"Somando todos os códigos de cor (FC + CF + C)",
+"FC + CF + C'",
+"(FC x 0,5) + CF + (C x 1,5)",
+"M + WSumC"
+],
+correta: "(FC x 0,5) + CF + (C x 1,5)",
+justificativa: "WSumC é a soma ponderada da Cor, representada pela fórmula abaixo: WSumC = (FC x 0,5) + CF + (C x 1,5) [67, 68]."
+},
+{
+pergunta: "Como se calcula o escore MC no RPAS?",
+alternativas: [
+"Subtraindo PPD de MC",
+"Somando Movimento humano M com WSumC",
+"Dividindo M por WSumC",
+"Somando todos os determinantes de sombreado"
+],
+correta: "Somando Movimento humano M com WSumC",
+justificativa: "MC: Somar Movimento humano M com WSumC [67, 68]."
+},
+{
+pergunta: "Como se calcula o escore PPD (Potentially Problematic Determinants) no RPAS?",
+alternativas: [
+"Somando M + FM + m",
+"Somando Y + T + V + C’",
+"Somando FM + m + Y + T + V + C’",
+"Somando todos os códigos cognitivos"
+],
+correta: "Somando FM + m + Y + T + V + C’",
+justificativa: "PPD (Determinantes potencialmente problemáticos): Somar FM + m + Y + T + V + C’ [67, 68]."
+},
+{
+pergunta: "Como se calcula o escore PPD-MC no RPAS?",
+alternativas: [
+"Somando PPD e MC",
+"Dividindo PPD por MC",
+"Multiplicando PPD por MC",
+"Subtraindo PPD de MC"
+],
+correta: "Subtraindo PPD de MC",
+justificativa: "PPD-MC: Subtrair PPD de MC [69, 70]."
+},
+{
+pergunta: "Como se calcula o escore F% (Percentage of Form) no RPAS?",
+alternativas: [
+"Contando o total de respostas com FQo",
+"Dividindo o total de F (forma pura) pelo total de respostas no teste",
+"Somando todos os determinantes de forma",
+"Dividindo o total de F pela soma de todos os determinantes"
+],
+correta: "Dividindo o total de F (forma pura) pelo total de respostas no teste",
+justificativa: "F%: Pegar o total de F (forma) e dividir pelo total de respostas no teste. F / Total de Respostas [69, 70]."
+},
+{
+pergunta: "Como se calcula o escore Blend% no RPAS?",
+alternativas: [
+"Contando o total de respostas com apenas um determinante",
+"Dividindo a quantidade de respostas com mais de um determinante (Blend) pelo total de respostas no teste",
+"Multiplicando o total de Blends por 100",
+"Somando todos os Blends"
+],
+correta: "Dividindo a quantidade de respostas com mais de um determinante (Blend) pelo total de respostas no teste",
+justificativa: "Blend%: Dividir a quantidade de respostas com mais de um determinante (Blend) pelo total de respostas no teste [69, 70]."
+},
+{
+pergunta: "Qual a fórmula para calcular o Escore Z no RPAS?",
+alternativas: [
+"Z = (Média da Tabela - Sua Pontuação) / Desvio Padrão",
+"Z = Sua Pontuação / Média da Tabela",
+"Z = Desvio Padrão / (Sua Pontuação - Média da Tabela)",
+"Z = (Sua Pontuação - Média da Tabela) / Desvio Padrão"
+],
+correta: "Z = (Sua Pontuação - Média da Tabela) / Desvio Padrão",
+justificativa: "Fórmula do Escore Z: 𝑍 = 𝑆𝑢𝑎 𝑃𝑜𝑛𝑡𝑢𝑎çã𝑜 − 𝑚é𝑑𝑖𝑎 𝑑𝑎 𝑡𝑎𝑏𝑒𝑙𝑎 / 𝐷𝑒𝑠𝑣𝑖𝑜 𝑃𝑎𝑑𝑟ã𝑜 [71, 72]."
+},
+{
+pergunta: "O que indica um número alto de respostas (Total R) no RPAS?",
+alternativas: [
+"Inflexibilidade em ver coisas por diferentes perspectivas",
+"Rigidez ou resistência",
+"Um nível de flexibilidade ideacional (criatividade e flexibilidade cognitiva)",
+"Problemas para pensar com clareza"
+],
+correta: "Um nível de flexibilidade ideacional (criatividade e flexibilidade cognitiva)",
+justificativa: "Número de respostas: número alto de respostas pode indicar um nível de flexibilidade ideacional (criatividade e flexibilidade cognitiva) [73]."
+},
+{
+pergunta: "No RPAS, o que pode indicar um F% (Percentage of Form) alto?",
+alternativas: [
+"Atenção a nuances e aspectos sutis do ambiente",
+"Propensão a processar informação com grau de riqueza",
+"Não focar nos aspectos sutis do seu ambiente interno e externo, compreensão simples do outro",
+"Abertura patológica"
+],
+correta: "Não focar nos aspectos sutis do seu ambiente interno e externo, compreensão simples do outro",
+justificativa: "F%: quando alto, o sujeito pode não focar nos aspectos sutis do seu ambiente interno e externo. Há a compreensão do outro de maneira simples e irrefletida. Possibilidade de distanciamento e pouco envolvimento com o mundo [73]."
+},
+{
+pergunta: "O que pode indicar um Blend% (Percentage of Blends) alto no RPAS?",
+alternativas: [
+"Processamento intelectual marcado por negligência",
+"Dificuldade na compreensão de si e dos outros",
+"Propensão a processar informação com grau de riqueza e flexibilidade, fácil compreensão de si e do outro",
+"Pensamento simples ou linear"
+],
+correta: "Propensão a processar informação com grau de riqueza e flexibilidade, fácil compreensão de si e do outro",
+justificativa: "Blend%: quando alto, propensão a processar informação com grau de riqueza e flexibilidade. Fácil compreensão de si e do outro [74]."
+},
+{
+pergunta: "No RPAS, o que pode indicar um Sy (Sintetizado) alto?",
+alternativas: [
+"Pensamento simples ou linear",
+"Dificuldade em lidar com problemas do dia a dia",
+"Capacidade de realizar sínteses complexas no pensamento, facilidade na compreensão de ideias complexas ou abstratas",
+"Visão estereotipada do mundo"
+],
+correta: "Capacidade de realizar sínteses complexas no pensamento, facilidade na compreensão de ideias complexas ou abstratas",
+justificativa: "Sy: quando alto, o sujeito tem capacidade de realizar sínteses complexas no pensamento, com operações psicológicas ricas e diferenciadas (facilidade na compreensão de ideias mais complexas ou de operar ideias abstratas) [75]."
+},
+{
+pergunta: "O que pode sugerir um MC-PPD alto no RPAS?",
+alternativas: [
+"Dificuldade para lidar com problemas do dia a dia",
+"Funcionamento em ambientes previsíveis",
+"Capacidade interior para enfrentar vigorosamente os acontecimentos diários, estabilidade, confiança e resiliência em situações estressantes",
+"Estilo de enfrentamento puramente emocional"
+],
+correta: "Capacidade interior para enfrentar vigorosamente os acontecimentos diários, estabilidade, confiança e resiliência em situações estressantes",
+justificativa: "MC-PPD: quando alto, pode sugerir capacidade interior para enfrentar vigorosamente os acontecimentos diários, não sendo influenciada por acontecimentos situacionais, indicando estabilidade, confiança e resiliência em situações estressantes [75]."
+},
+{
+pergunta: "No RPAS, o que indica um M/MC elevado?",
+alternativas: [
+"Estilo de enfrentamento puramente emocional",
+"Ações orientadas pela emoção",
+"Estilo de enfrentamento caracterizado pela ponderação (tende a pensar antes de agir)",
+"Hiperprodução e desinibição"
+],
+correta: "Estilo de enfrentamento caracterizado pela ponderação (tende a pensar antes de agir)",
+justificativa: "M/MC: quando elevado, indica estilo de enfrentamento caracterizado pela ponderação. Ou seja, trata-se de um sujeito que tende a pensar antes de agir, não sendo propenso a reações abruptas [76]."
+},
+{
+pergunta: "No RPAS, o que um TP-Comp (Composto de Pensamento e Percepção) muito alto pode indicar?",
+alternativas: [
+"Recursos egóicos adequados",
+"Saúde psicológica",
+"Falha no teste de realidade, problemas para pensar com clareza e possível vulnerabilidade a estados psicóticos ou borderline",
+"Adequação na forma de ver o mundo"
+],
+correta: "Falha no teste de realidade, problemas para pensar com clareza e possível vulnerabilidade a estados psicóticos ou borderline",
+justificativa: "TP-Comp: o composto de pensamento e percepção, quando muito alto, pode indicar falha no teste de realidade. Quando alto, pode indicar problemas para pensar com clareza e possível vulnerabilidade a estados psicóticos ou borderline [77]."
+},
+{
+pergunta: "No RPAS, o que Popular (P) muito alto (associado à baixa complexidade) pode indicar?",
+alternativas: [
+"Falha no teste de realidade",
+"Desejo de ser diferente",
+"Visão estereotipada do mundo",
+"Capacidade de síntese complexa"
+],
+correta: "Visão estereotipada do mundo",
+justificativa: "Popular (P): Respostas populares muito altas, se a complexidade for baixa, pode indicar visão estereotipada do mundo [78]."
+},
+{
+pergunta: "No RPAS, o que um FQo% (Percentage of Fully Articulated Form) alto indica?",
+alternativas: [
+"Problemas de teste de realidade",
+"Abordagem de vida menos convencional",
+"Saúde psicológica e adequado teste de realidade",
+"Negligência e baixa atenção aos detalhes"
+],
+correta: "Saúde psicológica e adequado teste de realidade",
+justificativa: "FQo%: quando alto, indica saúde psicológica e adequado teste de realidade [79]."
+},
+{
+pergunta: "O que o escore MOR (Conteúdo Mórbido) no RPAS associa-se?",
+alternativas: [
+"Temas ideacionais otimistas e de sucesso",
+"Temas ideacionais mórbidos, pessimistas e de ruína",
+"Necessidade de amparo e apoio",
+"Identificação com o poder e agressividade"
+],
+correta: "Temas ideacionais mórbidos, pessimistas e de ruína",
+justificativa: "MOR: Associa-se a temas ideacionais mórbidos, pessimistas e de ruína [80]."
+},
+{
+pergunta: "No RPAS, o que escores ODL% (Oral Dependency Language) altos indicam?",
+alternativas: [
+"Autossuficiência e independência",
+"Dificuldade para lidar com problemas do dia a dia",
+"Dependência, necessidade de amparo, apoio e subsistência psicológica",
+"Estilo cognitivo cauteloso e vigilante"
+],
+correta: "Dependência, necessidade de amparo, apoio e subsistência psicológica",
+justificativa: "ODL%: Escores altos indicam dependência, necessidade de amparo, apoio e subsistência psicológica [80]."
+},
+{
+pergunta: "No RPAS, o que um AGC (Conteúdo Agressivo) alto pode indicar?",
+alternativas: [
+"Passividade e submissão",
+"Pouco interesse em relacionamentos",
+"Dificuldade na compreensão de si e dos outros",
+"Identificação com o poder, agressividade ou perigo, expressa pela competitividade"
+],
+correta: "Identificação com o poder, agressividade ou perigo, expressa pela competitividade",
+justificativa: "Conteúdo agressivo (AGC): quando alto, pode indicar identificação com o poder, agressividade ou perigo. Nem sempre são expressos de maneira socialmente reprovável, mas sim pela competitividade, esforço para realizações [81]."
+},
+{
+pergunta: "O que indica um H (Conteúdo Humano) alto no RPAS?",
+alternativas: [
+"Dificuldade na compreensão de si e dos outros",
+"Pouco interesse em relacionamentos",
+"Capacidade para relacionamentos interpessoais saudáveis",
+"Visão estereotipada dos outros"
+],
+correta: "Capacidade para relacionamentos interpessoais saudáveis",
+justificativa: "H: quando alto indicam capacidade para relacionamentos interpessoais saudáveis [82]."
+},
+{
+pergunta: "No RPAS, o que indica um COP (Conteúdo Colaborativo) alto?",
+alternativas: [
+"Pouco interesse em relacionamentos",
+"Propensão de encarar as interações como fonte de apoio, úteis e colaborativas",
+"Distanciamento interpessoal",
+"Estilo cognitivo vigilante"
+],
+correta: "Propensão de encarar as interações como fonte de apoio, úteis e colaborativas",
+justificativa: "COP: quando alto, há a propensão de encarar as interações como fonte de apoio, úteis, vantajosas e colaborativas [82]."
+},
+{
+pergunta: "Como o Rorschach RPAS relaciona alguns aspectos da avaliação à psicopatologia?",
+alternativas: [
+"Através da contagem simples de todas as respostas",
+"Apenas pela observação do comportamento do avaliado",
+"As variáveis envolvidas se relacionam com problemas de pensamento, juízo ou percepção, e aspectos interpretativos podem ser indicativos de psicopatologias como o espectro da esquizofrenia",
+"Exclusivamente pela Qualidade Formal das respostas"
+],
+correta: "As variáveis envolvidas se relacionam com problemas de pensamento, juízo ou percepção, e aspectos interpretativos podem ser indicativos de psicopatologias como o espectro da esquizofrenia",
+justificativa: "Domínio de percepção e pensamento: As variáveis envolvidas se relacionam com problemas de pensamento, juízo ou percepção, bem como o sujeito tende a elaborar a sua visão de mundo; Os aspectos interpretativos podem ser indicativos de psicopatologias como o espectro da esquizofrenia [77]."
+},
+{
+pergunta: "No RPAS, qual a diferença entre Cor Convergente e Cor Arbitrária?",
+alternativas: [
+"Cor Convergente é para cores quentes, Arbitrária para cores frias",
+"Cor Convergente é quando a cor é intrínseca ao objeto, Arbitrária é quando o avaliado atribui uma cor ao percepto",
+"Cor Convergente é codificada como C, Arbitrária como C'",
+"Cor Convergente se refere ao sombreado, Arbitrária à forma"
+],
+correta: "Cor Convergente é quando a cor é intrínseca ao objeto, Arbitrária é quando o avaliado atribui uma cor ao percepto",
+justificativa: "A cor convergente diz respeito quando a cor é traço intrínseco do objeto da resposta... A cor arbitrária é quando o avaliado atribui uma cor ao percepto. Ex.: Peixe vermelho [38, 39]."
+},
+{
+pergunta: "No RPAS, qual o código de Determinante utilizado para 'Um coelho atrás de um arbusto', onde a noção de profundidade é dada pela posição dos elementos?",
+alternativas: [
+"V",
+"Y",
+"r",
+"FD"
+],
+correta: "FD",
+justificativa: "A forma da mancha implica a noção de profundidade, e não o sombreado. Ex.: “um coelho atrás de um arbusto” codificaremos FD [41]."
+},
+{
+pergunta: "Um exemplo de Resposta Desviante DR1, segundo as fontes, é:",
+alternativas: [
+"Um porco vestígio de auxiliação",
+"Esse é um tigre. Eu amo tigres. Você gosta de tigres? Eles são bem lindos.",
+"Quando a gente chora muito, fica mais macio...",
+"Tem que ser um homem e uma mulher, porque são 2"
+],
+correta: "Esse é um tigre. Eu amo tigres. Você gosta de tigres? Eles são bem lindos.",
+justificativa: "Ex. de DR1: “Esse é um tigre. Eu amo tigres. Você gosta de tigres? Eles são bem lindos.”, “Um vaso lindo. Se essa parte pudesse falar, ela diria “asa”” [49, 50]."
+},
+{
+pergunta: "Um exemplo de Resposta Desviante DR2, segundo as fontes, é:",
+alternativas: [
+"Devo estar com fome",
+"Um tigre voando",
+"Um leão vermelho dando carona para um cachorro",
+"Quando a gente chora muito, fica mais macio...é assim que se parece essa figura"
+],
+correta: "Quando a gente chora muito, fica mais macio...é assim que se parece essa figura",
+justificativa: "Ex.: “quando a gente chora muito, fica mais macio...é assim que se parece essa figura” [51, 83]."
+},
+{
+pergunta: "Um exemplo de Lógica Peculiar (PEC), segundo as fontes, é:",
+alternativas: [
+"Um urso dançando no circo",
+"Um urso sem pata",
+"A costura está se desfazendo porque ela é esquizofrênica",
+"Uma ave sem bico"
+],
+correta: "A costura está se desfazendo porque ela é esquizofrênica",
+justificativa: "Ex.: “A costura está se desfazendo porque ela é esquizofrênica”, “É vermelho porque está num dia de calor”. São justificativas que não exprimem uma lógica clara [53, 54]."
+},
+{
+pergunta: "Um exemplo de Combinação Incongruente INC1 é:",
+alternativas: [
+"Um homem com duas cabeças nos pés",
+"Um pênis com asas",
+"Um leão vermelho",
+"Duas pessoas fisicamente ligadas"
+],
+correta: "Um leão vermelho",
+justificativa: "Exemplos de INC1: um leão vermelho, um leão voando... [53, 55]."
+},
+{
+pergunta: "Um exemplo de Combinação Incongruente INC2 é:",
+alternativas: [
+"Um leão vermelho",
+"Um elefante carregando uma girafa",
+"Um homem com duas cabeças nos pés",
+"Um urso dançando no circo"
+],
+correta: "Um homem com duas cabeças nos pés",
+justificativa: "Exemplos de INC2: um homem com duas cabeças nos pés, um pênis com asas...(o grau de bizarrice é maior) [55, 84]."
+},
+{
+pergunta: "Um exemplo de Combinação Fabulada FAB1 é:",
+alternativas: [
+"Duas pessoas fisicamente ligadas",
+"Mickey Mouse, nu, devorando o Pateta",
+"Duas pessoas, e entre elas estão seus corações",
+"Dois ursos dançando juntos"
+],
+correta: "Dois ursos dançando juntos",
+justificativa: "Ex. de FAB1: “Dois ursos dançando juntos”, aqui mostra a interação impossível (FAB1) e, ainda uma combinação incomum (INC1) [85, 86]."
+},
+{
+pergunta: "Um exemplo de Combinação Fabulada FAB2 é:",
+alternativas: [
+"Um elefante carregando uma girafa",
+"Um louva-a-deus jogando baralho",
+"Duas pessoas fisicamente ligadas uma com a outra (sem ser siameses)",
+"Um leão vermelho"
+],
+correta: "Duas pessoas fisicamente ligadas uma com a outra (sem ser siameses)",
+justificativa: "Ex2. de FAB2: “Duas pessoas, e entre elas estão seus corações”, “Duas pessoas fisicamente ligadas uma com a outra” (se o avaliado falasse que são siameses, não levaria FAB) [86, 87]."
+},
+{
+pergunta: "Um exemplo de Contaminação (CON), segundo as fontes, é:",
+alternativas: [
+"Uma pessoa em pé com os braços levantados",
+"Um morcego voando, vendo os olhos, corpo, etc., de maneira sobrepostas",
+"Um veado com chifres",
+"Uma nuvem com formato"
+],
+correta: "Um morcego voando, vendo os olhos, corpo, etc., de maneira sobrepostas",
+justificativa: "Ex.: “Um morcego, aqui os olhos, corpo, ele está voando” (o corpo, olhos, cabeça, etc. são vistos de maneira sobrepostas); “Uma pessoa em pé. Corpo, cabeça e dá pra ver o coração batendo, ele tem símbolo vermelho, de dupla borboleta.” (Transparência) [59, 60]."
+},
+{
+pergunta: "Na interpretação do RPAS, o que um MC-PPD baixo pode indicar?",
+alternativas: [
+"Estabilidade e resiliência",
+"Capacidade para enfrentar vigorosamente os acontecimentos diários",
+"Dificuldade para lidar com problemas do dia a dia, funcionamento em ambientes previsíveis e estruturados",
+"Capacidade de síntese complexa"
+],
+correta: "Dificuldade para lidar com problemas do dia a dia, funcionamento em ambientes previsíveis e estruturados",
+justificativa: "MC-PPD: Quando baixo, pode indicar dificuldade para lidar com problemas do dia a dia. São pessoas que funcionam em ambientes previsíveis e estruturados [76]."
+},
+{
+pergunta: "No RPAS, o que indica um M/MC baixo?",
+alternativas: [
+"Estilo de enfrentamento pela ponderação",
+"O sujeito tende a encarar as situações de maneira puramente emocional",
+"Ações orientadas pela emoção",
+"Pensamento antes de agir"
+],
+correta: "O sujeito tende a encarar as situações de maneira puramente emocional",
+justificativa: "M/MC: ...Já quando baixo, o sujeito tende a encarar as situações de maneira puramente emocional [76]."
+},
+{
+pergunta: "No RPAS, o que um TP-Comp baixo ou médio indica?",
+alternativas: [
+"Falha no teste de realidade",
+"Problemas para pensar com clareza",
+"Vulnerabilidade a estados psicóticos ou borderline",
+"Capacidade para pensar com clareza e perceber a realidade tal qual ela existe"
+],
+correta: "Capacidade para pensar com clareza e perceber a realidade tal qual ela existe",
+justificativa: "TP-Comp: quando baixo ou médio, indica capacidade para pensar com clareza e perceber a realidade tal qual ela existe [78]."
+},
+{
+pergunta: "No RPAS, o que Popular (P) baixo pode indicar?",
+alternativas: [
+"Forma convencional de ver o mundo",
+"Saúde psicológica",
+"Falha no teste de realidade, idiossincrasia ou desejo de ser diferente",
+"Visão estereotipada do mundo"
+],
+correta: "Falha no teste de realidade, idiossincrasia ou desejo de ser diferente",
+justificativa: "Popular (P): ...Baixas pontuações podem indicar falha no teste de realidade, idiossincrasia ou desejo de ser diferente [78]."
+},
+{
+pergunta: "No RPAS, se o FQo% for baixo, mas NÃO houver FQ- alto, o que isso pode indicar?",
+alternativas: [
+"Problemas de teste de realidade",
+"Saúde psicológica",
+"Um sujeito com abordagem de vida menos convencional e mais individualista, não indicando patologia",
+"Negligência e baixa atenção aos detalhes"
+],
+correta: "Um sujeito com abordagem de vida menos convencional e mais individualista, não indicando patologia",
+justificativa: "FQo%: Quando baixo, é importante verificar se há junto problemas de teste de realidade (FQ- alto). Caso não tenha essa variável, indica um sujeito com abordagem de vida menos convencional e mais individualista, não indicando patologia [79]."
+},
+{
+pergunta: "No RPAS, o que um MOR (Conteúdo Mórbido) elevado, decorrente de conteúdos disfóricos, indica?",
+alternativas: [
+"Risco implícito de suicídio",
+"A presença de angústia",
+"Identificação com o poder",
+"Autossuficiência"
+],
+correta: "A presença de angústia",
+justificativa: "MOR: ...Se o aumento for em decorrência de conteúdos disfóricos, indica a presença de angústia [80]."
+},
+{
+pergunta: "No RPAS, o que um MOR (Conteúdo Mórbido) elevado, decorrente de conteúdos mórbidos de destruição ou 'estrago', indica?",
+alternativas: [
+"Risco implícito de suicídio",
+"A presença de angústia",
+"Pode ser indicativo de enxergar a si mesmo como falho ou de algum modo prejudicado pela vida",
+"Identificação com o poder"
+],
+correta: "Pode ser indicativo de enxergar a si mesmo como falho ou de algum modo prejudicado pela vida",
+justificativa: "MOR: ...Em casos de conteúdos mórbidos de destruição ou “estrago”, pode ser indicativo de enxergar a si mesmo como falho ou de algum modo prejudicado pela vida [80]."
+},
+{
+pergunta: "No RPAS, o que V-Comp (Composto de Vigilância) alto indica?",
+alternativas: [
+"Autossuficiência",
+"Um estilo cognitivo cauteloso e vigilante, podendo haver distanciamento interpessoal",
+"Propensão a encarar interações como fonte de apoio",
+"Capacidade para relacionamentos saudáveis"
+],
+correta: "Um estilo cognitivo cauteloso e vigilante, podendo haver distanciamento interpessoal",
+justificativa: "V-Comp (composto de vigilância): quando alto, indica um estilo cognitivo cauteloso e vigilante. Pode haver distanciamento interpessoal [81]."
+},
+{
+pergunta: "No RPAS, o que um H (Conteúdo Humano) baixo indica?",
+alternativas: [
+"Capacidade para relacionamentos interpessoais saudáveis",
+"Propensão a encarar interações como fonte de apoio",
+"Dificuldade na compreensão de si e dos outros, tanto em papéis sociais e do seu significado",
+"Identificação com o poder"
+],
+correta: "Dificuldade na compreensão de si e dos outros, tanto em papéis sociais e do seu significado",
+justificativa: "H: ...Quando baixo, indica dificuldade na compreensão de si e dos outros, tanto em papeis sociais e do seu significado [82]."
+},
+{
+pergunta: "No RPAS, o que um COP (Conteúdo Colaborativo) baixo pode indicar?",
+alternativas: [
+"Propensão de encarar as interações como fonte de apoio",
+"Identificação com o poder",
+"Capacidade para relacionamentos interpessoais saudáveis",
+"Pouco interesse em relacionamentos ou pouca tendência a encará-las como fonte de apoio"
+],
+correta: "Pouco interesse em relacionamentos ou pouca tendência a encará-las como fonte de apoio",
+justificativa: "COP: ...Quando baixa, pode haver pouco interesse em relacionamentos ou pouca tendência a encará-las como fonte de apoio [82]."
+},
+{
+pergunta: "Segundo as fontes, quais são alguns dos determinantes no Rorschach RPAS?",
+alternativas: [
+"W, D, Dd",
+"H, A, An",
+"DV, DR, PEC",
+"Movimento, Cor, Sombreado, Dimensionalidade, Reflexo, Forma"
+],
+correta: "Movimento, Cor, Sombreado, Dimensionalidade, Reflexo, Forma",
+justificativa: "Os determinantes são características da mancha que provocaram a resposta do avaliado. Temos determinantes que envolvem: Movimento, Cor, Sombreado, Dimensionalidade, Reflexo, Forma [88]."
+},
+{
+pergunta: "Qual a distinção entre codificar A (Animal completo) e Ad (Detalhe animal) com base na descrição de uma galinha correndo com a cabeça cortada?",
+alternativas: [
+"É A, pois o corpo inteiro está presente",
+"É A, pois ela ainda está se movendo",
+"É Ad, pois ela não é capaz de viver com a parte que falta (a cabeça)",
+"É Ad, pois o foco está na parte faltante"
+],
+correta: "É Ad, pois ela não é capaz de viver com a parte que falta (a cabeça)",
+justificativa: "Para codificarmos A ou H, a figura vista deve ser capaz de viver com a parte que falta. Exemplo: ...enquanto que uma galinha correndo com a cabeça cortada é Ad [26]."
+},
+{
+pergunta: "No RPAS, a codificação de Conteúdo An (Anatomia) inclui:",
+alternativas: [
+"Veias vermelhas, artérias ou capilares",
+"Feridas abertas descritas como vermelhas",
+"Sangue e menstruação",
+"Órgãos externos do corpo"
+],
+correta: "Veias vermelhas, artérias ou capilares",
+justificativa: "An = Código de Anatomia... Veias vermelhas, artérias ou capilares são An [23, 24]."
+},
+{
+pergunta: "No RPAS, se uma resposta for 'uma nuvem com formato de urso', qual combinação de códigos de localização/determinantes seria mais provável?",
+alternativas: [
+"W + FM",
+"D + Vg",
+"W + Vg",
+"D + FM"
+],
+correta: "W + Vg",
+justificativa: "Vg: codificamos Vg quando o objeto não tem exigência de forma ou o avaliado não dá a forma de maneira precisa. (Fogo, nuvem...). Apenas cuidado quando há complementos que envolvem contorno: uma nuvem com formato [28]. 'Urso' sugere uso da mancha (W ou D), e 'nuvem' sugere Vg. Dependendo da área, poderia ser W+Vg ou D+Vg. W é comum para nuvens que usam a mancha toda."
+},
+{
+pergunta: "Em qual fase da aplicação do Rorschach RPAS os códigos que estão óbvios são considerados 'mais verdadeiros'?",
+alternativas: [
+"Fase de Inquérito (FE)",
+"Fase de Resposta",
+"Fase de Classificação",
+"Fase de Interpretação"
+],
+correta: "Fase de Resposta",
+justificativa: "Codificar o que é visto na Fase de Resposta: os códigos que estão óbvios na fase de resposta são os mais verdadeiros. Ou seja, se o avaliado mudar a resposta, pedir para que fique com a original [89]."
+},
+{
+pergunta: "O que a rotação do cartão durante a aplicação do Rorschach pode indicar?",
+alternativas: [
+"Falta de interesse na tarefa",
+"Necessidade de aprovação",
+"Nível de curiosidade, compulsão, flexibilidade, ansiedade ou autoritarismo",
+"Pensamento concreto"
+],
+correta: "Nível de curiosidade, compulsão, flexibilidade, ansiedade ou autoritarismo",
+justificativa: "Rotação do cartão: Pode indicar nível de curiosidade, compulsão, flexibilidade, ansiedade, autoritarismo. Vai desde interesse pela tarefa ou distanciamento [17]."
+},
+{
+pergunta: "No RPAS, como se codifica um movimento humano que envolve flexão, como 'sorrindo' ou 'boca aberta'?",
+alternativas: [
+"FM",
+"m",
+"Ma (Movimento Ativo Humano)",
+"Mp (Movimento Passivo Humano)"
+],
+correta: "Ma (Movimento Ativo Humano)",
+justificativa: "Além disso, respostas com “Sorrindo”, “boca aberta” representam movimento de Flexão! [31]."
+},
+{
+pergunta: "No RPAS, se uma resposta for 'Um urso sem pata', qual código de Combinação Incongruente seria aplicado?",
+alternativas: [
+"INC1",
+"INC2",
+"INC não é codificado",
+"FAB1"
+],
+correta: "INC não é codificado",
+justificativa: "Partes faltantes na resposta não codificam INC. Ex.: Uma ave sem bico, Um urso sem pata [84, 90]."
+},
+{
+pergunta: "Quando um contexto permissível, como 'no circo', é mencionado em uma resposta que conteria INC, o que acontece com a codificação de INC?",
+alternativas: [
+"O grau de INC aumenta (vai para INC2)",
+"INC é codificado, mas com ressalva",
+"Contextos permissivos eliminam o INC",
+"INC continua sendo codificado normalmente"
+],
+correta: "Contextos permissivos eliminam o INC",
+justificativa: "Contextos permissivos eliminam o INC. Ex.: Um urso dançando no circo” – sem INC. O contexto “no circo” é permissível [84, 90]."
+},
+{
+pergunta: "No RPAS, se o avaliado diz '...Eu sei que isso não existe, mas...' ao dar uma resposta com uma combinação implausível, o INC é removido?",
+alternativas: [
+"Sim, a afirmação remove o INC",
+"Não, essa afirmação não tira o INC, pois o sujeito viu tal combinação incongruente",
+"Apenas se a combinação for INC1",
+"Apenas se a combinação for FAB"
+],
+correta: "Não, essa afirmação não tira o INC, pois o sujeito viu tal combinação incongruente",
+justificativa: "Caso o avaliado fale: “...Eu sei que isso não existe, mas..”. Essa afirmação não tira o INC, pois o sujeito viu tal combinação incongruente [84, 90]."
+},
+{
+pergunta: "No RPAS, qual a distinção entre a codificação de C' (Cor Acromática) e Y (Sombreado Difuso)?",
+alternativas: [
+"C' refere-se à cor propriamente dita (preto, branco, cinza), Y se refere à variação de matiz ou sombreado sem perspectiva/textura",
+"C' é para sombreado, Y é para cor pura",
+"C' é para cor convergente, Y é para cor arbitrária",
+"C' é para detalhes, Y é para respostas globais"
+],
+correta: "C' refere-se à cor propriamente dita (preto, branco, cinza), Y se refere à variação de matiz ou sombreado sem perspectiva/textura",
+justificativa: "A cor acromática C’ se refere à cor propriamente dita, e não sua variação de matiz. Y é codificado quando não tiver nem V nem T [38, 40, 41]."
+},
+{
+pergunta: "Na codificação de Determinantes, quais palavras-chave geralmente ajudam a identificar sombreados?",
+alternativas: [
+"Grande, pequeno, redondo",
+"Rápido, devagar, forte",
+"Claro, escuro, profundo, perto, longe, macio",
+"Triste, alegre, bravo"
+],
+correta: "Claro, escuro, profundo, perto, longe, macio",
+justificativa: "Geralmente identificaremos sombreados com palavras-chave que remetem a “claro, escuro, profundo, perto, longe, macio” [41]."
+},
+{
+pergunta: "No cálculo do Escore Z no RPAS, quais dados da tabela são utilizados?",
+alternativas: [
+"Apenas a Variável e a Média",
+"Apenas a Média e o Desvio Padrão",
+"A Variável, a Média e o Desvio Padrão",
+"Apenas a Sua Pontuação e a Média"
+],
+correta: "A Variável, a Média e o Desvio Padrão",
+justificativa: "Na tabela nós utilizaremos: VARIÁVEIS, MÉDIA E DP [71, 72]."
+},
+{
+pergunta: "No RPAS, o que pode indicar uma baixa pontuação no Total R (Número de respostas)?",
+alternativas: [
+"Alta flexibilidade ideacional",
+"Criatividade excessiva",
+"Inflexibilidade em ver coisas por diferentes perspectivas",
+"Recursos egóicos adequados"
+],
+correta: "Inflexibilidade em ver coisas por diferentes perspectivas",
+justificativa: "A baixa pontuação de R pode indicar inflexibilidade em ver coisas por diferentes perspectivas [73]."
+},
+{
+pergunta: "No RPAS, o que pode indicar um F% (Percentage of Form) baixo?",
+alternativas: [
+"Não focar nos aspectos sutis do ambiente",
+"Compreensão simples do outro",
+"Atenção a nuances e aspectos sutis do seu mundo interno e externo",
+"Distanciamento e pouco envolvimento"
+],
+correta: "Atenção a nuances e aspectos sutis do seu mundo interno e externo",
+justificativa: "F%: Quando baixo, a depender, pode indicar uma atenção a nuances e aspectos sutis do seu mundo interno e externo [74]."
+},
+{
+pergunta: "No RPAS, o que Blend% (Percentage of Blends) baixo pode indicar?",
+alternativas: [
+"Processamento de informação com riqueza",
+"Fácil compreensão de si e do outro",
+"Capacidade de síntese complexa",
+"Processamento intelectual marcado por negligência e baixa atenção aos detalhes"
+],
+correta: "Processamento intelectual marcado por negligência e baixa atenção aos detalhes",
+justificativa: "Blend%: Quando baixo, pode indicar processamento intelectual marcado por negligência e baixa atenção aos detalhes [74]."
+},
+{
+pergunta: "No RPAS, o que um Sy (Sintetizado) baixo a médio pode indicar?",
+alternativas: [
+"Capacidade de realizar sínteses complexas",
+"Facilidade na compreensão de ideias complexas",
+"Pensamento simples ou linear",
+"Operações psicológicas ricas"
+],
+correta: "Pensamento simples ou linear",
+justificativa: "Sy: Quando baixo a médio, pode haver o pensamento simples ou linear [75]."
+},
+{
+pergunta: "No RPAS, se um mesmo organismo realiza um movimento ativo e passivo simultaneamente (ex: gritando e com braços levantados), qual código de Movimento prevalece?",
+alternativas: [
+"O passivo (Mp)",
+"O ativo (Ma)",
+"O código a-p",
+"Nenhum código de movimento"
+],
+correta: "O ativo (Ma)",
+justificativa: "Por se tratar de um mesmo organismo, consideramos a sobreposição do movimento ativo. Logo, será Ma [36]."
+},
+{
+pergunta: "No Rorschach RPAS, qual é a regra geral para a codificação de Códigos Cognitivos em uma resposta?",
+alternativas: [
+"Apenas um código cognitivo por resposta",
+"Atribuir um código cognitivo para cada verbalização ou elemento perceptivo",
+"Codificar apenas o código mais grave presente",
+"Ignorar códigos cognitivos se houver determinantes"
+],
+correta: "Atribuir um código cognitivo para cada verbalização ou elemento perceptivo",
+justificativa: "Uma resposta poderá ter mais de um código cognitivo, porém, seguiremos a regra: Devemos atribuir um código cognitivo para cada verbalização ou elemento perceptivo [61, 62]."
+},
+{
+pergunta: "Segundo as fontes, quais são alguns dos domínios considerados na interpretação do Rorschach RPAS?",
+alternativas: [
+"Domínio Motor e Sensorial",
+"Domínio Familiar e Social",
+"Domínio do engajamento e processamento cognitivo, Domínio de percepção e pensamento, Domínio de Stress e Distress",
+"Domínio Financeiro e Profissional"
+],
+correta: "Domínio do engajamento e processamento cognitivo, Domínio de percepção e pensamento, Domínio de Stress e Distress",
+justificativa: "As fontes listam e descrevem os domínios de interpretação, incluindo Domínio do engajamento e processamento cognitivo [73], Domínio de percepção e pensamento [77], Domínio de Stress e Distress [79], e Domínio de representação de si e outros [80]."
+},
+{
+pergunta: "No domínio de representação de si e outros, o que um V-Comp (Composto de Vigilância) muito alto pode indicar, especialmente em sujeitos com teste de realidade mais adequado?",
+alternativas: [
+"Flexibilidade cognitiva",
+"Uma personalidade paranoica mais organizada",
+"Capacidade para relacionamentos saudáveis",
+"Dependência"
+],
+correta: "Uma personalidade paranoica mais organizada",
+justificativa: "V-Comp (composto de vigilância): Quando muito alto, pode indicar inflexibilidade, persecutório. Pode indicar uma personalidade paranoica mais organizada em casos de sujeitos com teste de realidade mais adequado [81]."
+},
+{
+pergunta: "Qual o peso do código cognitivo DR2 (Resposta Desviante grave) na regra de códigos sobrepostos?",
+alternativas: [
+"1",
+"3",
+"5",
+"6"
+],
+correta: "6",
+justificativa: "Código Peso ... DR2 6 [64]."
+},
+{
+pergunta: "Qual o peso do código cognitivo FAB1 (Combinação Fabulada leve) na regra de códigos sobrepostos?",
+alternativas: [
+"2",
+"4",
+"5",
+"7"
+],
+correta: "4",
+justificativa: "Código Peso ... FAB1 4 [64]."
+},
+{
+pergunta: "Qual o peso do código cognitivo CON (Contaminação) na regra de códigos sobrepostos?",
+alternativas: [
+"4",
+"5",
+"6",
+"7"
+],
+correta: "7",
+justificativa: "Código Peso ... CON 7 [64]."
+},
+{
+pergunta: "No contexto acadêmico apresentado nas fontes, quais escores no domínio de percepção e pensamento são explicitamente mencionados como 'baixos' ou 'nada a interpretar'?",
+alternativas: [
+"Popular (P)",
+"FQo%",
+"EII3, TPCOMP, ScComp, V-Comp",
+"MOR"
+],
+correta: "EII3, TPCOMP, ScComp, V-Comp",
+justificativa: "Para a interpretação, realizar os cálculos de: ... EII3, TPCOMP, ScComp, V-Comp = baixo... ScComp (Para o trabalho: nada a interpretar)... V-Comp (Para o trabalho: nada a interpretar) [16, 79, 81]."
+},
+{
+pergunta: "Na interpretação, o que um FQo% baixo associado a um FQ- alto indica?",
+alternativas: [
+"Saúde psicológica",
+"Adequado teste de realidade",
+"Problemas de teste de realidade",
+"Abordagem de vida individualista sem patologia"
+],
+correta: "Problemas de teste de realidade",
+justificativa: "FQo%: Quando baixo, é importante verificar se há junto problemas de teste de realidade (FQ- alto) [79]."
+},
+{
+pergunta: "A codificação de Conteúdo Ay (Antropologia) inclui:",
+alternativas: [
+"Desenhos e esculturas",
+"Itens de vestuário",
+"Um totem, cocar de cacique, Torre Eiffel",
+"Órgãos internos"
+],
+correta: "Um totem, cocar de cacique, Torre Eiffel",
+justificativa: "Ay = Conteúdo de antropologia. Ex.: um totem, cocar do cacique X, Torre Eiffel etc. [23]."
+},
+{
+pergunta: "Qual regra se aplica ao codificar Ay e Art em uma mesma resposta?",
+alternativas: [
+"Sempre codificar ambos",
+"Nunca codificar ambos",
+"Não codificar Ay e Art em uma mesma resposta sem uma justificativa forte",
+"Codificar apenas o mais relevante"
+],
+correta: "Não codificar Ay e Art em uma mesma resposta sem uma justificativa forte",
+justificativa: "Não codificar Ay e Art em uma mesma resposta sem uma justificativa forte [23]."
+},
+{
+pergunta: "No RPAS, qual código de Conteúdo é usado para objetos e conteúdos que não se encaixam em nenhuma outra categoria?",
+alternativas: [
+"Art",
+"Ay",
+"Cg",
+"NC"
+],
+correta: "NC",
+justificativa: "NC = Objetos e conteúdos que não são classificados como nenhum dos anteriores. Objetos domésticos, abstrações, etc. [26]."
+},
+{
+pergunta: "Na distinção entre A/Ad e H/Hd, qual a importância da Fase de Esclarecimento (FE)?",
+alternativas: [
+"É onde o avaliado pode mudar a resposta original",
+"É onde o avaliador pode induzir a resposta correta",
+"É onde se esclarece se o avaliado viu a figura inteira ou apenas partes, influenciando a codificação",
+"A Fase de Esclarecimento não tem importância para essa distinção"
+],
+correta: "É onde se esclarece se o avaliado viu a figura inteira ou apenas partes, influenciando a codificação",
+justificativa: "Atentar-se à Fase de Esclarecimento (FE). A resposta pode ser “Uma mulher”, dando a noção de corpo inteiro. Porém, no inquérito (FE), são descritos apenas cabeça, olhos, boca, nariz e pescoço. O código é Hd [27]."
+},
+{
+pergunta: "No RPAS, o que uma resposta com objetos com forma definida e outro com forma indefinida, com interação, seria codificada?",
+alternativas: [
+"Apenas Sy",
+"Apenas Vg",
+"Nem Sy e nem Vg",
+"Sy + Vg"
+],
+correta: "Sy + Vg",
+justificativa: "Sy + Vg: Quando há respostas com objetos com forma definida e outro com forma indefinida, com interação [28]."
+},
+{
+pergunta: "No RPAS, o que uma resposta com forma, sem interação entre os perceptos, seria codificada?",
+alternativas: [
+"Sy",
+"Vg",
+"Nem Sy e nem Vg",
+"Sy + Vg"
+],
+correta: "Nem Sy e nem Vg",
+justificativa: "Nem Sy e nem Vg: Respostas com forma, sem interação entre os perceptos [29]."
+},
+{
+pergunta: "No RPAS, quando a Cor Arbitrária é utilizada (avaliado atribui uma cor), há grandes chances de a codificação do determinante ser:",
+alternativas: [
+"C",
+"CF",
+"FC",
+"C'"
+],
+correta: "FC",
+justificativa: "A cor arbitrária é quando o avaliado atribui uma cor ao percepto. Ex.: Peixe vermelho. Nesses casos há grandes chances de a codificação ser FC, visto que... a forma é dominante para determina-los [39]."
+},
+{
+pergunta: "Em qual coluna do Sumário de Codificação são inseridos os códigos de Determinantes?",
+alternativas: [
+"Cognitive",
+"Content",
+"Loc",
+"Determinants"
+],
+correta: "Determinants",
+justificativa: "Determinantes: Inseri-los na coluna “Determinants” [88]."
+},
+{
+pergunta: "Em qual coluna do Sumário de Codificação são inseridos os códigos Cognitivos?",
+alternativas: [
+"Determinants",
+"Content",
+"Cognitive",
+"Loc"
+],
+correta: "Cognitive",
+justificativa: "Códigos Cognitivos: Cada código cognitivo possui a sua abreviação (sigla) e, no sumário de codificação, inseriremos na coluna “Cognitive” [44, 45]."
+},
+{
+pergunta: "Qual o peso do código cognitivo PEC (Lógica Peculiar) na regra de códigos sobrepostos?",
+alternativas: [
+"3",
+"4",
+"5",
+"6"
+],
+correta: "5",
+justificativa: "Código Peso ... PEC 5 [64]."
+},
+{
+pergunta: "Qual o peso do código cognitivo INC1 (Combinação Incongruente leve) na regra de códigos sobrepostos?",
+alternativas: [
+"1",
+"2",
+"3",
+"4"
+],
+correta: "2",
+justificativa: "Código Peso ... INC1 2 [64]."
+},
+{
+pergunta: "Qual o peso do código cognitivo INC2 (Combinação Incongruente grave) na regra de códigos sobrepostos?",
+alternativas: [
+"2",
+"3",
+"4",
+"5"
+],
+correta: "4",
+justificativa: "Código Peso ... INC2 4 [64]."
+},
+{
+pergunta: "Qual o peso do código cognitivo FAB2 (Combinação Fabulada grave) na regra de códigos sobrepostos?",
+alternativas: [
+"4",
+"5",
+"6",
+"7"
+],
+correta: "7",
+justificativa: "Código Peso ... FAB2 7 [64]."
+},
+{
+pergunta: "Quais códigos cognitivos têm o mesmo peso máximo (7) na regra de códigos sobrepostos?",
+alternativas: [
+"DV2 e DR2",
+"PEC e INC2",
+"FAB2 e CON",
+"DR1 e FAB1"
+],
+correta: "FAB2 e CON",
+justificativa: "Código Peso ... FAB2 7 CON 7 [64]."
+},
+{
+pergunta: "No RPAS, se uma resposta incluir INC1 e FAB1 (ex: dois ursos com as mãos (INC1) juntas e rezando (FAB1)), qual código cognitivo prevalecerá segundo a regra?",
+alternativas: [
+"INC1",
+"FAB1",
+"Ambos serão codificados",
+"O mais grave entre eles"
+],
+correta: "FAB1",
+justificativa: "Ex.: dois ursos com as mãos (INC1) juntas e rezando (FAB1). Nesse caso, ficaria FAB1. Código Peso ... INC1 2 FAB1 4 [61, 62, 64]."
+},
+{
+pergunta: "Qual o peso do código cognitivo DV1 (Verbalização Desviante leve) na regra de códigos sobrepostos?",
+alternativas: [
+"1",
+"2",
+"3",
+"4"
+],
+correta: "1",
+justificativa: "Código Peso DV1 1 [64]."
+},
+{
+pergunta: "Qual o peso do código cognitivo DV2 (Verbalização Desviante grave) na regra de códigos sobrepostos?",
+alternativas: [
+"1",
+"2",
+"3",
+"4"
+],
+correta: "2",
+justificativa: "Código Peso ... DV2 2 [64]."
+},
+{
+pergunta: "Qual o peso do código cognitivo DR1 (Resposta Desviante leve) na regra de códigos sobrepostos?",
+alternativas: [
+"1",
+"2",
+"3",
+"4"
+],
+correta: "3",
+justificativa: "Código Peso ... DR1 3 [64]."
+},
+{
+pergunta: "No Ludodiagnóstico, o que a combinação simbólica de animais domésticos e animais selvagens pode representar?",
+alternativas: [
+"A energia psíquica",
+"A relação materno-filial",
+"A díade 'Superego x Id'",
+"A capacidade de síntese"
+],
+correta: "A díade 'Superego x Id'",
+justificativa: "O conjunto: animais domésticos + animais selvagens = díade “Superego x Id” [13]."
+},
+{
+pergunta: "No RPAS, quais códigos de conteúdo podem aparecer junto de Sx (Sexual)?",
+alternativas: [
+"Apenas H",
+"Apenas Ad",
+"Hd ou An também",
+"Art ou Ay"
+],
+correta: "Hd ou An também",
+justificativa: "Junto de Sx, pode aparecer Hd ou An também [26]."
+},
+{
+pergunta: "Quando o avaliado corrige um erro na verbalização ('Um veado com antenas...não, chifres!'), o que acontece com a codificação de DV?",
+alternativas: [
+"DV2 é codificado",
+"DV1 é codificado",
+"DV1 seria retirado",
+"O código se mantém, mas com um asterisco"
+],
+correta: "DV1 seria retirado",
+justificativa: "Os DV podem ser corrigidos pelo próprio avaliado. Nesse caso, poderemos reduzir de DV2 para DV1 ou tirar o DV. Exemplos de correção: “Um veado com antenas...não, chifres!”. Aqui o DV1 seria retirado [48, 91]."
+},
+{
+pergunta: "Quais das seguintes frases NÃO seriam codificadas como Resposta Desviante (DR) no RPAS, segundo as fontes?",
+alternativas: [
+"“Devo estar com fome”",
+"“Um monstro escuro que está prestes a me pegar”",
+"“Quando a gente chora muito, fica mais macio...”",
+"“Um vaso lindo. Se essa parte pudesse falar, ela diria “asa””"
+],
+correta: "“Devo estar com fome”",
+justificativa: "Não codificamos DR em comentários como: “Devo estar com fome”, “Tenho visto filme demais...”, “Você vai achar isso bobo, mas...”, “Cara, esse teste é difícil!” [83, 92]."
+},
+{
+pergunta: "No RPAS, como se classifica um Escore Z entre -0,67 e 0,67?",
+alternativas: [
+"Extremamente baixo",
+"Médio Baixo",
+"Médio",
+"Médio Alto"
+],
+correta: "Médio",
+justificativa: "Classificação do Escore Z: Escore Z -0,67 a 0,67 Classificação Médio [93, 94]."
+},
+{
+pergunta: "No RPAS, como se classifica um Escore Z entre 1,34 e 2,00?",
+alternativas: [
+"Médio Alto",
+"Muito alto",
+"Extremamente alto",
+"Médio"
+],
+correta: "Muito alto",
+justificativa: "Classificação do Escore Z: Escore Z 1,34 a 2,00 Classificação Muito alto [93, 94]."
+},
+{
+pergunta: "No RPAS, como se classifica um Escore Z entre 2,1 e 3,00?",
+alternativas: [
+"Muito alto",
+"Extremamente alto",
+"Médio Alto",
+"Médio"
+],
+correta: "Extremamente alto",
+justificativa: "Classificação do Escore Z: Escore Z 2,1 a 3,00 Classificação Extremamente alto [93, 94]."
+},
+{
+pergunta: "No RPAS, como se classifica um Escore Z entre -1,33 e -0,66?",
+alternativas: [
+"Extremamente baixo",
+"Muito Baixo",
+"Médio Baixo",
+"Médio"
+],
+correta: "Médio Baixo",
+justificativa: "Classificação do Escore Z: Escore Z -1,33 a -0,66 Classificação Médio Baixo [93, 94]."
+},
+{
+pergunta: "No RPAS, como se classifica um Escore Z entre -2,25 e -1,50?",
+alternativas: [
+"Extremamente baixo",
+"Muito Baixo",
+"Médio Baixo",
+"Médio"
+],
+correta: "Muito Baixo",
+justificativa: "Classificação do Escore Z: Escore Z -2,25 a -1,50 Classificação Muito Baixo [93, 94]."
+},
+{
+pergunta: "No RPAS, como se classifica um Escore Z entre -3,00 e -2,25?",
+alternativas: [
+"Extremamente baixo",
+"Muito Baixo",
+"Médio Baixo",
+"Médio"
+],
+correta: "Extremamente baixo",
+justificativa: "Classificação do Escore Z: Escore Z -3,00 a -2,25 Classificação Extremamente baixo [93, 94]."
+},
+{
+pergunta: "Qual a primeira etapa após a codificação completa no Rorschach RPAS?",
+alternativas: [
+"Interpretação",
+"Cálculo do Escore Z",
+"Realização das contagens (unidades) de cada código",
+"Classificação do Escore Z"
+],
+correta: "Realização das contagens (unidades) de cada código",
+justificativa: "Após realizarmos toda a codificação, realizaremos a contagem (unidades) de cada código que apareceu [65, 66]."
+},
+{
+pergunta: "No Ludodiagnóstico, por que ter materiais de fácil reposição é um cuidado importante no setting?",
+alternativas: [
+"Para que os brinquedos sejam sempre novos",
+"Porque as crianças não gostam de brinquedos usados",
+"Para que a brincadeira não seja interrompida por falta ou quebra de materiais",
+"Para que o psicólogo possa levar materiais para casa"
+],
+correta: "Para que a brincadeira não seja interrompida por falta ou quebra de materiais",
+justificativa: "É importante que a(o) profissional tenha materiais de fácil reposição [8]."
+},
+{
+pergunta: "No RPAS, qual o objetivo de transformar a pontuação bruta em Escore Z?",
+alternativas: [
+"Obter a classificação final do avaliado",
+"Comparar a pontuação individual com uma média de referência, facilitando a interpretação normativa",
+"Simplificar o cálculo das variáveis",
+"Identificar códigos cognitivos presentes na resposta"
+],
+correta: "Comparar a pontuação individual com uma média de referência, facilitando a interpretação normativa",
+justificativa: "O cálculo do Escore Z é uma transformação estatística que permite comparar a pontuação de um indivíduo com a média de um grupo normativo (representada pela média da tabela e desvio padrão), o que auxilia na interpretação do quão comum ou incomum é essa pontuação. As fontes descrevem o cálculo usando média e desvio padrão de uma tabela e a classificação do Z-score, indicando esse objetivo [71, 72, 93-96]."
+},
+{
+pergunta: "No Ludodiagnóstico, qual cuidado deve ser tomado para que a criança não sinta que houve invasão de sua caixa lúdica?",
+alternativas: [
+"Deixar a caixa destrancada",
+"Permitir que outras crianças usem a caixa dela e quebrem brinquedos",
+"Não permitir que outra criança utilize a caixa lúdica dela, ou que brinquedos sejam quebrados por outros",
+"Mudar os brinquedos de lugar dentro da caixa"
+],
+correta: "Não permitir que outra criança utilize a caixa lúdica dela, ou que brinquedos sejam quebrados por outros",
+justificativa: "Sair de uma sessão deixando a caixa lúdica em um estado e, posteriormente ao chegar, encontra-la noutro, a criança poderá experienciar uma sensação de invasão ou falta de cuidado para consigo mesma; Ex.: deixar com que outra criança utilize a caixa lúdica dela; brinquedos que foram quebrados por outra criança... [9]."
+},
+{
+pergunta: "No RPAS, a codificação de F (Forma Pura) é utilizada quando...",
+alternativas: [
+"A resposta envolve movimento",
+"A resposta é determinada apenas pela cor",
+"A resposta é determinada apenas pelo sombreado",
+"Nenhum dos outros determinantes explicados aparece, e a resposta é determinada apenas pela forma"
+],
+correta: "Nenhum dos outros determinantes explicados aparece, e a resposta é determinada apenas pela forma",
+justificativa: "Quando nenhum dos determinantes explicados aparecer, nós codificamos F. Ou seja, o que determinou a resposta do sujeito foi a forma [43]."
+},
+{
+pergunta: "No RPAS, a presença do código cognitivo CON (Contaminação) é considerada:",
+alternativas: [
+"Comum",
+"Rara",
+"Sempre presente em sujeitos saudáveis",
+"Exclusiva de crianças"
+],
+correta: "Rara",
+justificativa: "Contaminação (CON): É um código extremamente raro [59, 60]."
+},
+{
+pergunta: "No RPAS, o que pode indicar um M/MC mediano?",
+alternativas: [
+"Pensamento antes de agir",
+"Tendência a encarar situações puramente pela emoção",
+"Em alguns momentos o sujeito pode ter ações orientadas pela emoção",
+"Estilo de enfrentamento pela ponderação"
+],
+correta: "Em alguns momentos o sujeito pode ter ações orientadas pela emoção",
+justificativa: "M/MC: ...Quando mediano, pode ser que em alguns momentos o sujeito tenha ações orientadas pela emoção [76]."
+},
+{
+pergunta: "No contexto acadêmico do RPAS apresentado nas fontes, o que significa a interpretação para EII-3 ser 'recursos egóicos adequados para lidar com os problemas do dia a dia'?",
+alternativas: [
+"Que escores altos em EII-3 indicam recursos egóicos inadequados",
+"Que escores baixos em EII-3 indicam recursos egóicos adequados",
+"Que a pontuação em EII-3 para este trabalho específico é considerada como indicando recursos egóicos adequados, sem necessidade de maior aprofundamento para o contexto do estudo",
+"Que EII-3 é sempre interpretado dessa maneira, independente do escore"
+],
+correta: "Que a pontuação em EII-3 para este trabalho específico é considerada como indicando recursos egóicos adequados, sem necessidade de maior aprofundamento para o contexto do estudo",
+justificativa: "EII-3: para o trabalho, considerar: recursos egóicos adequados para lidar com os problemas do dia a dia [77]."
+},
+{
+pergunta: "No contexto acadêmico do RPAS, o que significa a interpretação para SC-Comp (Composto de Preocupação com o suicídio) ser 'nada a interpretar'?",
+alternativas: [
+"Que o sujeito não apresenta risco de suicídio",
+"Que o escore em SC-Comp sempre indica baixo risco",
+"Que para os fins deste trabalho específico, a variável SC-Comp não será interpretada, embora na prática clínica ela seja relevante para investigar risco de suicídio",
+"Que escores muito altos em SC-Comp não indicam risco de suicídio"
+],
+correta: "Que para os fins deste trabalho específico, a variável SC-Comp não será interpretada, embora na prática clínica ela seja relevante para investigar risco de suicídio",
+justificativa: "Composto de Preocupação com o suicídio (SC-Comp): ...Para o trabalho: nada a interpretar [79]."
+},
+{
+pergunta: "No contexto acadêmico do RPAS, o que significa a interpretação para V-Comp (Composto de Vigilância) ser 'nada a interpretar'?",
+alternativas: [
+"Que o sujeito não possui um estilo cognitivo vigilante",
+"Que escores altos em V-Comp indicam flexibilidade",
+"Que a variável V-Comp não será interpretada para os fins deste trabalho específico, embora na prática clínica escores altos/muito altos possam indicar cautela, distanciamento ou personalidade paranoica",
+"Que V-Comp só é relevante para a interpretação em crianças"
+],
+correta: "Que a variável V-Comp não será interpretada para os fins deste trabalho específico, embora na prática clínica escores altos/muito altos possam indicar cautela, distanciamento ou personalidade paranoica",
+justificativa: "V-Comp (composto de vigilância): ...Para o trabalho: nada a interpretar [81]."
+},
+{
+pergunta: "No Rorschach RPAS, o Atlas de Localização é consultado para:",
+alternativas: [
+"Identificar os conteúdos presentes na resposta",
+"Consultar a qualidade formal da resposta",
+"Consultar os contornos referentes a cada tipo de localização (D ou Dd)",
+"Determinar o tipo de determinante da resposta"
+],
+correta: "Consultar os contornos referentes a cada tipo de localização (D ou Dd)",
+justificativa: "Atlas de Localização: Está entre as páginas 218 e 296 do manual. Há cada uma das manchas, com os contornos referentes a cada tipo de localização (D ou Dd) [18, 19]."
+},
+{
+pergunta: "Se um detalhe apontado pelo avaliado não estiver no Atlas de Localização, qual código é utilizado?",
+alternativas: [
+"D99",
+"Dd99",
+"W99",
+"SR99"
+],
+correta: "Dd99",
+justificativa: "Se o detalhe não tiver no mapa, codificar Dd99 [19]."
+},
+{
+pergunta: "No Ludodiagnóstico, a técnica do brincar foi aplicada por quem, segundo a citação inicial?",
+alternativas: [
+"Carlos Eduardo Bovenzo Filho",
+"Melanie Klein",
+"Sigmund Freud",
+"Donald Winnicott"
+],
+correta: "Melanie Klein",
+justificativa: "A técnica do Brincar: 'Ao interpretar não apenas as palavras da criança mas também suas atividades com seus brinquedos, apliquei esse princípio básico à mente da criança...' (Klein, 1953/1955, p.169) [1]."
+},
+{
+pergunta: "Qual é a unidade mínima de codificação no Rorschach RPAS, especialmente para códigos cognitivos?",
+alternativas: [
+"A resposta inteira",
+"A prancha completa",
+"Cada verbalização ou elemento perceptivo",
+"O teste completo"
+],
+correta: "Cada verbalização ou elemento perceptivo",
+justificativa: "Uma resposta poderá ter mais de um código cognitivo, porém, seguiremos a regra: Devemos atribuir um código cognitivo para cada verbalização ou elemento perceptivo [61, 62]."
+},
+{
+pergunta: "No cálculo do Escore Z, o 'Desvio Padrão' representa o quê na fórmula?",
+alternativas: [
+"A pontuação bruta do avaliado",
+"A média da tabela normativa",
+"Uma medida da dispersão dos dados na amostra normativa da tabela",
+"O resultado final do Escore Z"
+],
+correta: "Uma medida da dispersão dos dados na amostra normativa da tabela",
+justificativa: "A fórmula do Escore Z utiliza o 'Desvio Padrão' da tabela, que é uma medida estatística da dispersão dos dados em torno da média [71, 72]."
+},
+{
+pergunta: "Para efeitos de trabalho acadêmico, as fontes mencionam que nem todas as variáveis do RPAS serão calculadas/interpretadas. Cite uma variável que é listada para cálculo e interpretação.",
+alternativas: [
+"CON",
+"DV1",
+"Total R (respostas)",
+"R-Opt"
+],
+correta: "Total R (respostas)",
+justificativa: "Para efeitos de trabalho acadêmico, vocês não calcularão todas as variáveis. Algumas foram previamente selecionadas [65, 66]. A lista para interpretação inclui Total R [16]."
+},
+{
+pergunta: "A classificação do Escore Z no RPAS é realizada consultando-se:",
+alternativas: [
+"O Atlas de Localização",
+"O Sumário de Codificação",
+"Uma tabela de classificação fornecida",
+"O peso dos códigos cognitivos"
+],
+correta: "Uma tabela de classificação fornecida",
+justificativa: "Após realizarmos o cálculo de todas as variáveis em Escore Z, iremos para a classificação de cada uma delas; Com isso, consultaremos a classificação na tabela disponibilizada [93-96]."
+},
+{
+pergunta: "Qual a principal premissa da codificação no Rorschach RPAS, segundo as fontes?",
+alternativas: [
+"Codificar o que o avaliador pensa que a resposta significa",
+"Codificar o que o indivíduo viu e descreveu durante a avaliação",
+"Codificar apenas respostas populares",
+"Codificar apenas respostas com códigos cognitivos"
+],
+correta: "Codificar o que o indivíduo viu e descreveu durante a avaliação",
+justificativa: "Codificar o que o indivíduo viu e descreveu durante a avaliação: o indivíduo deve ter autonomia para falar o que viu, sem influência do avaliador [89]."
+},
+{
+pergunta: "Na organização do setting para Ludoterapia, qual o cuidado com materiais pontiagudos?",
+alternativas: [
+"Devem estar em grande quantidade",
+"Devem ser guardados fora do alcance",
+"Cuidado com móveis pontiagudos; as janelas devem ser teladas",
+"Devem ser utilizados apenas sob supervisão direta"
+],
+correta: "Cuidado com móveis pontiagudos; as janelas devem ser teladas",
+justificativa: "Alguns cuidados devem ser tomados quando se fala na organização do setting para psicoterapia infantil: Cuidado com móveis pontiagudos; As janelas devem ser teladas [4]."
+},
+{
+pergunta: "Qual a diferença de codificação entre 'um urso sem rabo' e 'uma galinha correndo com a cabeça cortada'?",
+alternativas: [
+"'Urso sem rabo' é Ad, 'galinha' é A",
+"'Urso sem rabo' é A, 'galinha' é Ad",
+"Ambos são Ad",
+"Ambos são A"
+],
+correta: "'Urso sem rabo' é A, 'galinha' é Ad",
+justificativa: "Para codificarmos A ou H, a figura vista deve ser capaz de viver com a parte que falta. Exemplo: “Um urso sem o rabo” é “A”, enquanto que uma galinha correndo com a cabeça cortada é Ad [26]."
+},
+{
+pergunta: "No RPAS, quando se codifica a-p (Movimento Ativo-Passivo)?",
+alternativas: [
+"Quando há um único objeto com movimento ativo e passivo",
+"Quando há dois objetos com movimento ativo",
+"Quando há dois objetos diferentes, cada qual com uma ação distinta em termos de intensidade (ativo e passivo)",
+"Quando há movimento inanimado e humano"
+],
+correta: "Quando há dois objetos diferentes, cada qual com uma ação distinta em termos de intensidade (ativo e passivo)",
+justificativa: "Movimento Ativo-Passivo (a-p): codificamos a-p quando existem dois objetos diferentes, cada qual com uma ação distinta em termos de intensidade [35]."
+},
+{
+pergunta: "Em qual coluna do Sumário de Codificação são inseridos os códigos de Conteúdo?",
+alternativas: [
+"Loc",
+"Determinants",
+"Cognitive",
+"Content"
+],
+correta: "Content",
+justificativa: "Conteúdos: Aqui codificaremos, na coluna “Content”, os tipos de conteúdos que aparecem em cada uma das respostas do avaliado [19]."
+},
+{
+pergunta: "No RPAS, o que um Escore Z de -2,50 na variável X indicaria, de acordo com a tabela de classificação?",
+alternativas: [
+"Médio",
+"Médio Baixo",
+"Muito Baixo",
+"Extremamente baixo"
+],
+correta: "Extremamente baixo",
+justificativa: "Classificação do Escore Z: Escore Z -3,00 a -2,25 Extremamente baixo [93, 94]. Um Z-score de -2,50 se encontra nesta faixa."
+},
+{
+pergunta: "No RPAS, o que um Escore Z de 1,50 na variável Y indicaria, de acordo com a tabela de classificação?",
+alternativas: [
+"Médio Alto",
+"Muito alto",
+"Extremamente alto",
+"Médio"
+],
+correta: "Muito alto",
+justificativa: "Classificação do Escore Z: Escore Z 1,34 a 2,00 Muito alto [93, 94]. Um Z-score de 1,50 se encontra nesta faixa."
+},
+{
+pergunta: "No RPAS, o que um Escore Z de 0,00 na variável Z indicaria, de acordo com a tabela de classificação?",
+alternativas: [
+"Médio Baixo",
+"Médio",
+"Médio Alto",
+"Muito alto"
+],
+correta: "Médio",
+justificativa: "Classificação do Escore Z: Escore Z -0,67 a 0,67 Médio [93, 94]. Um Z-score de 0,00 se encontra nesta faixa."
+},
+{
+pergunta: "No Rorschach RPAS, a consulta ao manual entre as páginas 219 e 296 é utilizada para:",
+alternativas: [
+"Determinar o tipo de código cognitivo",
+"Consultar a Qualidade Formal (FQ)",
+"Consultar as Respostas Populares (P)",
+"Determinar os determinantes de sombreado"
+],
+correta: "Consultar a Qualidade Formal (FQ)",
+justificativa: "Os FQ são consultados entre as páginas 219 e 296 [29]."
+},
+{
+pergunta: "Qual a regra de prevalência entre os códigos de Qualidade Formal (FQ)?",
+alternativas: [
+"FQo >> FQu >> FQ-",
+"FQ- >> FQu >> FQo",
+"FQu >> FQ- >> FQo",
+"FQ- >> FQo >> FQu"
+],
+correta: "FQ- >> FQu >> FQo",
+justificativa: "Segue, na ordem de importância: FQ-, FQu e Fqo [30]."
+},
+{
+pergunta: "Em qual coluna do Sumário de Codificação são inseridos os códigos Pr e Pu?",
+alternativas: [
+"Loc",
+"Or",
+"R-Opt (R-Otimizado)",
+"Content"
+],
+correta: "R-Opt (R-Otimizado)",
+justificativa: "Pedir (Pr) e Puxar (Pu): São codificados na última coluna, nomeada de R-Opt (R-Otimizado) [15]."
+},
+{
+pergunta: "No RPAS, qual o código utilizado para uma Combinação Incongruente onde há uma contradição entre a falta de uma parte e uma ação (ex: 'Uma ave sem boca, mas comendo')?",
+alternativas: [
+"INC não é codificado",
+"INC1",
+"INC2",
+"FAB1"
+],
+correta: "INC é codificado",
+justificativa: "Codificaríamos INC se: “Uma ave sem boca, mas comendo”. (Há a contradição entre comer e boca) [85, 90]."
+},
+{
+pergunta: "Qual a definição de FAB (Combinações Fabuladas)?",
+alternativas: [
+"Combinações implausíveis de características de um objeto",
+"Verbalizações desviantes com palavras bizarras",
+"Interação impossível entre dois ou mais objetos",
+"Raciocínio peculiar e confuso"
+],
+correta: "Interação impossível entre dois ou mais objetos",
+justificativa: "Combinações Fabuladas (FAB1 e FAB2): Envolve duas entidades mutualmente integradas, mas que são impossíveis [85, 86]. O FAB envolverá a interação entre dois ou mais objetos, interação esta impossível [56, 58]."
+},
+{
+pergunta: "No RPAS, uma resposta como 'Mickey Mouse, nu, devorando o Pateta' conteria quais códigos cognitivos?",
+alternativas: [
+"Apenas FAB1",
+"Apenas INC1",
+"INC1 e FAB1",
+"INC2 e FAB2"
+],
+correta: "INC1 e FAB1",
+justificativa: "Ex.: “Mickey Mouse, nu, devorando o Pateta. Temos o INC1 (Mickey Nu) e FAB1 (devorando o pateta) [57, 87]."
+},
+{
+pergunta: "Segundo Klein, além dos brinquedos, o que mais pode envolver a atribuição de papéis ao profissional na técnica do brincar?",
+alternativas: [
+"Apenas os desenhos da criança",
+"Muitas atividades da criança",
+"Apenas as falas da criança",
+"O comportamento dos pais"
+],
+correta: "Muitas atividades da criança",
+justificativa: "Para Klein (1953/1955), além dos brinquedos, muitas atividades da criança podem envolver a atribuição de papéis ao profissional [1]."
+},
+{
+pergunta: "Qual a principal função da justificativa na estrutura da resposta solicitada?",
+alternativas: [
+"Apenas preencher espaço",
+"Argumentar contra a resposta correta",
+"Explicar por que a alternativa correta está certa, baseando-se diretamente nas fontes fornecidas",
+"Adicionar informações externas sobre o tema"
+],
+correta: "Explicar por que a alternativa correta está certa, baseando-se diretamente nas fontes fornecidas",
+justificativa: "A estrutura solicitada inclui um campo 'justificativa' que deve explicar a resposta correta. Além disso, a instrução geral é fornecer um resposta que seja diretamente suportada pelos fontes e citada apropriadamente [instrução geral]."
+},
+{
+pergunta: "No RPAS, a interpretação no domínio de percepção e pensamento pode ser indicativa de quais psicopatologias?",
+alternativas: [
+"Transtornos de ansiedade",
+"Transtornos de humor",
+"Transtornos de personalidade",
+"Psicopatologias como o espectro da esquizofrenia"
+],
+correta: "Psicopatologias como o espectro da esquizofrenia",
+justificativa: "Os aspectos interpretativos [do domínio de percepção e pensamento] podem ser indicativos de psicopatologias como o espectro da esquizofrenia [77]."
+},
+{
+pergunta: "No RPAS, o que um TP-Comp alto (mas não muito alto) pode indicar?",
+alternativas: [
+"Recursos egóicos adequados",
+"Saúde psicológica",
+"Problemas para pensar com clareza e possível vulnerabilidade a estados psicóticos ou borderline",
+"Adequação na forma de ver o mundo"
+],
+correta: "Problemas para pensar com clareza e possível vulnerabilidade a estados psicóticos ou borderline",
+justificativa: "TP-Comp: ...Quando alto, pode indicar problemas para pensar com clareza e possível vulnerabilidade a estados psicóticos ou borderline [77]."
+},
+{
+pergunta: "No RPAS, qual a regra de prevalência entre os determinantes de Sombreado quando há mais de um?",
+alternativas: [
+"V >> T >> Y",
+"T >> V >> Y",
+"Y >> T >> V",
+"Não há regra específica, codificar todos"
+],
+correta: "Não há regra explícita para a prevalência entre V, T, Y se aparecerem juntos, mas Y é o padrão quando V ou T não são claros.",
+justificativa: "As fontes não especificam uma regra de prevalência entre V, T, e Y comparável à de C, CF, C [38]. Elas definem cada um e indicam que Y é o código padrão se V ou T não estiverem claros [39-41]. Portanto, não há uma regra de prevalência listada para V, T, Y juntos."
+},
+{
+pergunta: "No Rorschach RPAS, a consulta às páginas 116 e 117 do manual é utilizada para:",
+alternativas: [
+"Determinar os determinantes de movimento",
+"Consultar a Qualidade Formal (FQ)",
+"Consultar as Respostas Populares (P)",
+"Classificar o Escore Z"
+],
+correta: "Consultar as Respostas Populares (P)",
+justificativa: "Resposta Popular - P: Consultar p. 116 e 117 do manual [30]."
+},
+{
+pergunta: "No Ludodiagnóstico, um dos exemplos de materiais não-estruturados mencionados é:",
+alternativas: [
+"Bonecos",
+"Carrinhos",
+"Massinha de modelar",
+"Jogos de tabuleiro"
+],
+correta: "Massinha de modelar",
+justificativa: "Os materiais não-estruturados envolvem, em grande parte, os gráficos. São materiais que a criança produz algo por meio deles (estrutura). Ex.: folha sulfite, lápis, massinha, cola, tinta lavável, uma bacia e água etc. [7]."
+},
+{
+pergunta: "No RPAS, como se calcula o M/MC?",
+alternativas: [
+"Somando M e MC",
+"Subtraindo MC de M",
+"Dividindo M por MC",
+"Multiplicando M por MC"
+],
+correta: "Dividindo M por MC",
+justificativa: "M/MC: Dividir M por MC [67, 68]."
+},
+{
+pergunta: "Segundo as fontes, o Ludodiagnóstico pode ter outros nomes, quais são?",
+alternativas: [
+"Psicoterapia infantil e Análise do Brincar",
+"Hora do jogo, hora lúdica ou entrevista lúdica",
+"Teste de Apercepção Temática e Teste HTP",
+"Play Therapy e Sandplay"
+],
+correta: "Hora do jogo, hora lúdica ou entrevista lúdica",
+justificativa: "Ludodiagnóstico, hora do jogo, hora lúdica ou entrevista lúdica [3]."
+},
+{
+pergunta: "Na estrutura de codificação do Rorschach, além das palavras, o que mais deve ser codificado?",
+alternativas: [
+"Apenas as emoções do avaliado",
+"O que é visto por palavras e gestos",
+"As interpretações do avaliador",
+"O histórico familiar do avaliado"
+],
+correta: "O que é visto por palavras e gestos",
+justificativa: "Codificar o que é visto por palavras e gestos [14]."
+},
+{
+pergunta: "No RPAS, se o avaliado dissesse 'Um monstro escuro que está prestes a me pegar', o grau de como ele concebe o cartão como real determina:",
+alternativas: [
+"Se o código será DR1 ou DR2",
+"Se o código será FAB1 ou FAB2",
+"Se o código será INC1 ou INC2",
+"Se o código será DV1 ou DV2"
+],
+correta: "Se o código será DR1 ou DR2",
+justificativa: "Outro ponto: tratar a resposta como se fosse real implica em DR. “Um monstro escuro que está prestes a me pegar”. O grau de como o avaliado concebe o cartão como real determina se será 1 ou 2 [51, 52]."
+},
+{
+pergunta: "Qual a característica do Determinante F (Forma pura)?",
+alternativas: [
+"Sempre aparece em misturas (Blends)",
+"É o único determinante que sempre aparece sozinho",
+"É codificado apenas para respostas populares",
+"É o determinante mais grave"
+],
+correta: "É o único determinante que sempre aparece sozinho",
+justificativa: "O único determinante que sempre aparece sozinho é o F. Se codificar F, não se codifica mais nenhum [43]."
+}
 ];
