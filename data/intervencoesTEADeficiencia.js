@@ -3268,22 +3268,6 @@ correta: "Um processo contínuo de negociação e adaptação.",
         justificativa: "Adaptações Razoáveis: Realizar adaptações razoáveis, como fornecer recursos de acessibilidade e flexibilizar horários, é fundamental para atender às necessidades específicas de cada indivíduo e promover sua autonomia [15]."
     },
     {
-        pergunta: "Qual é um dos legados conceituais de Oliver Sacks?",
-        alternativas: [
-            "A validação da teoria da 'Mãe Geladeira'.",
-            "A visão do autismo como uma forma diferente de cognição e percepção, influenciando a neurodiversidade.",
-            "A classificação rígida dos transtornos mentais.",
-            "A
-        alternativas: [
-            "A criação de um ambiente acolhedor e inclusivo.",
-            "O diagnóstico precoce.",
-            "O acesso a terapias.",
-            "A busca por redes de apoio."
-        ],
-        correta: "A criação de um ambiente acolhedor e inclusivo.",
-        justificativa: "Falta de Empatia e Compreensão: A falta de empatia e compreensão por parte da sociedade dificulta a criação de um ambiente acolhedor e inclusivo [25]."
-    },
-    {
         pergunta: "Segundo Lorna Wing, o que o 'Conceito de Espectro' implica sobre o autismo?",
         alternativas: [
             "Que é uma única condição com manifestações idênticas.",
@@ -3337,9 +3321,6 @@ correta: "Um processo contínuo de negociação e adaptação.",
         ],
         correta: "Implementar rampas de acesso, elevadores e equipamentos adaptados.",
         justificativa: "Para mitigar isso, um centro de saúde implementou rampas de acesso, elevadores, equipamentos adaptados e promoveu treinamentos para os profissionais em atendimento inclusivo [106]."
-    },
-    {
-        pergunta e físicas [107]."
     },
     {
         pergunta: "A inclusão digital para pessoas com deficiência envolve adaptar interfaces e softwares para:",
